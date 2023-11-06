@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ba4c1744-99da-4661-a5cf-64b01d679ff5"
+  },
+  "payload": {
+    "id": 819,
+    "name": "Sharon James",
+    "address": "0222 Shannon Walks\nCaseyfort, NV 06495",
+    "job": "Emergency planning/management officer",
+    "score": 0.9846087044556839
+  }
+}

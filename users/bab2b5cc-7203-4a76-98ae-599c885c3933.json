@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bab2b5cc-7203-4a76-98ae-599c885c3933"
+  },
+  "payload": {
+    "id": 555,
+    "name": "Sarah Rice",
+    "address": "63754 Pamela Brooks Suite 716\nSouth Brandon, PR 74397",
+    "job": "Chief of Staff",
+    "score": 0.4671742723508435
+  }
+}

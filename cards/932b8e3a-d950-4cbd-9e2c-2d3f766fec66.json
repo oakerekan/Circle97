@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 263,
+    "user_id": 739,
+    "created_by_name": "Ethan Cole",
+    "updated_at": "2023-10-23 23:10:05",
+    "created_at": "2023-10-23 23:09:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:05",
+    "event_id": "932b8e3a-d950-4cbd-9e2c-2d3f766fec66"
+  }
+}

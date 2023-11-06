@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cccc9b10-1706-4bc4-bc77-cb26080b9eb3"
+  },
+  "payload": {
+    "id": 424,
+    "name": "Joseph Watkins",
+    "address": "PSC 2048, Box 2698\nAPO AA 61824",
+    "job": "Scientist, clinical (histocompatibility and immunogenetics)",
+    "score": 0.06380022028108645
+  }
+}

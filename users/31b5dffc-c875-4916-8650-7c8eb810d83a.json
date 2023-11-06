@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "31b5dffc-c875-4916-8650-7c8eb810d83a"
+  },
+  "payload": {
+    "id": 935,
+    "name": "Elizabeth Wyatt DDS",
+    "address": "PSC 4216, Box 8938\nAPO AA 43985",
+    "job": "Restaurant manager",
+    "score": 0.9429910846152225
+  }
+}

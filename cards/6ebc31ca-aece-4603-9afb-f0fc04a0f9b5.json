@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4085,
+    "created_by_name": "Kelly Weeks",
+    "updated_at": "2023-10-23 23:30:24",
+    "created_at": "2023-10-23 23:23:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:24",
+    "event_id": "6ebc31ca-aece-4603-9afb-f0fc04a0f9b5"
+  }
+}

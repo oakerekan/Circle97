@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cb0e60a6-e9d0-45bc-a62b-580c243d645b"
+  },
+  "payload": {
+    "id": 9,
+    "name": "Kimberly Turner",
+    "address": "80487 Reginald Ranch Apt. 308\nPamelafurt, MI 61779",
+    "job": "Company secretary",
+    "score": 0.08903555384275896
+  }
+}

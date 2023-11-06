@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d0fd55fd-1f23-46b3-ab29-0bfcf52b167e"
+  },
+  "payload": {
+    "id": 896,
+    "name": "Derek Barker",
+    "address": "4867 Carter Run Apt. 207\nNorth Jennifer, HI 81396",
+    "job": "Chartered loss adjuster",
+    "score": 0.8315692119946121
+  }
+}

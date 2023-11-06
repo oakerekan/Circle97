@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2614,
+    "user_id": 570,
+    "created_by_name": "Mrs. Anna Dixon",
+    "updated_at": "2023-10-23 23:20:50",
+    "created_at": "2023-10-23 23:18:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:50",
+    "event_id": "fa19c785-f13c-4015-964c-9fb35507dcd4"
+  }
+}

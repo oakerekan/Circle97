@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d89908eb-5cd3-4572-9f04-caa2bcd48105"
+  },
+  "payload": {
+    "id": 301,
+    "name": "Austin Scott",
+    "address": "721 Thomas River\nKelleyton, NJ 42918",
+    "job": "Sports coach",
+    "score": 0.06498133911909643
+  }
+}

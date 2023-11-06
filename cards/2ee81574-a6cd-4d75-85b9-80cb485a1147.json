@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4576,
+    "user_id": 465,
+    "created_by_name": "Samuel Daniel",
+    "updated_at": "2023-10-23 23:25:11",
+    "created_at": "2023-10-23 23:25:11",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:11",
+    "event_id": "2ee81574-a6cd-4d75-85b9-80cb485a1147"
+  }
+}

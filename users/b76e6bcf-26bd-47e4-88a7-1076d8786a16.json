@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b76e6bcf-26bd-47e4-88a7-1076d8786a16"
+  },
+  "payload": {
+    "id": 107,
+    "name": "Deanna Carlson",
+    "address": "69091 Thomas Ridges\nNew Priscilla, WI 99856",
+    "job": "Surveyor, quantity",
+    "score": 0.9460391105109481
+  }
+}

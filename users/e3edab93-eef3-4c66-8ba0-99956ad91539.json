@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e3edab93-eef3-4c66-8ba0-99956ad91539"
+  },
+  "payload": {
+    "id": 557,
+    "name": "Sean Brewer",
+    "address": "74503 Johnson Forks\nDunlapstad, MA 18764",
+    "job": "Psychiatrist",
+    "score": 0.33081586035217936
+  }
+}

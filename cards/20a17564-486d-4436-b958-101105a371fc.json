@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5752,
+    "user_id": 270,
+    "created_by_name": "Bryce Wright",
+    "updated_at": "2023-10-23 23:29:33",
+    "created_at": "2023-10-23 23:29:33",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:33",
+    "event_id": "20a17564-486d-4436-b958-101105a371fc"
+  }
+}

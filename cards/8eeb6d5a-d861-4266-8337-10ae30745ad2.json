@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1306,
+    "user_id": 837,
+    "created_by_name": "Matthew Oconnell",
+    "updated_at": "2023-10-23 23:13:32",
+    "created_at": "2023-10-23 23:13:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:32",
+    "event_id": "8eeb6d5a-d861-4266-8337-10ae30745ad2"
+  }
+}

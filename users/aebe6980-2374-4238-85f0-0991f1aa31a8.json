@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "aebe6980-2374-4238-85f0-0991f1aa31a8"
+  },
+  "payload": {
+    "id": 68,
+    "name": "Rachel Flores",
+    "address": "692 Hector Grove Suite 755\nHicksbury, VT 88266",
+    "job": "Corporate investment banker",
+    "score": 0.8374646816946357
+  }
+}

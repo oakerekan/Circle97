@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "59c6f975-9dab-481c-a2da-2e784df61c96"
+  },
+  "payload": {
+    "id": 644,
+    "name": "Michael Wood",
+    "address": "63560 Marshall Falls Suite 942\nPort Ronald, GA 09655",
+    "job": "Geochemist",
+    "score": 0.13452933917898846
+  }
+}

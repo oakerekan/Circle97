@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7195e2bc-cee2-4c66-b35f-d0b47512ee5a"
+  },
+  "payload": {
+    "id": 94,
+    "name": "Philip Williams",
+    "address": "PSC 8623, Box 2995\nAPO AE 40083",
+    "job": "Geophysical data processor",
+    "score": 0.5723956382095807
+  }
+}

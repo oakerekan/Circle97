@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2959,
+    "user_id": 365,
+    "created_by_name": "Jennifer Rowland",
+    "updated_at": "2023-10-23 23:19:29",
+    "created_at": "2023-10-23 23:19:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:29",
+    "event_id": "023430a1-7c81-42ea-93e2-247cc4fcef42"
+  }
+}

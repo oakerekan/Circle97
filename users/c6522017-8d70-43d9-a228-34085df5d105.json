@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c6522017-8d70-43d9-a228-34085df5d105"
+  },
+  "payload": {
+    "id": 276,
+    "name": "Nicholas Phillips",
+    "address": "PSC 9498, Box 0563\nAPO AA 37849",
+    "job": "Personal assistant",
+    "score": 0.7684402413447506
+  }
+}

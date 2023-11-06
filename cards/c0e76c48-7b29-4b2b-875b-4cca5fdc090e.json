@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 284,
+    "user_id": 277,
+    "created_by_name": "Richard Morales",
+    "updated_at": "2023-10-23 23:24:34",
+    "created_at": "2023-10-23 23:09:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:34",
+    "event_id": "c0e76c48-7b29-4b2b-875b-4cca5fdc090e"
+  }
+}

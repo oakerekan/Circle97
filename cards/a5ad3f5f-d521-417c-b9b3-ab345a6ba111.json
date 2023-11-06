@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1079,
+    "user_id": 794,
+    "created_by_name": "Kimberly Mcgee",
+    "updated_at": "2023-10-23 23:18:51",
+    "created_at": "2023-10-23 23:12:46",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:51",
+    "event_id": "a5ad3f5f-d521-417c-b9b3-ab345a6ba111"
+  }
+}

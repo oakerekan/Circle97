@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a3145f32-0cb3-40ea-b598-3fe7cba0fad6"
+  },
+  "payload": {
+    "id": 609,
+    "name": "Teresa Webb",
+    "address": "79000 Suzanne Plains Suite 743\nDiazside, WY 47463",
+    "job": "Secretary, company",
+    "score": 0.281351604267851
+  }
+}

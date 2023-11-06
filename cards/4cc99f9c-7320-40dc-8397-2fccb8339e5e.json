@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1954,
+    "user_id": 564,
+    "created_by_name": "Andrea Morgan",
+    "updated_at": "2023-10-23 23:25:58",
+    "created_at": "2023-10-23 23:15:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:58",
+    "event_id": "4cc99f9c-7320-40dc-8397-2fccb8339e5e"
+  }
+}

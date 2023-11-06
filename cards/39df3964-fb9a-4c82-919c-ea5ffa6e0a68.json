@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 881,
+    "user_id": 939,
+    "created_by_name": "Dennis Hoffman",
+    "updated_at": "2023-10-23 23:12:06",
+    "created_at": "2023-10-23 23:12:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:06",
+    "event_id": "39df3964-fb9a-4c82-919c-ea5ffa6e0a68"
+  }
+}

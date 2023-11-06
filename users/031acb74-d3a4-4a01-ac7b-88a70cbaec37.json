@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "031acb74-d3a4-4a01-ac7b-88a70cbaec37"
+  },
+  "payload": {
+    "id": 519,
+    "name": "Mark Gibson",
+    "address": "969 Kelly Meadows Apt. 143\nRacheltown, OK 55903",
+    "job": "Insurance account manager",
+    "score": 0.6184440725963517
+  }
+}

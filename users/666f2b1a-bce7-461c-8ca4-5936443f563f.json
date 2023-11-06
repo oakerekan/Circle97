@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "666f2b1a-bce7-461c-8ca4-5936443f563f"
+  },
+  "payload": {
+    "id": 265,
+    "name": "Stephen Porter",
+    "address": "USNS Pineda\nFPO AE 54671",
+    "job": "Illustrator",
+    "score": 0.8420065492056105
+  }
+}

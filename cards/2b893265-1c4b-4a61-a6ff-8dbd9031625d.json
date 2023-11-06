@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 338,
+    "user_id": 773,
+    "created_by_name": "Robert Boyd",
+    "updated_at": "2023-10-23 23:11:20",
+    "created_at": "2023-10-23 23:10:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:20",
+    "event_id": "2b893265-1c4b-4a61-a6ff-8dbd9031625d"
+  }
+}

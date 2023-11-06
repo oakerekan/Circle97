@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b016552b-f3e0-4d42-b685-ac863bb8caff"
+  },
+  "payload": {
+    "id": 912,
+    "name": "Laura James",
+    "address": "199 Vaughn Ville Suite 249\nEast Jennifer, MD 79228",
+    "job": "Television camera operator",
+    "score": 0.7579259444751619
+  }
+}

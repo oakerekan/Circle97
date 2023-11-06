@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0a31fac6-5f38-4daa-9eeb-14675ba9ab02"
+  },
+  "payload": {
+    "id": 816,
+    "name": "Sarah Burton",
+    "address": "4551 Sellers Burgs\nMayertown, PR 39796",
+    "job": "Oceanographer",
+    "score": 0.5757084293801418
+  }
+}

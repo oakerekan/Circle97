@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2017,
+    "user_id": 150,
+    "created_by_name": "Robert Abbott",
+    "updated_at": "2023-10-23 23:20:02",
+    "created_at": "2023-10-23 23:16:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:02",
+    "event_id": "ef81cd8e-90fc-401e-a9ad-43f161a2e68e"
+  }
+}

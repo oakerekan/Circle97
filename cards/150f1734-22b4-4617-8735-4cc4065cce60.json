@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 169,
+    "user_id": 128,
+    "created_by_name": "Mary Gomez",
+    "updated_at": "2023-10-23 23:20:12",
+    "created_at": "2023-10-23 23:09:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:12",
+    "event_id": "150f1734-22b4-4617-8735-4cc4065cce60"
+  }
+}

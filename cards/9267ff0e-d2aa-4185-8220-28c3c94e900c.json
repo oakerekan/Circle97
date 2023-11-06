@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2317,
+    "user_id": 493,
+    "created_by_name": "Paul Roberts",
+    "updated_at": "2023-10-23 23:17:09",
+    "created_at": "2023-10-23 23:17:09",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:09",
+    "event_id": "9267ff0e-d2aa-4185-8220-28c3c94e900c"
+  }
+}

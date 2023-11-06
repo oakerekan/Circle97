@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 775,
+    "user_id": 224,
+    "created_by_name": "Bill Thompson",
+    "updated_at": "2023-10-23 23:17:27",
+    "created_at": "2023-10-23 23:11:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:27",
+    "event_id": "1a8a5c3a-fcc4-4f50-9af4-8f7649306c68"
+  }
+}

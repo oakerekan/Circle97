@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ac4bf76a-fe0e-4912-a87b-e0afe6ac6e23"
+  },
+  "payload": {
+    "id": 391,
+    "name": "Rachel Lee",
+    "address": "7483 Mark Haven\nStaffordport, OR 85302",
+    "job": "Conference centre manager",
+    "score": 0.37220042564880396
+  }
+}

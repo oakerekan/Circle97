@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "89eccf50-1505-4f31-b639-7a482612b038"
+  },
+  "payload": {
+    "id": 582,
+    "name": "Morgan Moreno",
+    "address": "1320 Scott Via\nColleenberg, MO 24697",
+    "job": "Planning and development surveyor",
+    "score": 0.6338985404428398
+  }
+}

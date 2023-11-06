@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2752,
+    "user_id": 226,
+    "created_by_name": "Phyllis Wilson",
+    "updated_at": "2023-10-23 23:18:44",
+    "created_at": "2023-10-23 23:18:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:44",
+    "event_id": "eca97f77-0fb9-4ef3-a78c-5b36fd2a982b"
+  }
+}

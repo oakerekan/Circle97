@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bb520892-f847-4263-ae0c-1c5d49209017"
+  },
+  "payload": {
+    "id": 811,
+    "name": "John Lopez",
+    "address": "3128 James Estates Suite 590\nPort Geraldville, OH 48529",
+    "job": "Plant breeder/geneticist",
+    "score": 0.5248658808317295
+  }
+}

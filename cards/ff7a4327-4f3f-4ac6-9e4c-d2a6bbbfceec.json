@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1595,
+    "user_id": 523,
+    "created_by_name": "Samantha Case",
+    "updated_at": "2023-10-23 23:23:40",
+    "created_at": "2023-10-23 23:14:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:40",
+    "event_id": "ff7a4327-4f3f-4ac6-9e4c-d2a6bbbfceec"
+  }
+}

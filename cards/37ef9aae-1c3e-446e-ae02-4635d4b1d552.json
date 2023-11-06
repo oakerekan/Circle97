@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2177,
+    "user_id": 238,
+    "created_by_name": "Marc Armstrong",
+    "updated_at": "2023-10-23 23:28:27",
+    "created_at": "2023-10-23 23:16:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:27",
+    "event_id": "37ef9aae-1c3e-446e-ae02-4635d4b1d552"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 149,
+    "user_id": 117,
+    "created_by_name": "Linda Snyder",
+    "updated_at": "2023-10-23 23:09:29",
+    "created_at": "2023-10-23 23:09:23",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:29",
+    "event_id": "29c82175-1463-453d-9b50-7d1e5ecf0480"
+  }
+}

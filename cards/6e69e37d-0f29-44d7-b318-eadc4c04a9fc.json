@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3665,
+    "user_id": 659,
+    "created_by_name": "Carrie Nicholson",
+    "updated_at": "2023-10-23 23:26:30",
+    "created_at": "2023-10-23 23:22:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:30",
+    "event_id": "6e69e37d-0f29-44d7-b318-eadc4c04a9fc"
+  }
+}

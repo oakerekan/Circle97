@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d699cec6-db42-4e9a-b725-3973a45dedad"
+  },
+  "payload": {
+    "id": 31,
+    "name": "Shirley Hall DVM",
+    "address": "8555 Jeffrey Islands Apt. 646\nJohnstonbury, MD 68189",
+    "job": "Research scientist (maths)",
+    "score": 0.0778319740880451
+  }
+}

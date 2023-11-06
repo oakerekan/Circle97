@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "836cae3f-2f47-47ef-bf6f-7082965871d5"
+  },
+  "payload": {
+    "id": 810,
+    "name": "Martin Combs",
+    "address": "756 Johnson Gateway\nNorth Jenniferstad, KS 31166",
+    "job": "Research officer, trade union",
+    "score": 0.34530439365944576
+  }
+}

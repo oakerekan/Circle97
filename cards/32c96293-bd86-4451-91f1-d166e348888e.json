@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1277,
+    "user_id": 339,
+    "created_by_name": "Alexis Mcneil",
+    "updated_at": "2023-10-23 23:15:45",
+    "created_at": "2023-10-23 23:13:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:45",
+    "event_id": "32c96293-bd86-4451-91f1-d166e348888e"
+  }
+}

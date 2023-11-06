@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b9f33fdb-0be3-4b9d-b575-ddf61248b5f6"
+  },
+  "payload": {
+    "id": 2,
+    "name": "Kimberly Conner",
+    "address": "60219 Adam Prairie Suite 328\nMcneilborough, OK 05546",
+    "job": "Barrister's clerk",
+    "score": 0.5409924888096908
+  }
+}

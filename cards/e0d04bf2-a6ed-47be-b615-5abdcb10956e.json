@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1279,
+    "user_id": 819,
+    "created_by_name": "Kimberly Olsen",
+    "updated_at": "2023-10-23 23:13:26",
+    "created_at": "2023-10-23 23:13:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:26",
+    "event_id": "e0d04bf2-a6ed-47be-b615-5abdcb10956e"
+  }
+}

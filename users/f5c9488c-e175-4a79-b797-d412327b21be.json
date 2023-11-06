@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f5c9488c-e175-4a79-b797-d412327b21be"
+  },
+  "payload": {
+    "id": 325,
+    "name": "Dawn Ross",
+    "address": "2354 Archer Union Suite 144\nSamuelchester, AS 60313",
+    "job": "Copy",
+    "score": 0.07443702272607522
+  }
+}

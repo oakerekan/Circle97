@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4f5ab0b6-32df-4445-8cf4-2404438055dd"
+  },
+  "payload": {
+    "id": 237,
+    "name": "Christina Hernandez",
+    "address": "USCGC Rogers\nFPO AE 50103",
+    "job": "Naval architect",
+    "score": 0.5045655005083166
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4258,
+    "user_id": 921,
+    "created_by_name": "Breanna Stewart MD",
+    "updated_at": "2023-10-23 23:24:07",
+    "created_at": "2023-10-23 23:24:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:07",
+    "event_id": "9e923443-1434-4f3d-9271-12d9ff3de3eb"
+  }
+}

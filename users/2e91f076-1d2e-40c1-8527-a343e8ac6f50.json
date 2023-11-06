@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2e91f076-1d2e-40c1-8527-a343e8ac6f50"
+  },
+  "payload": {
+    "id": 145,
+    "name": "Christian Kim",
+    "address": "4053 Joshua Mountain Apt. 733\nMalloryfurt, LA 61944",
+    "job": "Energy engineer",
+    "score": 0.511051579916241
+  }
+}

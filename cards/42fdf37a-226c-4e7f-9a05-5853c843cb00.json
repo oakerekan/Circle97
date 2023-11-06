@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2336,
+    "created_by_name": "Barbara Crane",
+    "updated_at": "2023-10-23 23:17:12",
+    "created_at": "2023-10-23 23:17:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:12",
+    "event_id": "42fdf37a-226c-4e7f-9a05-5853c843cb00"
+  }
+}

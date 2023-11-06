@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "86a4f68f-38f7-4214-a0c8-bec811d9d52c"
+  },
+  "payload": {
+    "id": 98,
+    "name": "Philip Mcintosh",
+    "address": "75623 Stacy Vista\nLake Kaitlin, FL 05447",
+    "job": "Journalist, magazine",
+    "score": 0.7595102608925117
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4228,
+    "user_id": 917,
+    "created_by_name": "Allison Joseph",
+    "updated_at": "2023-10-23 23:24:01",
+    "created_at": "2023-10-23 23:24:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:01",
+    "event_id": "bf76fa6b-66b9-4dac-beb6-e7eabb12dbe6"
+  }
+}

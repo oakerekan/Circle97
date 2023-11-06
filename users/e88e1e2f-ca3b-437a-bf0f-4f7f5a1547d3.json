@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e88e1e2f-ca3b-437a-bf0f-4f7f5a1547d3"
+  },
+  "payload": {
+    "id": 208,
+    "name": "Seth Burns",
+    "address": "30019 Tony Mountains Apt. 262\nPort Christine, KS 06021",
+    "job": "Personnel officer",
+    "score": 0.17448981895704518
+  }
+}

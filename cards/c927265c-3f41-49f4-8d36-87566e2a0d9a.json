@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 252,
+    "user_id": 744,
+    "created_by_name": "Tricia Olson",
+    "updated_at": "2023-10-23 23:14:29",
+    "created_at": "2023-10-23 23:09:46",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:29",
+    "event_id": "c927265c-3f41-49f4-8d36-87566e2a0d9a"
+  }
+}

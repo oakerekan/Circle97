@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8591014b-dea0-4aae-bdfa-0167689e3727"
+  },
+  "payload": {
+    "id": 198,
+    "name": "Kimberly Moyer",
+    "address": "426 Smith Mission Apt. 753\nRangelborough, WA 55495",
+    "job": "Occupational psychologist",
+    "score": 0.412342868938282
+  }
+}

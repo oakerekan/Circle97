@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1846,
+    "user_id": 642,
+    "created_by_name": "Lisa Romero",
+    "updated_at": "2023-10-23 23:15:26",
+    "created_at": "2023-10-23 23:15:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:26",
+    "event_id": "439bf366-9036-4f32-9c26-5ca13c9aff83"
+  }
+}

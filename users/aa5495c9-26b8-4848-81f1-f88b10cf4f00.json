@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "aa5495c9-26b8-4848-81f1-f88b10cf4f00"
+  },
+  "payload": {
+    "id": 622,
+    "name": "Brittany Davila",
+    "address": "USS Smith\nFPO AE 82377",
+    "job": "Town planner",
+    "score": 0.4476269888951844
+  }
+}

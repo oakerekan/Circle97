@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 273,
+    "created_by_name": "Joseph Baird",
+    "updated_at": "2023-10-23 23:10:20",
+    "created_at": "2023-10-23 23:09:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:20",
+    "event_id": "e21a093f-fa1a-4299-923f-4de6818efd24"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9331c968-f92b-440e-957b-d1405d6a5113"
+  },
+  "payload": {
+    "id": 435,
+    "name": "Debra Salazar",
+    "address": "239 Meyers Crossroad\nHarperport, ID 12601",
+    "job": "Leisure centre manager",
+    "score": 0.6511408437084529
+  }
+}

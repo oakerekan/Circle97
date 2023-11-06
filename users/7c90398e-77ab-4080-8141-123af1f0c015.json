@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7c90398e-77ab-4080-8141-123af1f0c015"
+  },
+  "payload": {
+    "id": 923,
+    "name": "Michelle Taylor",
+    "address": "2854 Francis Road Apt. 495\nJosephchester, IA 45336",
+    "job": "Fashion designer",
+    "score": 0.9030739650377951
+  }
+}

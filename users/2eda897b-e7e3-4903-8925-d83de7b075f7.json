@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2eda897b-e7e3-4903-8925-d83de7b075f7"
+  },
+  "payload": {
+    "id": 240,
+    "name": "Mckenzie Fisher",
+    "address": "735 Edward Crest Apt. 300\nSouth Samanthamouth, IA 25361",
+    "job": "Advertising account executive",
+    "score": 0.7046560435934625
+  }
+}

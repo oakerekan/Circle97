@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e7c97e1c-4298-48d7-a404-eac87c930a93"
+  },
+  "payload": {
+    "id": 426,
+    "name": "Earl Watts",
+    "address": "28034 Jennifer Court\nDavidmouth, WA 30313",
+    "job": "Scientist, audiological",
+    "score": 0.43682687857715874
+  }
+}

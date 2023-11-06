@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3610,
+    "user_id": 566,
+    "created_by_name": "Tanya Jenkins",
+    "updated_at": "2023-10-23 23:21:54",
+    "created_at": "2023-10-23 23:21:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:54",
+    "event_id": "4953d496-851e-43d4-9dde-75fd082e1f45"
+  }
+}

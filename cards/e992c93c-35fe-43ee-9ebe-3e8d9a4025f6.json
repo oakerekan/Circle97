@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1377,
+    "created_by_name": "Kevin Brown",
+    "updated_at": "2023-10-23 23:13:47",
+    "created_at": "2023-10-23 23:13:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:47",
+    "event_id": "e992c93c-35fe-43ee-9ebe-3e8d9a4025f6"
+  }
+}

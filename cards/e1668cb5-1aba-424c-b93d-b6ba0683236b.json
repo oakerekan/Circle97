@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1499,
+    "created_by_name": "Ryan Nguyen",
+    "updated_at": "2023-10-23 23:17:11",
+    "created_at": "2023-10-23 23:14:13",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:11",
+    "event_id": "e1668cb5-1aba-424c-b93d-b6ba0683236b"
+  }
+}

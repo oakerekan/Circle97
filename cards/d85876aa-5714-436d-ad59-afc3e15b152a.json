@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4365,
+    "user_id": 179,
+    "created_by_name": "Dennis Jackson",
+    "updated_at": "2023-10-23 23:28:19",
+    "created_at": "2023-10-23 23:24:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:19",
+    "event_id": "d85876aa-5714-436d-ad59-afc3e15b152a"
+  }
+}

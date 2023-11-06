@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3999,
+    "user_id": 515,
+    "created_by_name": "Sophia Williamson",
+    "updated_at": "2023-10-23 23:23:11",
+    "created_at": "2023-10-23 23:23:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:11",
+    "event_id": "e1704945-7ada-4ea0-b2a8-939330701b19"
+  }
+}

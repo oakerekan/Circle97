@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2d7d47ae-04ee-4820-a56b-37a045d691c1"
+  },
+  "payload": {
+    "id": 247,
+    "name": "Eric Avila",
+    "address": "Unit 0236 Box 0580\nDPO AA 38743",
+    "job": "Health physicist",
+    "score": 0.015082732948263011
+  }
+}

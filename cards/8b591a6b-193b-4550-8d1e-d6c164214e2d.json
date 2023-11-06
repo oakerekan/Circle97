@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 5247,
+    "created_by_name": "Jose Singh",
+    "updated_at": "2023-10-23 23:27:37",
+    "created_at": "2023-10-23 23:27:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:37",
+    "event_id": "8b591a6b-193b-4550-8d1e-d6c164214e2d"
+  }
+}

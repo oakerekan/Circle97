@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c701ab00-c0b2-4446-818d-de913a5b9468"
+  },
+  "payload": {
+    "id": 598,
+    "name": "Alexis Mcfarland",
+    "address": "USCGC Davis\nFPO AE 18263",
+    "job": "Planning and development surveyor",
+    "score": 0.5013113821125595
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9a038eac-295c-4237-a274-13e94ab458dd"
+  },
+  "payload": {
+    "id": 812,
+    "name": "Alexis Ferrell",
+    "address": "USCGC Jackson\nFPO AE 34624",
+    "job": "Higher education careers adviser",
+    "score": 0.7263456918367078
+  }
+}

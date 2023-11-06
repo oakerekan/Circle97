@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 128,
+    "user_id": 638,
+    "created_by_name": "William Watkins",
+    "updated_at": "2023-10-23 23:09:19",
+    "created_at": "2023-10-23 23:09:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:19",
+    "event_id": "79eb12e0-942c-484c-88e7-f12a75119a5c"
+  }
+}

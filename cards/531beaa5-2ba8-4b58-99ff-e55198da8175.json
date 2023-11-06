@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5780,
+    "user_id": 687,
+    "created_by_name": "Elizabeth Contreras",
+    "updated_at": "2023-10-23 23:29:42",
+    "created_at": "2023-10-23 23:29:42",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:42",
+    "event_id": "531beaa5-2ba8-4b58-99ff-e55198da8175"
+  }
+}

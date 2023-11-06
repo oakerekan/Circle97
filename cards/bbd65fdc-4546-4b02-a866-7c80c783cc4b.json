@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1135,
+    "user_id": 686,
+    "created_by_name": "Jeanette Johns",
+    "updated_at": "2023-10-23 23:19:47",
+    "created_at": "2023-10-23 23:12:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:47",
+    "event_id": "bbd65fdc-4546-4b02-a866-7c80c783cc4b"
+  }
+}

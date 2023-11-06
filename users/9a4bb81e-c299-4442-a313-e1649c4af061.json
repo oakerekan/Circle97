@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9a4bb81e-c299-4442-a313-e1649c4af061"
+  },
+  "payload": {
+    "id": 157,
+    "name": "Clinton Martin",
+    "address": "622 Gentry Harbor Suite 364\nWongbury, AK 85731",
+    "job": "Surveyor, planning and development",
+    "score": 0.4877748532351107
+  }
+}

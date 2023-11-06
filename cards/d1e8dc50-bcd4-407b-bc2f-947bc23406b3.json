@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4902,
+    "user_id": 587,
+    "created_by_name": "Kenneth Nguyen",
+    "updated_at": "2023-10-23 23:26:16",
+    "created_at": "2023-10-23 23:26:16",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:16",
+    "event_id": "d1e8dc50-bcd4-407b-bc2f-947bc23406b3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2797,
+    "user_id": 613,
+    "created_by_name": "Lori Tran",
+    "updated_at": "2023-10-23 23:18:54",
+    "created_at": "2023-10-23 23:18:54",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:54",
+    "event_id": "6964ee1e-12bc-46e6-81d4-d0e5bb877e46"
+  }
+}

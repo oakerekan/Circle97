@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 844,
+    "user_id": 26,
+    "created_by_name": "Brenda White",
+    "updated_at": "2023-10-23 23:16:41",
+    "created_at": "2023-10-23 23:12:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:41",
+    "event_id": "bbf77eb5-2d4c-41b3-8a25-53655d6c5a20"
+  }
+}

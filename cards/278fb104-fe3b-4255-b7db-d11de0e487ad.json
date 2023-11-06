@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3344,
+    "user_id": 628,
+    "created_by_name": "Daniel Washington",
+    "updated_at": "2023-10-23 23:24:43",
+    "created_at": "2023-10-23 23:20:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:43",
+    "event_id": "278fb104-fe3b-4255-b7db-d11de0e487ad"
+  }
+}

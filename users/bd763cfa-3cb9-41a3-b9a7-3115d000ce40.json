@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bd763cfa-3cb9-41a3-b9a7-3115d000ce40"
+  },
+  "payload": {
+    "id": 595,
+    "name": "Richard Harrison",
+    "address": "712 Autumn Burg Apt. 284\nSteeleborough, OH 08902",
+    "job": "Animal technologist",
+    "score": 0.3496520925095987
+  }
+}

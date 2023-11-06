@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1344,
+    "user_id": 168,
+    "created_by_name": "Adrian Shaffer",
+    "updated_at": "2023-10-23 23:17:21",
+    "created_at": "2023-10-23 23:13:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:21",
+    "event_id": "6fadce88-fce6-4ce7-b87f-0b32c2c140e8"
+  }
+}

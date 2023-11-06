@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cafdcd75-5ec3-43a7-879a-09012857935d"
+  },
+  "payload": {
+    "id": 215,
+    "name": "Elizabeth Dawson",
+    "address": "PSC 3383, Box 8057\nAPO AA 03652",
+    "job": "Trade union research officer",
+    "score": 0.2610382059027806
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1217,
+    "user_id": 114,
+    "created_by_name": "Michael Ferguson",
+    "updated_at": "2023-10-23 23:18:23",
+    "created_at": "2023-10-23 23:13:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:23",
+    "event_id": "5f2abdd0-3816-4dc8-8514-bebdd77c8956"
+  }
+}

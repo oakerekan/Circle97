@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "71ae086a-2534-4fd8-ad13-d2ade4242661"
+  },
+  "payload": {
+    "id": 980,
+    "name": "Austin Bennett",
+    "address": "87787 Wood Roads Suite 376\nKingstad, MT 14781",
+    "job": "Advertising copywriter",
+    "score": 0.9105078903925413
+  }
+}

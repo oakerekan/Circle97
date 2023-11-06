@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5e633b89-db40-49c1-a131-92f88d3ebc81"
+  },
+  "payload": {
+    "id": 547,
+    "name": "Anthony Hall",
+    "address": "7095 Nguyen Knolls Apt. 626\nMichaelshire, MI 36460",
+    "job": "Surveyor, quantity",
+    "score": 0.38499849632792793
+  }
+}

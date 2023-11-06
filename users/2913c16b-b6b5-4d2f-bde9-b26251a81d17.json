@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2913c16b-b6b5-4d2f-bde9-b26251a81d17"
+  },
+  "payload": {
+    "id": 131,
+    "name": "Michael Anderson",
+    "address": "7583 Moore Fort\nLucashaven, RI 98067",
+    "job": "Designer, industrial/product",
+    "score": 0.4954376113269341
+  }
+}

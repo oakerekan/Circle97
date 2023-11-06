@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2538,
+    "user_id": 690,
+    "created_by_name": "Elizabeth Black",
+    "updated_at": "2023-10-23 23:17:57",
+    "created_at": "2023-10-23 23:17:57",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:57",
+    "event_id": "f115fe6c-ac3e-4012-91ab-156a97d9c49d"
+  }
+}

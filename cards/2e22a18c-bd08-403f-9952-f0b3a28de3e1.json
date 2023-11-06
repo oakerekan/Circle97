@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 201,
+    "user_id": 19,
+    "created_by_name": "Amanda Wyatt",
+    "updated_at": "2023-10-23 23:10:36",
+    "created_at": "2023-10-23 23:09:36",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:36",
+    "event_id": "2e22a18c-bd08-403f-9952-f0b3a28de3e1"
+  }
+}

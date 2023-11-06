@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 906,
+    "user_id": 652,
+    "created_by_name": "Amy Edwards",
+    "updated_at": "2023-10-23 23:12:19",
+    "created_at": "2023-10-23 23:12:13",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:19",
+    "event_id": "dcd50491-d122-483d-ab71-c4aa725a760e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3e410407-d3f2-41b0-9473-78162123a326"
+  },
+  "payload": {
+    "id": 872,
+    "name": "Melanie Cook",
+    "address": "222 Samantha Road Apt. 272\nWatersland, CA 15706",
+    "job": "Teacher, primary school",
+    "score": 0.0745287255570437
+  }
+}

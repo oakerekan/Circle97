@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5421,
+    "user_id": 764,
+    "created_by_name": "Eric Richardson",
+    "updated_at": "2023-10-23 23:28:19",
+    "created_at": "2023-10-23 23:28:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:19",
+    "event_id": "76c7d7dc-8f1c-42bc-a40b-d4525785c464"
+  }
+}

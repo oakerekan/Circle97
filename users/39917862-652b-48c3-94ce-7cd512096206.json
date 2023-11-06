@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "39917862-652b-48c3-94ce-7cd512096206"
+  },
+  "payload": {
+    "id": 96,
+    "name": "Christine Perkins",
+    "address": "5065 Miller Route\nNicholasstad, PA 56673",
+    "job": "Magazine journalist",
+    "score": 0.9020943683284939
+  }
+}

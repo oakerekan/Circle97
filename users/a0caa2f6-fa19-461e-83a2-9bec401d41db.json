@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a0caa2f6-fa19-461e-83a2-9bec401d41db"
+  },
+  "payload": {
+    "id": 444,
+    "name": "Kenneth Lewis",
+    "address": "1818 Jesse Ford Apt. 661\nGibsonhaven, WV 49525",
+    "job": "Water quality scientist",
+    "score": 0.2541376048609377
+  }
+}

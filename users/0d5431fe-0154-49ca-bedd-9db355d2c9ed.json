@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0d5431fe-0154-49ca-bedd-9db355d2c9ed"
+  },
+  "payload": {
+    "id": 464,
+    "name": "Amber Walters",
+    "address": "18327 Sanchez Locks\nNew Keith, MD 89541",
+    "job": "Herbalist",
+    "score": 0.4364597865125288
+  }
+}

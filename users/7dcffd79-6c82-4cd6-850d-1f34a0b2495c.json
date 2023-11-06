@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7dcffd79-6c82-4cd6-850d-1f34a0b2495c"
+  },
+  "payload": {
+    "id": 689,
+    "name": "Tracy Walker",
+    "address": "Unit 4894 Box 6103\nDPO AP 13436",
+    "job": "Television floor manager",
+    "score": 0.31988580578012105
+  }
+}

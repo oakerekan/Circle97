@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "368a48e1-6384-4630-8a7f-1a8fdb983ae7"
+  },
+  "payload": {
+    "id": 780,
+    "name": "Brian Bailey",
+    "address": "9439 Mcintyre Isle Apt. 134\nLake Curtishaven, PW 42892",
+    "job": "Engineer, mining",
+    "score": 0.41905638773538345
+  }
+}

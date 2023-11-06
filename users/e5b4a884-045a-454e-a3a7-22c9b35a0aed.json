@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e5b4a884-045a-454e-a3a7-22c9b35a0aed"
+  },
+  "payload": {
+    "id": 751,
+    "name": "Kara Fuentes",
+    "address": "748 Donna River\nDonnabury, ND 55126",
+    "job": "Engineer, technical sales",
+    "score": 0.7722979748541244
+  }
+}

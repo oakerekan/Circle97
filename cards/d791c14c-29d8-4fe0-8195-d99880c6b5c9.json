@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2251,
+    "created_by_name": "Billy Le",
+    "updated_at": "2023-10-23 23:21:52",
+    "created_at": "2023-10-23 23:16:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:52",
+    "event_id": "d791c14c-29d8-4fe0-8195-d99880c6b5c9"
+  }
+}

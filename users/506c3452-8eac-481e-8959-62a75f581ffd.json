@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "506c3452-8eac-481e-8959-62a75f581ffd"
+  },
+  "payload": {
+    "id": 661,
+    "name": "Morgan Howell",
+    "address": "641 Davis Cliff\nWest Virginia, MI 44253",
+    "job": "Marine scientist",
+    "score": 0.24761400762732333
+  }
+}

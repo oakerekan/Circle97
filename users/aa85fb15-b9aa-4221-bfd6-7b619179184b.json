@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "aa85fb15-b9aa-4221-bfd6-7b619179184b"
+  },
+  "payload": {
+    "id": 14,
+    "name": "Cindy Shaw",
+    "address": "97184 Jennings Pines\nFranciscofurt, AS 71067",
+    "job": "Theme park manager",
+    "score": 0.696486816823512
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 39,
+    "user_id": 44,
+    "created_by_name": "Brian Harris",
+    "updated_at": "2023-10-23 23:21:50",
+    "created_at": "2023-10-23 23:08:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:50",
+    "event_id": "33f008ef-3da8-4194-a428-451eb4b7f0da"
+  }
+}

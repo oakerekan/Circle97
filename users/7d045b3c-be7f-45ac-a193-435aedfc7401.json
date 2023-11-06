@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7d045b3c-be7f-45ac-a193-435aedfc7401"
+  },
+  "payload": {
+    "id": 395,
+    "name": "Olivia Chapman",
+    "address": "340 Elizabeth Viaduct Apt. 344\nRamirezside, MO 57655",
+    "job": "Medical technical officer",
+    "score": 0.383124389979554
+  }
+}

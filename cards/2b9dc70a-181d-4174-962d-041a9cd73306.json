@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1228,
+    "user_id": 429,
+    "created_by_name": "David Sanchez",
+    "updated_at": "2023-10-23 23:20:07",
+    "created_at": "2023-10-23 23:13:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:07",
+    "event_id": "2b9dc70a-181d-4174-962d-041a9cd73306"
+  }
+}

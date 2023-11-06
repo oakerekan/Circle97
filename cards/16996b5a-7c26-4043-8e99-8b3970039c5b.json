@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 305,
+    "user_id": 856,
+    "created_by_name": "Matthew Rice",
+    "updated_at": "2023-10-23 23:13:37",
+    "created_at": "2023-10-23 23:09:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:37",
+    "event_id": "16996b5a-7c26-4043-8e99-8b3970039c5b"
+  }
+}

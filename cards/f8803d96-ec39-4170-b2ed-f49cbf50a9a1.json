@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3674,
+    "user_id": 372,
+    "created_by_name": "Sarah Wade",
+    "updated_at": "2023-10-23 23:23:49",
+    "created_at": "2023-10-23 23:22:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:49",
+    "event_id": "f8803d96-ec39-4170-b2ed-f49cbf50a9a1"
+  }
+}

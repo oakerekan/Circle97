@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1716,
+    "user_id": 528,
+    "created_by_name": "Andrea Armstrong",
+    "updated_at": "2023-10-23 23:15:02",
+    "created_at": "2023-10-23 23:15:02",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:02",
+    "event_id": "82d9d5d0-3f1b-482f-903c-a0af175f4993"
+  }
+}

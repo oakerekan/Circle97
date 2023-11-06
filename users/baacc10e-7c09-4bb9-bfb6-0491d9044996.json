@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "baacc10e-7c09-4bb9-bfb6-0491d9044996"
+  },
+  "payload": {
+    "id": 753,
+    "name": "Brandi Mosley",
+    "address": "271 Lee Square\nCruzstad, NC 36180",
+    "job": "Research scientist (life sciences)",
+    "score": 0.8352047944772224
+  }
+}

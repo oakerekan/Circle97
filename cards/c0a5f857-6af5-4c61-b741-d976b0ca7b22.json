@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 896,
+    "user_id": 910,
+    "created_by_name": "Amanda Johnson",
+    "updated_at": "2023-10-23 23:24:19",
+    "created_at": "2023-10-23 23:12:09",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:19",
+    "event_id": "c0a5f857-6af5-4c61-b741-d976b0ca7b22"
+  }
+}

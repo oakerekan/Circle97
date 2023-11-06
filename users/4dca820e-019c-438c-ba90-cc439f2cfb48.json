@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4dca820e-019c-438c-ba90-cc439f2cfb48"
+  },
+  "payload": {
+    "id": 399,
+    "name": "Brian Morris",
+    "address": "575 Spencer Key Apt. 060\nWest Josephhaven, CO 92119",
+    "job": "Merchant navy officer",
+    "score": 0.3665757557842526
+  }
+}

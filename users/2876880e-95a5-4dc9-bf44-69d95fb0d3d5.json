@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2876880e-95a5-4dc9-bf44-69d95fb0d3d5"
+  },
+  "payload": {
+    "id": 670,
+    "name": "Lawrence Michael",
+    "address": "609 Nathan Route Suite 349\nMichaelside, MS 71253",
+    "job": "Haematologist",
+    "score": 0.30820094774412055
+  }
+}

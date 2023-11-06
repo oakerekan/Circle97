@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8faa2b03-62b4-4aef-9a0d-b6a6f058c5ae"
+  },
+  "payload": {
+    "id": 860,
+    "name": "Jeffrey Huff",
+    "address": "939 Smith Manor\nGonzalesshire, TX 13739",
+    "job": "Journalist, magazine",
+    "score": 0.12561866631758623
+  }
+}

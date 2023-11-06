@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3011,
+    "user_id": 599,
+    "created_by_name": "Frances Rosario",
+    "updated_at": "2023-10-23 23:19:41",
+    "created_at": "2023-10-23 23:19:41",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:41",
+    "event_id": "689e6577-fb17-4c10-bb33-1490a21d82cc"
+  }
+}

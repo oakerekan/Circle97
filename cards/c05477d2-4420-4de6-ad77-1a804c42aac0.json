@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4696,
+    "created_by_name": "Kathryn Jones",
+    "updated_at": "2023-10-23 23:28:27",
+    "created_at": "2023-10-23 23:25:35",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:27",
+    "event_id": "c05477d2-4420-4de6-ad77-1a804c42aac0"
+  }
+}

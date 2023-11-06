@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1839,
+    "user_id": 136,
+    "created_by_name": "Mr. Andrew Kemp Jr.",
+    "updated_at": "2023-10-23 23:15:25",
+    "created_at": "2023-10-23 23:15:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:25",
+    "event_id": "d0a9b942-5977-4cb0-bfe5-474dd2213ac0"
+  }
+}

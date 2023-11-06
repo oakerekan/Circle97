@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0907acb9-e76c-40ef-a356-40ee32b1eee8"
+  },
+  "payload": {
+    "id": 361,
+    "name": "Andrew Stone",
+    "address": "93920 Scott Burg Suite 489\nPort Robert, AR 16781",
+    "job": "Probation officer",
+    "score": 0.8737941007995871
+  }
+}

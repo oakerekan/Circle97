@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 831,
+    "user_id": 346,
+    "created_by_name": "William Joseph",
+    "updated_at": "2023-10-23 23:11:58",
+    "created_at": "2023-10-23 23:11:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:58",
+    "event_id": "1847a9e5-8cd4-4e75-93b7-27193d6ae8a5"
+  }
+}

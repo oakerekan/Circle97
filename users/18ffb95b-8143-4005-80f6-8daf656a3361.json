@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "18ffb95b-8143-4005-80f6-8daf656a3361"
+  },
+  "payload": {
+    "id": 473,
+    "name": "Martin Gonzalez",
+    "address": "520 Mendez Knoll Apt. 598\nLake Antoniostad, GA 35519",
+    "job": "Therapist, horticultural",
+    "score": 0.1349503160124198
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5398,
+    "user_id": 347,
+    "created_by_name": "Patricia Garcia",
+    "updated_at": "2023-10-23 23:28:13",
+    "created_at": "2023-10-23 23:28:13",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:13",
+    "event_id": "3c71c870-0c87-469b-8d87-ef6aba204e9f"
+  }
+}

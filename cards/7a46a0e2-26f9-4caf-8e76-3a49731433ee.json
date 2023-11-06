@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5879,
+    "user_id": 113,
+    "created_by_name": "Mr. Tyler Mitchell",
+    "updated_at": "2023-10-23 23:30:02",
+    "created_at": "2023-10-23 23:30:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:02",
+    "event_id": "7a46a0e2-26f9-4caf-8e76-3a49731433ee"
+  }
+}

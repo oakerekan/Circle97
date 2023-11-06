@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3516,
+    "user_id": 753,
+    "created_by_name": "Shannon Adams",
+    "updated_at": "2023-10-23 23:21:34",
+    "created_at": "2023-10-23 23:21:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:34",
+    "event_id": "8142521c-4252-4ac3-bfe0-c5c91c82406b"
+  }
+}

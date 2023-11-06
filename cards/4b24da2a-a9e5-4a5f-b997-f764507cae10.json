@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 142,
+    "user_id": 601,
+    "created_by_name": "Jennifer Baker",
+    "updated_at": "2023-10-23 23:09:22",
+    "created_at": "2023-10-23 23:09:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:22",
+    "event_id": "4b24da2a-a9e5-4a5f-b997-f764507cae10"
+  }
+}

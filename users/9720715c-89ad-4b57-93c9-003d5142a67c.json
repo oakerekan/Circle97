@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9720715c-89ad-4b57-93c9-003d5142a67c"
+  },
+  "payload": {
+    "id": 868,
+    "name": "Ronald White",
+    "address": "74231 Alvarez Garden\nFullerbury, MA 66658",
+    "job": "Designer, jewellery",
+    "score": 0.3394132203140131
+  }
+}

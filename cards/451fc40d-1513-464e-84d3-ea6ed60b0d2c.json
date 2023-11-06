@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5357,
+    "user_id": 893,
+    "created_by_name": "Blake Griffin",
+    "updated_at": "2023-10-23 23:28:02",
+    "created_at": "2023-10-23 23:28:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:02",
+    "event_id": "451fc40d-1513-464e-84d3-ea6ed60b0d2c"
+  }
+}

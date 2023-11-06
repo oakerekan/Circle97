@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1673,
+    "user_id": 85,
+    "created_by_name": "Erica Contreras",
+    "updated_at": "2023-10-23 23:26:10",
+    "created_at": "2023-10-23 23:14:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:10",
+    "event_id": "d9644330-c877-4ccf-85c2-f5cc209ab02e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2888c902-b8df-4284-9230-49884168c403"
+  },
+  "payload": {
+    "id": 544,
+    "name": "Lisa Curtis",
+    "address": "6164 Schwartz Fork\nHamiltonside, PR 01614",
+    "job": "Licensed conveyancer",
+    "score": 0.963531479067676
+  }
+}

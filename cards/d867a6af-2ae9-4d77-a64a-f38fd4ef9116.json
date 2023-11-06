@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4830,
+    "user_id": 118,
+    "created_by_name": "Elizabeth Holland",
+    "updated_at": "2023-10-23 23:26:01",
+    "created_at": "2023-10-23 23:26:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:01",
+    "event_id": "d867a6af-2ae9-4d77-a64a-f38fd4ef9116"
+  }
+}

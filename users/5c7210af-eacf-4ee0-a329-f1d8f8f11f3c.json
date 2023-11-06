@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5c7210af-eacf-4ee0-a329-f1d8f8f11f3c"
+  },
+  "payload": {
+    "id": 559,
+    "name": "Jennifer Smith",
+    "address": "91277 Powell Canyon Apt. 601\nMataport, NE 63373",
+    "job": "Engineer, automotive",
+    "score": 0.12350001059012683
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6ec7f096-7f33-4f2f-a2b2-37e0b7cee3ae"
+  },
+  "payload": {
+    "id": 692,
+    "name": "Cory Melton",
+    "address": "Unit 4364 Box 1243\nDPO AE 33981",
+    "job": "Manufacturing systems engineer",
+    "score": 0.5994091994000708
+  }
+}

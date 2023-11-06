@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4001,
+    "user_id": 163,
+    "created_by_name": "Melanie Santiago",
+    "updated_at": "2023-10-23 23:29:53",
+    "created_at": "2023-10-23 23:23:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:53",
+    "event_id": "a11aee2a-38a6-46fb-aed9-1cde204501ce"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7013e414-5253-4ffe-9741-cc82fd5dcd9e"
+  },
+  "payload": {
+    "id": 948,
+    "name": "Carrie Adams",
+    "address": "58296 Kerry Points Apt. 034\nEast Debraburgh, WV 20930",
+    "job": "Industrial buyer",
+    "score": 0.7381270353242196
+  }
+}

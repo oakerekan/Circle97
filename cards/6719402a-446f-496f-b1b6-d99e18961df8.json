@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4341,
+    "user_id": 394,
+    "created_by_name": "Mark Simmons",
+    "updated_at": "2023-10-23 23:24:25",
+    "created_at": "2023-10-23 23:24:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:25",
+    "event_id": "6719402a-446f-496f-b1b6-d99e18961df8"
+  }
+}

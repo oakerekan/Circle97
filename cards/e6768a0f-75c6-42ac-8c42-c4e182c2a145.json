@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2097,
+    "user_id": 687,
+    "created_by_name": "Adam Austin",
+    "updated_at": "2023-10-23 23:25:37",
+    "created_at": "2023-10-23 23:16:22",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:37",
+    "event_id": "e6768a0f-75c6-42ac-8c42-c4e182c2a145"
+  }
+}

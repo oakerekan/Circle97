@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1817,
+    "user_id": 656,
+    "created_by_name": "Cheyenne Taylor",
+    "updated_at": "2023-10-23 23:15:21",
+    "created_at": "2023-10-23 23:15:21",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:21",
+    "event_id": "e7a8f5d4-ec1f-45d4-bd75-f84271bd28cb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "655b0730-1d34-48a8-8375-352a99d34138"
+  },
+  "payload": {
+    "id": 51,
+    "name": "Jasmine Nguyen",
+    "address": "PSC 2624, Box 5905\nAPO AP 62563",
+    "job": "Building surveyor",
+    "score": 0.14261343544880511
+  }
+}

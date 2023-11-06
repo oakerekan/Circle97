@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b55b4345-8d65-4837-958a-97eb9084ebb3"
+  },
+  "payload": {
+    "id": 227,
+    "name": "Brandon Smith",
+    "address": "0448 Glenn Center\nRussellstad, IA 54388",
+    "job": "Surveyor, minerals",
+    "score": 0.19311146155072678
+  }
+}

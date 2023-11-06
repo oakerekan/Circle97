@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4a9bbd4d-478e-4111-8531-924fc3732c79"
+  },
+  "payload": {
+    "id": 146,
+    "name": "Mark Duke",
+    "address": "9111 Harrell Ferry Apt. 747\nNorth Terryport, MH 70975",
+    "job": "Acupuncturist",
+    "score": 0.8358433185438947
+  }
+}

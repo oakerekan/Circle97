@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "88b68c5d-b5c8-4042-8290-2027bb75af39"
+  },
+  "payload": {
+    "id": 687,
+    "name": "Brandon Jones",
+    "address": "3561 Lauren Road\nBowmanmouth, WV 71226",
+    "job": "Education officer, community",
+    "score": 0.6828215721885993
+  }
+}

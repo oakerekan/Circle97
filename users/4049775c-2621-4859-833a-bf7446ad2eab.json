@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4049775c-2621-4859-833a-bf7446ad2eab"
+  },
+  "payload": {
+    "id": 191,
+    "name": "Michael Garcia",
+    "address": "PSC 0920, Box 9746\nAPO AE 61372",
+    "job": "Chief Financial Officer",
+    "score": 0.5523683575480971
+  }
+}

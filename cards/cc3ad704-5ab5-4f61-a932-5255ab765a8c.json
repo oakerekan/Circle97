@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2015,
+    "user_id": 7,
+    "created_by_name": "Matthew Brooks",
+    "updated_at": "2023-10-23 23:16:02",
+    "created_at": "2023-10-23 23:16:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:02",
+    "event_id": "cc3ad704-5ab5-4f61-a932-5255ab765a8c"
+  }
+}

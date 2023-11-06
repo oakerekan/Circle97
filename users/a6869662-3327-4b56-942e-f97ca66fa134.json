@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a6869662-3327-4b56-942e-f97ca66fa134"
+  },
+  "payload": {
+    "id": 260,
+    "name": "Timothy Trujillo",
+    "address": "0921 Trevor Corner\nWilsonmouth, IN 12659",
+    "job": "Occupational therapist",
+    "score": 0.6411883164562113
+  }
+}

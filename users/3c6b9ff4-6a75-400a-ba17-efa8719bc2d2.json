@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3c6b9ff4-6a75-400a-ba17-efa8719bc2d2"
+  },
+  "payload": {
+    "id": 813,
+    "name": "Amanda Cook DDS",
+    "address": "PSC 3696, Box 2808\nAPO AE 66360",
+    "job": "Magazine features editor",
+    "score": 0.1303029018077544
+  }
+}

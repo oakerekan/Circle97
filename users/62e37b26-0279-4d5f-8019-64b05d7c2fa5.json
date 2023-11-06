@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "62e37b26-0279-4d5f-8019-64b05d7c2fa5"
+  },
+  "payload": {
+    "id": 7,
+    "name": "Kyle Cook",
+    "address": "1714 Barry Stravenue Suite 026\nSouth Alice, PW 90839",
+    "job": "Engineer, production",
+    "score": 0.22855388534568166
+  }
+}

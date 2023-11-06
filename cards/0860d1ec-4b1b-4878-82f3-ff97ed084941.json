@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 672,
+    "user_id": 507,
+    "created_by_name": "Alexander Kennedy",
+    "updated_at": "2023-10-23 23:24:01",
+    "created_at": "2023-10-23 23:11:18",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:01",
+    "event_id": "0860d1ec-4b1b-4878-82f3-ff97ed084941"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "51bd5c16-5207-4080-a5b1-0440d55dafec"
+  },
+  "payload": {
+    "id": 729,
+    "name": "Paul Robinson",
+    "address": "575 Sarah Glens\nGregorychester, MI 31898",
+    "job": "Proofreader",
+    "score": 0.5863541024333127
+  }
+}

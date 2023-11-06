@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2795,
+    "user_id": 17,
+    "created_by_name": "Denise Munoz",
+    "updated_at": "2023-10-23 23:19:28",
+    "created_at": "2023-10-23 23:18:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:28",
+    "event_id": "87c304d3-d8f2-43d1-9961-8eb6790250bf"
+  }
+}

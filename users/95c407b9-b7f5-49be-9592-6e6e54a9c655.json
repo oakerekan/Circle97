@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "95c407b9-b7f5-49be-9592-6e6e54a9c655"
+  },
+  "payload": {
+    "id": 17,
+    "name": "John Hart",
+    "address": "087 Carr Glens Apt. 923\nLake Donaldhaven, KS 01185",
+    "job": "Print production planner",
+    "score": 0.5108128123552459
+  }
+}

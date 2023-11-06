@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4fcaffa8-df06-47c7-a9c6-d74aa356d40f"
+  },
+  "payload": {
+    "id": 279,
+    "name": "Anthony Schaefer",
+    "address": "4501 Hudson Shore\nNew Kathrynburgh, TX 07474",
+    "job": "Production assistant, television",
+    "score": 0.32314491181299987
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e2ac7ba9-7391-4c59-a3e2-994b78c7f5d5"
+  },
+  "payload": {
+    "id": 366,
+    "name": "Jimmy Chavez",
+    "address": "36401 Jared Viaduct Apt. 222\nBriggschester, FL 73868",
+    "job": "Horticultural consultant",
+    "score": 0.5303945575298543
+  }
+}

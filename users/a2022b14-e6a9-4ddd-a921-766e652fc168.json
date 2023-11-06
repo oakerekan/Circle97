@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a2022b14-e6a9-4ddd-a921-766e652fc168"
+  },
+  "payload": {
+    "id": 760,
+    "name": "Lindsey Ramirez",
+    "address": "453 Edwards Lake Apt. 381\nStephanietown, MN 43609",
+    "job": "Adult guidance worker",
+    "score": 0.19096206288351014
+  }
+}

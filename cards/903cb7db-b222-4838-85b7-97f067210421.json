@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1533,
+    "user_id": 206,
+    "created_by_name": "Gail Cruz",
+    "updated_at": "2023-10-23 23:14:21",
+    "created_at": "2023-10-23 23:14:21",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:21",
+    "event_id": "903cb7db-b222-4838-85b7-97f067210421"
+  }
+}

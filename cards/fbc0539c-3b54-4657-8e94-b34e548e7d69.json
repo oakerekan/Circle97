@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3312,
+    "user_id": 881,
+    "created_by_name": "Laura Livingston",
+    "updated_at": "2023-10-23 23:20:47",
+    "created_at": "2023-10-23 23:20:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:47",
+    "event_id": "fbc0539c-3b54-4657-8e94-b34e548e7d69"
+  }
+}

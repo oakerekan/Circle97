@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bcfc58a5-fc5a-4170-b055-fad4d3229193"
+  },
+  "payload": {
+    "id": 342,
+    "name": "April Hodges",
+    "address": "08201 Seth Shores Apt. 481\nDavistown, HI 78636",
+    "job": "Engineer, communications",
+    "score": 0.4354557592233941
+  }
+}

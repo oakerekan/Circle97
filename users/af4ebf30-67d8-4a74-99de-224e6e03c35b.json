@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "af4ebf30-67d8-4a74-99de-224e6e03c35b"
+  },
+  "payload": {
+    "id": 452,
+    "name": "Jared Ruiz",
+    "address": "81621 Estrada Lodge\nNorth Davidmouth, NH 14174",
+    "job": "Press photographer",
+    "score": 0.045677137098673604
+  }
+}

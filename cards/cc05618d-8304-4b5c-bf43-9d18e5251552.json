@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4009,
+    "user_id": 3,
+    "created_by_name": "Teresa Underwood",
+    "updated_at": "2023-10-23 23:23:13",
+    "created_at": "2023-10-23 23:23:13",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:13",
+    "event_id": "cc05618d-8304-4b5c-bf43-9d18e5251552"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a9f81bd-0fd2-461b-bc53-0138bc2bf5b3"
+  },
+  "payload": {
+    "id": 272,
+    "name": "Mary Chan",
+    "address": "764 Kyle Rue Apt. 915\nBurgessfort, VA 61592",
+    "job": "Legal secretary",
+    "score": 0.5811290549829086
+  }
+}

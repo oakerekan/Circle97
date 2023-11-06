@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2f5e3688-587f-443b-81f4-7eb8bc279ddc"
+  },
+  "payload": {
+    "id": 58,
+    "name": "Andrew Smith",
+    "address": "0411 Tabitha Plains Suite 721\nNorth James, PA 42300",
+    "job": "Photographer",
+    "score": 0.6004351079620643
+  }
+}

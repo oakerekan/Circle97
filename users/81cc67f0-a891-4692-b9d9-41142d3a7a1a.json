@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "81cc67f0-a891-4692-b9d9-41142d3a7a1a"
+  },
+  "payload": {
+    "id": 257,
+    "name": "Jenna Cox",
+    "address": "25074 Olivia Haven Suite 219\nJademouth, VT 13412",
+    "job": "Teacher, English as a foreign language",
+    "score": 0.188612442203819
+  }
+}

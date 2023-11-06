@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a8e91ba-fa91-4171-a1ec-3359ea752dd2"
+  },
+  "payload": {
+    "id": 354,
+    "name": "Maria Pineda",
+    "address": "734 Simmons Parks Suite 669\nKathrynshire, VT 15843",
+    "job": "Surveyor, planning and development",
+    "score": 0.8126159223588176
+  }
+}

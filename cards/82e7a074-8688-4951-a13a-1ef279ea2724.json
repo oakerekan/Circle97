@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2895,
+    "created_by_name": "Gregory Bean",
+    "updated_at": "2023-10-23 23:19:24",
+    "created_at": "2023-10-23 23:19:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:24",
+    "event_id": "82e7a074-8688-4951-a13a-1ef279ea2724"
+  }
+}

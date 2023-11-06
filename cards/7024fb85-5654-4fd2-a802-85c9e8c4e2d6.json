@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4922,
+    "user_id": 735,
+    "created_by_name": "Toni Wright",
+    "updated_at": "2023-10-23 23:26:22",
+    "created_at": "2023-10-23 23:26:22",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:22",
+    "event_id": "7024fb85-5654-4fd2-a802-85c9e8c4e2d6"
+  }
+}

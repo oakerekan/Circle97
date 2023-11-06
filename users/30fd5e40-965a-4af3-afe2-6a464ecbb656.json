@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "30fd5e40-965a-4af3-afe2-6a464ecbb656"
+  },
+  "payload": {
+    "id": 341,
+    "name": "Steven Moore",
+    "address": "0335 Robinson Islands Suite 493\nSouth Dawnside, ND 47665",
+    "job": "Government social research officer",
+    "score": 0.5061891612382
+  }
+}

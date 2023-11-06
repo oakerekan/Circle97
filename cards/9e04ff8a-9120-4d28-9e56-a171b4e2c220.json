@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5789,
+    "user_id": 879,
+    "created_by_name": "Kelsey Wheeler",
+    "updated_at": "2023-10-23 23:29:44",
+    "created_at": "2023-10-23 23:29:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:44",
+    "event_id": "9e04ff8a-9120-4d28-9e56-a171b4e2c220"
+  }
+}

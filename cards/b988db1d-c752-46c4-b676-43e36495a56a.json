@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2300,
+    "user_id": 42,
+    "created_by_name": "Laura Randolph",
+    "updated_at": "2023-10-23 23:23:52",
+    "created_at": "2023-10-23 23:17:06",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:52",
+    "event_id": "b988db1d-c752-46c4-b676-43e36495a56a"
+  }
+}

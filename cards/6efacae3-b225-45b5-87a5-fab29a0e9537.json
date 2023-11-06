@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 988,
+    "user_id": 701,
+    "created_by_name": "Dana Simpson",
+    "updated_at": "2023-10-23 23:12:30",
+    "created_at": "2023-10-23 23:12:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:30",
+    "event_id": "6efacae3-b225-45b5-87a5-fab29a0e9537"
+  }
+}

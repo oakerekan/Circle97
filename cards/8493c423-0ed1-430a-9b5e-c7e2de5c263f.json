@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1319,
+    "user_id": 403,
+    "created_by_name": "Christopher Kelley",
+    "updated_at": "2023-10-23 23:24:25",
+    "created_at": "2023-10-23 23:13:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:25",
+    "event_id": "8493c423-0ed1-430a-9b5e-c7e2de5c263f"
+  }
+}

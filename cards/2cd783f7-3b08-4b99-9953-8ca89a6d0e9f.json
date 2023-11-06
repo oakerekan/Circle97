@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5292,
+    "user_id": 225,
+    "created_by_name": "Paige Williams",
+    "updated_at": "2023-10-23 23:27:48",
+    "created_at": "2023-10-23 23:27:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:48",
+    "event_id": "2cd783f7-3b08-4b99-9953-8ca89a6d0e9f"
+  }
+}

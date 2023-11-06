@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 952,
+    "user_id": 796,
+    "created_by_name": "Brenda Ramsey",
+    "updated_at": "2023-10-23 23:14:29",
+    "created_at": "2023-10-23 23:12:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:29",
+    "event_id": "fb4a6217-15de-41f5-9135-a9a3682f1ff3"
+  }
+}

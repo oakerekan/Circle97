@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1455,
+    "created_by_name": "Troy Cross",
+    "updated_at": "2023-10-23 23:17:45",
+    "created_at": "2023-10-23 23:14:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:45",
+    "event_id": "8e8883fe-2cb4-437f-bc53-c55496404b55"
+  }
+}

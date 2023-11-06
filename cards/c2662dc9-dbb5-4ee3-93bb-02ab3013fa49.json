@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 538,
+    "user_id": 952,
+    "created_by_name": "Jacob Short",
+    "updated_at": "2023-10-23 23:12:56",
+    "created_at": "2023-10-23 23:10:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:56",
+    "event_id": "c2662dc9-dbb5-4ee3-93bb-02ab3013fa49"
+  }
+}

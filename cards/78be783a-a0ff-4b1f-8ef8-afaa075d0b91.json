@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 74,
+    "user_id": 811,
+    "created_by_name": "Barbara Brown",
+    "updated_at": "2023-10-23 23:10:25",
+    "created_at": "2023-10-23 23:09:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:25",
+    "event_id": "78be783a-a0ff-4b1f-8ef8-afaa075d0b91"
+  }
+}

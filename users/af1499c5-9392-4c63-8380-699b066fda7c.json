@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "af1499c5-9392-4c63-8380-699b066fda7c"
+  },
+  "payload": {
+    "id": 937,
+    "name": "Robert Kline",
+    "address": "4666 Munoz Squares\nEast Daniellemouth, ME 31342",
+    "job": "Catering manager",
+    "score": 0.7048960963400195
+  }
+}

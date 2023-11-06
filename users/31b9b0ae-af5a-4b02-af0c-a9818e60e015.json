@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "31b9b0ae-af5a-4b02-af0c-a9818e60e015"
+  },
+  "payload": {
+    "id": 209,
+    "name": "Valerie Munoz",
+    "address": "91477 Craig Stream\nEast Johntown, LA 51462",
+    "job": "Textile designer",
+    "score": 0.17427108846756134
+  }
+}

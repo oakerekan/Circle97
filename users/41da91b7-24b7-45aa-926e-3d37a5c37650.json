@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "41da91b7-24b7-45aa-926e-3d37a5c37650"
+  },
+  "payload": {
+    "id": 137,
+    "name": "Katherine Zuniga",
+    "address": "67998 Kevin Point Apt. 570\nWest Kristopher, KS 21648",
+    "job": "Curator",
+    "score": 0.40945177458355353
+  }
+}

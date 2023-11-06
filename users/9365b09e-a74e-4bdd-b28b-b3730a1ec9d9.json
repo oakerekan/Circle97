@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9365b09e-a74e-4bdd-b28b-b3730a1ec9d9"
+  },
+  "payload": {
+    "id": 127,
+    "name": "Carrie Garcia",
+    "address": "PSC 2792, Box 5895\nAPO AA 79301",
+    "job": "Magazine features editor",
+    "score": 0.9927738381619039
+  }
+}

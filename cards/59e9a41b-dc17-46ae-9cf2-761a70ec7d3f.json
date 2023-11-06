@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1566,
+    "user_id": 612,
+    "created_by_name": "Vincent House",
+    "updated_at": "2023-10-23 23:18:36",
+    "created_at": "2023-10-23 23:14:28",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:36",
+    "event_id": "59e9a41b-dc17-46ae-9cf2-761a70ec7d3f"
+  }
+}

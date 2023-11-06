@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "20e016be-d929-4d04-a63b-900f34b29052"
+  },
+  "payload": {
+    "id": 651,
+    "name": "Cheryl Davis",
+    "address": "0450 Mcdaniel Loaf\nSouth Jeff, RI 52370",
+    "job": "Engineer, technical sales",
+    "score": 0.13364010536957782
+  }
+}

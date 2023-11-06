@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4353,
+    "user_id": 424,
+    "created_by_name": "Bryce Pennington",
+    "updated_at": "2023-10-23 23:24:26",
+    "created_at": "2023-10-23 23:24:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:26",
+    "event_id": "b476e489-1cfb-4b79-8f0a-ed5821406d42"
+  }
+}

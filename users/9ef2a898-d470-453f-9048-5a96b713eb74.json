@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9ef2a898-d470-453f-9048-5a96b713eb74"
+  },
+  "payload": {
+    "id": 101,
+    "name": "Jimmy Faulkner",
+    "address": "4751 Frances Groves Suite 858\nPort Christinehaven, AR 91491",
+    "job": "Administrator, local government",
+    "score": 0.9679975397122949
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "13eab46f-d8dc-41e1-8bac-b9d5d1f0ebcb"
+  },
+  "payload": {
+    "id": 797,
+    "name": "Matthew Sawyer",
+    "address": "8668 Jackson Village Suite 184\nJeanchester, MD 39380",
+    "job": "Accountant, chartered",
+    "score": 0.6206424067617888
+  }
+}

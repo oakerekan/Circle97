@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 89,
+    "user_id": 435,
+    "created_by_name": "Mr. Christopher Daniels",
+    "updated_at": "2023-10-23 23:10:07",
+    "created_at": "2023-10-23 23:09:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:07",
+    "event_id": "4dd728f8-f830-4cc5-a76b-c7bd444df41a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1415,
+    "user_id": 791,
+    "created_by_name": "Janet Price",
+    "updated_at": "2023-10-23 23:21:25",
+    "created_at": "2023-10-23 23:13:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:25",
+    "event_id": "36e45e38-8b2a-4519-acb9-95d815722711"
+  }
+}

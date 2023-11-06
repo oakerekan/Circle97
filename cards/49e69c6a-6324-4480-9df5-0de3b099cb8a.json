@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3520,
+    "user_id": 558,
+    "created_by_name": "Chelsey Bender",
+    "updated_at": "2023-10-23 23:22:07",
+    "created_at": "2023-10-23 23:21:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:07",
+    "event_id": "49e69c6a-6324-4480-9df5-0de3b099cb8a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a8c1b060-d166-4835-a43a-430afc6545b3"
+  },
+  "payload": {
+    "id": 0,
+    "name": "Amy Wolf",
+    "address": "626 Elliott Trail\nHarringtonborough, PA 07149",
+    "job": "Airline pilot",
+    "score": 0.2642288508522139
+  }
+}

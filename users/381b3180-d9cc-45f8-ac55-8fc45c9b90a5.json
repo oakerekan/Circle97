@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "381b3180-d9cc-45f8-ac55-8fc45c9b90a5"
+  },
+  "payload": {
+    "id": 592,
+    "name": "Michael Myers",
+    "address": "895 Jarvis Summit Apt. 841\nEast William, MO 76721",
+    "job": "Press sub",
+    "score": 0.036766977623212904
+  }
+}

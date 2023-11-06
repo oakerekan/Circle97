@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 539,
+    "user_id": 817,
+    "created_by_name": "John Morse",
+    "updated_at": "2023-10-23 23:15:51",
+    "created_at": "2023-10-23 23:10:49",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:51",
+    "event_id": "3e9f6d50-e8d0-4246-a75e-88d94ed4e27b"
+  }
+}

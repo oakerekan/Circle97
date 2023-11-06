@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5525,
+    "user_id": 155,
+    "created_by_name": "Karla Henry",
+    "updated_at": "2023-10-23 23:28:43",
+    "created_at": "2023-10-23 23:28:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:43",
+    "event_id": "0a9311d0-ae36-4f4d-9996-d906de27d864"
+  }
+}

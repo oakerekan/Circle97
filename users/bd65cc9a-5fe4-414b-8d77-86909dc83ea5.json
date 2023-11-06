@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bd65cc9a-5fe4-414b-8d77-86909dc83ea5"
+  },
+  "payload": {
+    "id": 585,
+    "name": "Mr. Gary Reynolds",
+    "address": "710 Diana Grove Suite 395\nEast Kentchester, SD 69363",
+    "job": "Solicitor, Scotland",
+    "score": 0.8464665327883828
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3779,
+    "user_id": 879,
+    "created_by_name": "Joshua Walker",
+    "updated_at": "2023-10-23 23:22:26",
+    "created_at": "2023-10-23 23:22:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:26",
+    "event_id": "0524e22a-cf0a-45cc-a01f-71388c621d05"
+  }
+}

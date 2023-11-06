@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9e84cda7-b239-454c-ab0e-85d8d5830176"
+  },
+  "payload": {
+    "id": 607,
+    "name": "James Smith",
+    "address": "902 Logan Streets\nLake Annaside, MO 99112",
+    "job": "Warehouse manager",
+    "score": 0.2875400704857718
+  }
+}

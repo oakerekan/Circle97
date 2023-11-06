@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "747b2e56-48ce-4ec4-9642-3e0d620e66f6"
+  },
+  "payload": {
+    "id": 514,
+    "name": "Edward Leach",
+    "address": "908 Holden Estate Apt. 167\nTaylorport, VI 19975",
+    "job": "Horticulturist, commercial",
+    "score": 0.3846994874215588
+  }
+}

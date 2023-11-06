@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2239,
+    "created_by_name": "Ashley Bird",
+    "updated_at": "2023-10-23 23:16:52",
+    "created_at": "2023-10-23 23:16:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:52",
+    "event_id": "aafb95d2-b60c-468b-ae53-ebe67ea2a37b"
+  }
+}

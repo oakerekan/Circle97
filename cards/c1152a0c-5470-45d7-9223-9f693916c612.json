@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1043,
+    "created_by_name": "Jared Lopez",
+    "updated_at": "2023-10-23 23:12:41",
+    "created_at": "2023-10-23 23:12:41",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:41",
+    "event_id": "c1152a0c-5470-45d7-9223-9f693916c612"
+  }
+}

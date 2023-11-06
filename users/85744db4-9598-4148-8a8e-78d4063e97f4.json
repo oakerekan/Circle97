@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "85744db4-9598-4148-8a8e-78d4063e97f4"
+  },
+  "payload": {
+    "id": 953,
+    "name": "James Russo",
+    "address": "5984 Pham Crossroad Apt. 154\nAmyfurt, CT 37386",
+    "job": "Mechanical engineer",
+    "score": 0.5994260389016935
+  }
+}

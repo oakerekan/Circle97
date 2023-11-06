@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 864,
+    "user_id": 439,
+    "created_by_name": "Samantha Gill",
+    "updated_at": "2023-10-23 23:19:52",
+    "created_at": "2023-10-23 23:12:04",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:52",
+    "event_id": "d12970a9-550f-4a72-8a2d-08ae860cf350"
+  }
+}

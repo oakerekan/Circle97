@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4281,
+    "user_id": 172,
+    "created_by_name": "Kenneth Thompson",
+    "updated_at": "2023-10-23 23:24:12",
+    "created_at": "2023-10-23 23:24:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:12",
+    "event_id": "37263fdb-4f96-4f28-becf-028ef843443f"
+  }
+}

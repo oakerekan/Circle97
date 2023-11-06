@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a00ad61-3cf4-4c91-af5f-778cd65a1a3e"
+  },
+  "payload": {
+    "id": 357,
+    "name": "Mr. Gregory Andersen Jr.",
+    "address": "441 Neal Viaduct\nJasonside, LA 80282",
+    "job": "Health service manager",
+    "score": 0.10850226954233955
+  }
+}

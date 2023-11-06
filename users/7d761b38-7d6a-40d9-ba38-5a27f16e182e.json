@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7d761b38-7d6a-40d9-ba38-5a27f16e182e"
+  },
+  "payload": {
+    "id": 861,
+    "name": "Joseph Simmons",
+    "address": "771 Nicholas Glens\nMoralesside, NM 35481",
+    "job": "Private music teacher",
+    "score": 0.9929868171857174
+  }
+}

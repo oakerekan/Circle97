@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7376f25d-c2f6-46c2-85b7-5a17702d010e"
+  },
+  "payload": {
+    "id": 421,
+    "name": "Jeremy Alvarado",
+    "address": "59045 Mercer Turnpike\nWest Kevinhaven, OR 79031",
+    "job": "Community arts worker",
+    "score": 0.0352535969385076
+  }
+}

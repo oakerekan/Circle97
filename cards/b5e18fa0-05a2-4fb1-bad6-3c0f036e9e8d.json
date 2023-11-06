@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2050,
+    "user_id": 438,
+    "created_by_name": "Lisa Delacruz",
+    "updated_at": "2023-10-23 23:16:10",
+    "created_at": "2023-10-23 23:16:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:10",
+    "event_id": "b5e18fa0-05a2-4fb1-bad6-3c0f036e9e8d"
+  }
+}

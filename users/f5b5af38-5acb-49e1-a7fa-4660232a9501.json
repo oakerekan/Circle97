@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f5b5af38-5acb-49e1-a7fa-4660232a9501"
+  },
+  "payload": {
+    "id": 353,
+    "name": "Jennifer Kaufman",
+    "address": "2634 Taylor Forges\nPort Williamfort, KS 37588",
+    "job": "Dietitian",
+    "score": 0.06426993849597673
+  }
+}

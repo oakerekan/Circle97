@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4864,
+    "user_id": 705,
+    "created_by_name": "Nathan Johnson",
+    "updated_at": "2023-10-23 23:28:01",
+    "created_at": "2023-10-23 23:26:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:01",
+    "event_id": "2c82a737-79f2-43ca-b41d-076cc89c8fff"
+  }
+}

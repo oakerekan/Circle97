@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 413,
+    "user_id": 879,
+    "created_by_name": "Kelly Mcdaniel",
+    "updated_at": "2023-10-23 23:19:29",
+    "created_at": "2023-10-23 23:10:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:29",
+    "event_id": "69142225-fb27-4fd5-a9fa-95849f42b612"
+  }
+}

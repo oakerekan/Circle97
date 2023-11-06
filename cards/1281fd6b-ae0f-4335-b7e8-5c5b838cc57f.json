@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1425,
+    "user_id": 823,
+    "created_by_name": "Robert Rodriguez",
+    "updated_at": "2023-10-23 23:28:14",
+    "created_at": "2023-10-23 23:13:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:14",
+    "event_id": "1281fd6b-ae0f-4335-b7e8-5c5b838cc57f"
+  }
+}

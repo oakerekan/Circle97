@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "651e65a4-f14d-4152-8e8a-2d3719992072"
+  },
+  "payload": {
+    "id": 158,
+    "name": "Shannon Jones",
+    "address": "137 Alyssa Pass Apt. 023\nWest Lindseyview, MN 46940",
+    "job": "Herpetologist",
+    "score": 0.9500983981180422
+  }
+}

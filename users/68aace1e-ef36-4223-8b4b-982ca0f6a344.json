@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "68aace1e-ef36-4223-8b4b-982ca0f6a344"
+  },
+  "payload": {
+    "id": 516,
+    "name": "Eric Ferguson",
+    "address": "91761 Soto Isle\nRodriguezside, FM 77531",
+    "job": "Hospital pharmacist",
+    "score": 0.7503024775456582
+  }
+}

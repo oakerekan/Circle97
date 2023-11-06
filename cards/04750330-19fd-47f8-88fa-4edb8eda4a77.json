@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3238,
+    "user_id": 862,
+    "created_by_name": "Sarah Raymond",
+    "updated_at": "2023-10-23 23:20:30",
+    "created_at": "2023-10-23 23:20:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:30",
+    "event_id": "04750330-19fd-47f8-88fa-4edb8eda4a77"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 316,
+    "user_id": 213,
+    "created_by_name": "Jennifer Quinn",
+    "updated_at": "2023-10-23 23:24:59",
+    "created_at": "2023-10-23 23:09:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:59",
+    "event_id": "f5364d37-172f-46d0-bd0c-15216b1dacec"
+  }
+}

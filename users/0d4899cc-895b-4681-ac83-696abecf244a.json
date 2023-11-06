@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0d4899cc-895b-4681-ac83-696abecf244a"
+  },
+  "payload": {
+    "id": 290,
+    "name": "David Moreno",
+    "address": "1260 Jones Ways\nRowetown, DE 04292",
+    "job": "Higher education careers adviser",
+    "score": 0.038956043635985815
+  }
+}

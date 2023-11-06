@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 846,
+    "user_id": 671,
+    "created_by_name": "Jennifer Burnett",
+    "updated_at": "2023-10-23 23:21:07",
+    "created_at": "2023-10-23 23:12:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:07",
+    "event_id": "2daa5f94-bf1c-4c0f-981d-f66f80b4594c"
+  }
+}

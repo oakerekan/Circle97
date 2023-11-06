@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2079,
+    "user_id": 745,
+    "created_by_name": "Troy Rosario",
+    "updated_at": "2023-10-23 23:17:32",
+    "created_at": "2023-10-23 23:16:17",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:32",
+    "event_id": "c9abbe21-ebee-4a2f-94cc-92b43a5257a9"
+  }
+}

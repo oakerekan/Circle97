@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 550,
+    "user_id": 239,
+    "created_by_name": "Richard Martin",
+    "updated_at": "2023-10-23 23:20:37",
+    "created_at": "2023-10-23 23:10:52",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:37",
+    "event_id": "26d1a1b2-c426-4edc-95e8-62a13552705a"
+  }
+}

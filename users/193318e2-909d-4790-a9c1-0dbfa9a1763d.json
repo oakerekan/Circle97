@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "193318e2-909d-4790-a9c1-0dbfa9a1763d"
+  },
+  "payload": {
+    "id": 744,
+    "name": "Michelle Huff",
+    "address": "1667 Haley Shoals\nNew Kevinshire, OR 87246",
+    "job": "Education administrator",
+    "score": 0.7229165112170651
+  }
+}

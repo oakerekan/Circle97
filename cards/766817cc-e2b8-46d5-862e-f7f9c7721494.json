@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2769,
+    "created_by_name": "Ronald Morris",
+    "updated_at": "2023-10-23 23:19:22",
+    "created_at": "2023-10-23 23:18:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:22",
+    "event_id": "766817cc-e2b8-46d5-862e-f7f9c7721494"
+  }
+}

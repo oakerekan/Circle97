@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4673,
+    "user_id": 203,
+    "created_by_name": "Alejandra Rodriguez",
+    "updated_at": "2023-10-23 23:25:31",
+    "created_at": "2023-10-23 23:25:31",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:31",
+    "event_id": "cfc60d3c-9364-4a6f-a960-f580ee5e91ed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4992,
+    "user_id": 874,
+    "created_by_name": "Hayley Bailey",
+    "updated_at": "2023-10-23 23:26:36",
+    "created_at": "2023-10-23 23:26:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:36",
+    "event_id": "c33cdaf1-c092-4dff-843a-e64876860271"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3368,
+    "user_id": 879,
+    "created_by_name": "Wayne Malone",
+    "updated_at": "2023-10-23 23:20:58",
+    "created_at": "2023-10-23 23:20:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:58",
+    "event_id": "aa12dcd2-20d1-4f7e-9b5c-6951378e01c7"
+  }
+}

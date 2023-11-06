@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5d35506d-f7de-4c2c-92eb-bc0632b12052"
+  },
+  "payload": {
+    "id": 338,
+    "name": "Stephen Coleman",
+    "address": "912 Jordan Mountains\nNorth Donna, VI 07560",
+    "job": "Education officer, museum",
+    "score": 0.6775157937851772
+  }
+}

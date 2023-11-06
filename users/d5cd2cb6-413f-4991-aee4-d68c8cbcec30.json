@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d5cd2cb6-413f-4991-aee4-d68c8cbcec30"
+  },
+  "payload": {
+    "id": 245,
+    "name": "Edward Zhang",
+    "address": "4872 Perez Haven\nSouth Steven, MS 33055",
+    "job": "Soil scientist",
+    "score": 0.04517186890853375
+  }
+}

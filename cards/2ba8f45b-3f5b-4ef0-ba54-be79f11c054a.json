@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 442,
+    "user_id": 489,
+    "created_by_name": "Jasmine Burton",
+    "updated_at": "2023-10-23 23:13:53",
+    "created_at": "2023-10-23 23:10:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:53",
+    "event_id": "2ba8f45b-3f5b-4ef0-ba54-be79f11c054a"
+  }
+}

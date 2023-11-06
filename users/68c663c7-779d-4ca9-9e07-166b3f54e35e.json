@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "68c663c7-779d-4ca9-9e07-166b3f54e35e"
+  },
+  "payload": {
+    "id": 959,
+    "name": "Philip Williams",
+    "address": "8618 Mack Green\nMatthewberg, WY 67620",
+    "job": "Hospital doctor",
+    "score": 0.24114163226192653
+  }
+}

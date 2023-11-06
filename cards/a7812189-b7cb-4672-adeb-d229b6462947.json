@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4389,
+    "user_id": 350,
+    "created_by_name": "Karen Harrison",
+    "updated_at": "2023-10-23 23:24:34",
+    "created_at": "2023-10-23 23:24:34",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:34",
+    "event_id": "a7812189-b7cb-4672-adeb-d229b6462947"
+  }
+}

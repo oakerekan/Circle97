@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5356,
+    "user_id": 240,
+    "created_by_name": "Cynthia Patton",
+    "updated_at": "2023-10-23 23:28:02",
+    "created_at": "2023-10-23 23:28:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:02",
+    "event_id": "fbe3a1d1-964c-4940-8a05-d1ac57aa3762"
+  }
+}

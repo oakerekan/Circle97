@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 574,
+    "user_id": 136,
+    "created_by_name": "Lawrence Evans",
+    "updated_at": "2023-10-23 23:14:12",
+    "created_at": "2023-10-23 23:10:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:12",
+    "event_id": "ffe43339-132e-4c06-9c1b-3089133d90bb"
+  }
+}

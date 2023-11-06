@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2932,
+    "user_id": 404,
+    "created_by_name": "Ryan Martinez",
+    "updated_at": "2023-10-23 23:23:19",
+    "created_at": "2023-10-23 23:19:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:19",
+    "event_id": "c31b5a24-e336-4173-ac71-3a8de5ebace9"
+  }
+}

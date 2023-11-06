@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "13764dcb-aeeb-452b-b0d7-8416ef3c9941"
+  },
+  "payload": {
+    "id": 192,
+    "name": "Valerie Fernandez",
+    "address": "4919 Gray Shoals\nJessicaberg, NM 31185",
+    "job": "Systems developer",
+    "score": 0.7222806638356385
+  }
+}

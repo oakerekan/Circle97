@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f9af82d6-1782-4556-94aa-ee10e895e165"
+  },
+  "payload": {
+    "id": 741,
+    "name": "Sarah Ortiz",
+    "address": "231 King Circle\nBakerburgh, FL 76685",
+    "job": "Seismic interpreter",
+    "score": 0.07176164752481051
+  }
+}

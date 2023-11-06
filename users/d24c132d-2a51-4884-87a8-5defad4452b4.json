@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d24c132d-2a51-4884-87a8-5defad4452b4"
+  },
+  "payload": {
+    "id": 190,
+    "name": "Jessica Smith",
+    "address": "688 Mullins Junction\nLake James, OH 50212",
+    "job": "Data processing manager",
+    "score": 0.14958121792413903
+  }
+}

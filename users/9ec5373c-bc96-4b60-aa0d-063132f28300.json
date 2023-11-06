@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9ec5373c-bc96-4b60-aa0d-063132f28300"
+  },
+  "payload": {
+    "id": 97,
+    "name": "James Good",
+    "address": "30276 Carson Villages Apt. 531\nEast Hollyside, MO 98540",
+    "job": "Marketing executive",
+    "score": 0.9032734893796722
+  }
+}

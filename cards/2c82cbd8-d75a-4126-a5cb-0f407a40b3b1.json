@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3863,
+    "user_id": 698,
+    "created_by_name": "Lisa Grimes",
+    "updated_at": "2023-10-23 23:24:01",
+    "created_at": "2023-10-23 23:22:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:01",
+    "event_id": "2c82cbd8-d75a-4126-a5cb-0f407a40b3b1"
+  }
+}

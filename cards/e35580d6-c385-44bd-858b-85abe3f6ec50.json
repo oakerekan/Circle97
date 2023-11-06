@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 247,
+    "user_id": 362,
+    "created_by_name": "Jennifer Hunter",
+    "updated_at": "2023-10-23 23:10:05",
+    "created_at": "2023-10-23 23:09:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:05",
+    "event_id": "e35580d6-c385-44bd-858b-85abe3f6ec50"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "064c4cad-23a0-4c4a-b7c3-b54a32459c83"
+  },
+  "payload": {
+    "id": 496,
+    "name": "Erin Olsen",
+    "address": "Unit 5080 Box 2709\nDPO AA 98490",
+    "job": "Curator",
+    "score": 0.9987035952089812
+  }
+}

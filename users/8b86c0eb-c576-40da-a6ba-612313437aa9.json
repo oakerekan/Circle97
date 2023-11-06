@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8b86c0eb-c576-40da-a6ba-612313437aa9"
+  },
+  "payload": {
+    "id": 359,
+    "name": "Joshua Keller",
+    "address": "399 Figueroa Locks\nEast Randyview, MO 79763",
+    "job": "Media buyer",
+    "score": 0.3506806758149823
+  }
+}

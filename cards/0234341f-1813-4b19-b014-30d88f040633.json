@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5374,
+    "user_id": 602,
+    "created_by_name": "Eric Davis",
+    "updated_at": "2023-10-23 23:28:07",
+    "created_at": "2023-10-23 23:28:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:07",
+    "event_id": "0234341f-1813-4b19-b014-30d88f040633"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 24,
+    "created_by_name": "Kimberly Mcneil",
+    "updated_at": "2023-10-23 23:14:56",
+    "created_at": "2023-10-23 23:08:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:56",
+    "event_id": "8418f8cb-6bc4-4f7a-b5cc-60eb490d8360"
+  }
+}

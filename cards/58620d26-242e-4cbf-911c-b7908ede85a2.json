@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 519,
+    "user_id": 44,
+    "created_by_name": "Brianna Wong",
+    "updated_at": "2023-10-23 23:12:36",
+    "created_at": "2023-10-23 23:10:43",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:36",
+    "event_id": "58620d26-242e-4cbf-911c-b7908ede85a2"
+  }
+}

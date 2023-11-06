@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "707e9d17-1dba-4c1f-baae-d757ca23f13c"
+  },
+  "payload": {
+    "id": 531,
+    "name": "Sophia Shaw",
+    "address": "754 Jose Station\nCruzburgh, MI 91883",
+    "job": "Glass blower/designer",
+    "score": 0.11001792381294129
+  }
+}

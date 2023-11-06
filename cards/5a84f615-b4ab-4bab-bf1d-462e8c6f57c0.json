@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2075,
+    "user_id": 689,
+    "created_by_name": "Gail Luna",
+    "updated_at": "2023-10-23 23:16:17",
+    "created_at": "2023-10-23 23:16:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:17",
+    "event_id": "5a84f615-b4ab-4bab-bf1d-462e8c6f57c0"
+  }
+}

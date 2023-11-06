@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4488,
+    "user_id": 557,
+    "created_by_name": "Calvin Green",
+    "updated_at": "2023-10-23 23:24:56",
+    "created_at": "2023-10-23 23:24:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:56",
+    "event_id": "b5cce8ea-c610-48b1-92c2-56b02d0fd56d"
+  }
+}

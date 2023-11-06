@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "91c13e8f-92da-4503-b447-0ad40277a250"
+  },
+  "payload": {
+    "id": 747,
+    "name": "Marco Anderson",
+    "address": "7055 Holloway Oval\nNorth Lindsey, WA 80527",
+    "job": "Advertising art director",
+    "score": 0.10746689789165764
+  }
+}

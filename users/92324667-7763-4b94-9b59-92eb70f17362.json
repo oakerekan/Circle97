@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "92324667-7763-4b94-9b59-92eb70f17362"
+  },
+  "payload": {
+    "id": 384,
+    "name": "Amanda Lee",
+    "address": "73532 Nguyen Manors\nJohnsonborough, PW 72009",
+    "job": "Chiropractor",
+    "score": 0.5363808844417054
+  }
+}

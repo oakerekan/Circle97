@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2189,
+    "user_id": 914,
+    "created_by_name": "Sandra Castillo",
+    "updated_at": "2023-10-23 23:17:59",
+    "created_at": "2023-10-23 23:16:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:59",
+    "event_id": "056757af-6d9c-4f06-9370-878f6adb4d8e"
+  }
+}

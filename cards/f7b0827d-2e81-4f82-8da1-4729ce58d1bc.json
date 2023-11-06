@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 156,
+    "user_id": 113,
+    "created_by_name": "Laura Montgomery",
+    "updated_at": "2023-10-23 23:10:58",
+    "created_at": "2023-10-23 23:09:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:58",
+    "event_id": "f7b0827d-2e81-4f82-8da1-4729ce58d1bc"
+  }
+}

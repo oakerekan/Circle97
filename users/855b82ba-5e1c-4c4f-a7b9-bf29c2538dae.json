@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "855b82ba-5e1c-4c4f-a7b9-bf29c2538dae"
+  },
+  "payload": {
+    "id": 423,
+    "name": "Ricardo Johnson",
+    "address": "PSC 2642, Box 8182\nAPO AP 36647",
+    "job": "Advice worker",
+    "score": 0.9538700551112337
+  }
+}

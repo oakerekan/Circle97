@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2006,
+    "user_id": 720,
+    "created_by_name": "Casey Osborn",
+    "updated_at": "2023-10-23 23:17:50",
+    "created_at": "2023-10-23 23:16:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:50",
+    "event_id": "19b3e8f2-b3d7-4cdb-9598-c211d94dc4a5"
+  }
+}

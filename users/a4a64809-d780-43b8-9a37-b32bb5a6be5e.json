@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a4a64809-d780-43b8-9a37-b32bb5a6be5e"
+  },
+  "payload": {
+    "id": 475,
+    "name": "Adam Dawson",
+    "address": "PSC 3758, Box 0047\nAPO AE 34184",
+    "job": "Ambulance person",
+    "score": 0.9042935972540278
+  }
+}

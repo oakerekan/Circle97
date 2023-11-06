@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c0d3c17e-4c08-4fb6-bb72-b85afd2f4838"
+  },
+  "payload": {
+    "id": 946,
+    "name": "Thomas Roberts",
+    "address": "2080 Jessica Club Apt. 985\nSouth Josephland, ME 80353",
+    "job": "Fisheries officer",
+    "score": 0.480896390684596
+  }
+}

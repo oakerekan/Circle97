@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "05099baf-e044-4f5c-9dfb-4b2512f29a19"
+  },
+  "payload": {
+    "id": 286,
+    "name": "Brian Hoffman",
+    "address": "Unit 5432 Box 7371\nDPO AA 11315",
+    "job": "Estate manager/land agent",
+    "score": 0.5017851818981639
+  }
+}

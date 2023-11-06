@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2123,
+    "user_id": 24,
+    "created_by_name": "Daniel Schwartz",
+    "updated_at": "2023-10-23 23:26:47",
+    "created_at": "2023-10-23 23:16:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:47",
+    "event_id": "57cfa046-44f2-40e3-82fe-10d62735ed7e"
+  }
+}

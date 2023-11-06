@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3222,
+    "user_id": 29,
+    "created_by_name": "Tyler Singleton",
+    "updated_at": "2023-10-23 23:20:28",
+    "created_at": "2023-10-23 23:20:28",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:28",
+    "event_id": "6c558361-36fc-441f-b9ee-ba0654bc5440"
+  }
+}

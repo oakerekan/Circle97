@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6cdd721f-a748-4eca-b7f6-ec52e8d935c8"
+  },
+  "payload": {
+    "id": 16,
+    "name": "John Garcia",
+    "address": "097 Hayes Forks\nJenkinston, WI 78255",
+    "job": "Physiotherapist",
+    "score": 0.5294539953898464
+  }
+}

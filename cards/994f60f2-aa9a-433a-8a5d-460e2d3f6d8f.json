@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1315,
+    "user_id": 852,
+    "created_by_name": "Justin Roberson",
+    "updated_at": "2023-10-23 23:13:34",
+    "created_at": "2023-10-23 23:13:34",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:34",
+    "event_id": "994f60f2-aa9a-433a-8a5d-460e2d3f6d8f"
+  }
+}

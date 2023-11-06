@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5957,
+    "user_id": 180,
+    "created_by_name": "Catherine Baker",
+    "updated_at": "2023-10-23 23:30:24",
+    "created_at": "2023-10-23 23:30:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:24",
+    "event_id": "397e8570-7ad8-4f90-bbec-1bd09095ee43"
+  }
+}

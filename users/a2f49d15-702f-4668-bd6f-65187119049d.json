@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a2f49d15-702f-4668-bd6f-65187119049d"
+  },
+  "payload": {
+    "id": 268,
+    "name": "Anthony Vasquez",
+    "address": "869 Hood Crossing Apt. 584\nEast Keithmouth, NC 23760",
+    "job": "Records manager",
+    "score": 0.8002360029366608
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "80c6785d-59df-48f6-a3ff-f79e7eb4038c"
+  },
+  "payload": {
+    "id": 362,
+    "name": "Jon Gross",
+    "address": "148 Williams Mountains Suite 776\nMooreberg, VA 50677",
+    "job": "Haematologist",
+    "score": 0.9747657772929716
+  }
+}

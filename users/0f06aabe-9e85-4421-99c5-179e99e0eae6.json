@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0f06aabe-9e85-4421-99c5-179e99e0eae6"
+  },
+  "payload": {
+    "id": 808,
+    "name": "Karl Pena",
+    "address": "6656 Thomas Flat\nPopeside, CT 92404",
+    "job": "Financial planner",
+    "score": 0.5631930659436005
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "27c63227-6a0b-4786-aeb0-7f4e14d2422d"
+  },
+  "payload": {
+    "id": 589,
+    "name": "Kayla Hopkins",
+    "address": "807 Fischer Bypass\nPooleport, TN 66158",
+    "job": "Education officer, environmental",
+    "score": 0.5051598489728872
+  }
+}

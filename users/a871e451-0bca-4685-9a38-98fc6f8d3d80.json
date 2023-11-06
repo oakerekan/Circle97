@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a871e451-0bca-4685-9a38-98fc6f8d3d80"
+  },
+  "payload": {
+    "id": 934,
+    "name": "Bridget Thomas",
+    "address": "2283 Brown Point Suite 116\nAlexisport, MS 19272",
+    "job": "Tour manager",
+    "score": 0.8708384589606423
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2c963207-1f5b-4172-b57d-af68d0854bc0"
+  },
+  "payload": {
+    "id": 376,
+    "name": "Jocelyn Adams",
+    "address": "796 Scott Turnpike Apt. 220\nKellyport, OR 66157",
+    "job": "Seismic interpreter",
+    "score": 0.7573578357302428
+  }
+}

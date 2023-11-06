@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "18e5888a-a90b-45f0-85ed-58917e81fded"
+  },
+  "payload": {
+    "id": 881,
+    "name": "Lynn Beasley",
+    "address": "9891 Rivers Gardens\nNew James, NC 89410",
+    "job": "Retail banker",
+    "score": 0.9269013888108097
+  }
+}

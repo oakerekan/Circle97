@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5397,
+    "user_id": 890,
+    "created_by_name": "Tina Craig",
+    "updated_at": "2023-10-23 23:28:13",
+    "created_at": "2023-10-23 23:28:13",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:13",
+    "event_id": "f40a6ec3-5282-4ed3-b763-fc7739a4c502"
+  }
+}

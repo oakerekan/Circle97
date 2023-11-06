@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a702e22-b5e2-429b-8392-2dcd5c4f0b8c"
+  },
+  "payload": {
+    "id": 285,
+    "name": "Lauren Zimmerman",
+    "address": "666 Raymond Road\nPort Jeffreyborough, SC 08451",
+    "job": "Brewing technologist",
+    "score": 0.45696064016042404
+  }
+}

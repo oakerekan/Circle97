@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d4a2b32a-121b-4d1c-b80c-d15789e165a1"
+  },
+  "payload": {
+    "id": 30,
+    "name": "Jose Campbell",
+    "address": "102 Mitchell Canyon Suite 357\nPort Anthony, MP 37268",
+    "job": "Presenter, broadcasting",
+    "score": 0.09570793952202117
+  }
+}

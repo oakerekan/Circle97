@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3b1074d8-d704-4e63-99f3-020c34387e14"
+  },
+  "payload": {
+    "id": 306,
+    "name": "Daniel Kirby",
+    "address": "Unit 2253 Box 1244\nDPO AP 58325",
+    "job": "Commercial art gallery manager",
+    "score": 0.34616192353032005
+  }
+}

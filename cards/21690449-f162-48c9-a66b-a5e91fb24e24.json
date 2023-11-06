@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2655,
+    "user_id": 482,
+    "created_by_name": "David Smith",
+    "updated_at": "2023-10-23 23:18:25",
+    "created_at": "2023-10-23 23:18:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:25",
+    "event_id": "21690449-f162-48c9-a66b-a5e91fb24e24"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5706,
+    "user_id": 819,
+    "created_by_name": "Brett Simpson",
+    "updated_at": "2023-10-23 23:29:24",
+    "created_at": "2023-10-23 23:29:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:24",
+    "event_id": "0bf65667-8ae9-408d-bed9-e5fce8c88d87"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ef397d17-8fc5-47b5-a9d1-83566a5d5b55"
+  },
+  "payload": {
+    "id": 710,
+    "name": "Lisa Flynn",
+    "address": "891 Phillip Springs Apt. 528\nEricaberg, WY 60579",
+    "job": "Retail banker",
+    "score": 0.8355306645536312
+  }
+}

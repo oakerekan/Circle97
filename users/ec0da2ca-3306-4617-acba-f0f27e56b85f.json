@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ec0da2ca-3306-4617-acba-f0f27e56b85f"
+  },
+  "payload": {
+    "id": 839,
+    "name": "Tammy Vega",
+    "address": "02030 Zachary Shoal Apt. 706\nWest Brandon, KY 18035",
+    "job": "Designer, ceramics/pottery",
+    "score": 0.3689686568275553
+  }
+}

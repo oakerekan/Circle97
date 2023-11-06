@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2059,
+    "created_by_name": "Carrie Flores",
+    "updated_at": "2023-10-23 23:23:42",
+    "created_at": "2023-10-23 23:16:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:42",
+    "event_id": "fd6ba72f-3635-4850-b05c-6384aedab5ca"
+  }
+}

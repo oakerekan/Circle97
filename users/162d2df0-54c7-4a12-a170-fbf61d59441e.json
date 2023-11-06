@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "162d2df0-54c7-4a12-a170-fbf61d59441e"
+  },
+  "payload": {
+    "id": 505,
+    "name": "Robert Cruz",
+    "address": "61764 Morris Circle Apt. 826\nWest Kristinbury, AK 40151",
+    "job": "Embryologist, clinical",
+    "score": 0.8335978798940468
+  }
+}

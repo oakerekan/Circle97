@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1841,
+    "user_id": 478,
+    "created_by_name": "Samantha Jones",
+    "updated_at": "2023-10-23 23:19:31",
+    "created_at": "2023-10-23 23:15:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:31",
+    "event_id": "374e600d-304a-4c7b-b8dd-08fa84fdc613"
+  }
+}

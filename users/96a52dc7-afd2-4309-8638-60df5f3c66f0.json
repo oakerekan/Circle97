@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "96a52dc7-afd2-4309-8638-60df5f3c66f0"
+  },
+  "payload": {
+    "id": 667,
+    "name": "Anthony Golden",
+    "address": "PSC 0584, Box 1451\nAPO AP 27265",
+    "job": "Television camera operator",
+    "score": 0.6090818092104509
+  }
+}

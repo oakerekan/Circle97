@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "10c17940-2efa-408a-845b-4b94a7d9e352"
+  },
+  "payload": {
+    "id": 486,
+    "name": "Michael Ramirez",
+    "address": "074 Gonzalez Mall\nFosterview, TN 95487",
+    "job": "Journalist, broadcasting",
+    "score": 0.027958232402990002
+  }
+}

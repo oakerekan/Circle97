@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3887,
+    "user_id": 237,
+    "created_by_name": "Rebecca Nunez",
+    "updated_at": "2023-10-23 23:22:48",
+    "created_at": "2023-10-23 23:22:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:48",
+    "event_id": "256fddd1-809e-491c-9de2-4c6107636e8e"
+  }
+}

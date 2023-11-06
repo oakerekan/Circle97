@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3b0bc0f8-f71a-47ea-95db-f2a18859c7a9"
+  },
+  "payload": {
+    "id": 904,
+    "name": "Brian Jones",
+    "address": "Unit 6501 Box 1306\nDPO AP 34823",
+    "job": "Warehouse manager",
+    "score": 0.8895386600824452
+  }
+}

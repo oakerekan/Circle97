@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 898,
+    "created_by_name": "Justin Shah",
+    "updated_at": "2023-10-23 23:12:11",
+    "created_at": "2023-10-23 23:12:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:11",
+    "event_id": "6c489b6d-a6d0-4f7a-a115-e1298f623901"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 324,
+    "user_id": 233,
+    "created_by_name": "Troy Baker",
+    "updated_at": "2023-10-23 23:22:21",
+    "created_at": "2023-10-23 23:10:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:21",
+    "event_id": "b6bb1028-114e-412e-94e0-301d297dee95"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2e22aa21-3800-4281-8400-ad20e1196dac"
+  },
+  "payload": {
+    "id": 828,
+    "name": "Kathleen Lane",
+    "address": "5196 James Crescent\nMichellestad, OH 16536",
+    "job": "Engineer, communications",
+    "score": 0.04711865696572359
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3077,
+    "user_id": 429,
+    "created_by_name": "Kelly Soto",
+    "updated_at": "2023-10-23 23:19:56",
+    "created_at": "2023-10-23 23:19:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:56",
+    "event_id": "068e143b-46e5-452d-864c-295cd7b48c8e"
+  }
+}

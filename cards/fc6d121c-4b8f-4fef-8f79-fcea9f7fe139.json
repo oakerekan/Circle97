@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2889,
+    "user_id": 169,
+    "created_by_name": "Jennifer Richardson",
+    "updated_at": "2023-10-23 23:22:23",
+    "created_at": "2023-10-23 23:19:13",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:23",
+    "event_id": "fc6d121c-4b8f-4fef-8f79-fcea9f7fe139"
+  }
+}

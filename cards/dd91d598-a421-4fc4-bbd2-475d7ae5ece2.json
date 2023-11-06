@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4525,
+    "user_id": 80,
+    "created_by_name": "Victoria Alexander",
+    "updated_at": "2023-10-23 23:25:02",
+    "created_at": "2023-10-23 23:25:02",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:02",
+    "event_id": "dd91d598-a421-4fc4-bbd2-475d7ae5ece2"
+  }
+}

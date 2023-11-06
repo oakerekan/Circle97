@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 310,
+    "user_id": 486,
+    "created_by_name": "Tara Lopez MD",
+    "updated_at": "2023-10-23 23:10:04",
+    "created_at": "2023-10-23 23:09:57",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:04",
+    "event_id": "f7a40412-8181-4a33-8861-5a199e2d9b28"
+  }
+}

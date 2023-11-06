@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 246,
+    "user_id": 614,
+    "created_by_name": "John Brewer",
+    "updated_at": "2023-10-23 23:09:44",
+    "created_at": "2023-10-23 23:09:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:44",
+    "event_id": "ad11766b-6692-439d-8876-4a539a99473d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2307,
+    "user_id": 722,
+    "created_by_name": "Noah Trujillo",
+    "updated_at": "2023-10-23 23:17:06",
+    "created_at": "2023-10-23 23:17:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:06",
+    "event_id": "40d401c6-5838-4011-b767-116790dd5408"
+  }
+}

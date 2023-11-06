@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4416,
+    "user_id": 420,
+    "created_by_name": "Mr. Gregory Andersen Jr.",
+    "updated_at": "2023-10-23 23:24:39",
+    "created_at": "2023-10-23 23:24:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:39",
+    "event_id": "683940fd-88ad-4979-a92f-222cd8010f5b"
+  }
+}

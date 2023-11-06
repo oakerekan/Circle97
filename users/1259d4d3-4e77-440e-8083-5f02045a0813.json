@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1259d4d3-4e77-440e-8083-5f02045a0813"
+  },
+  "payload": {
+    "id": 704,
+    "name": "David Rice",
+    "address": "935 Sheryl Terrace\nEast Andrewfort, AL 18049",
+    "job": "Theatre director",
+    "score": 0.04665126537725783
+  }
+}

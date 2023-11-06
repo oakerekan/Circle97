@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 367,
+    "user_id": 751,
+    "created_by_name": "Julie Brooks",
+    "updated_at": "2023-10-23 23:15:44",
+    "created_at": "2023-10-23 23:10:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:44",
+    "event_id": "a292f872-5c95-4274-be4a-d8eb13d9068a"
+  }
+}

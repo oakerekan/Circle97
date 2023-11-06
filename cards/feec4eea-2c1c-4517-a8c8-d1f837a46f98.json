@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2512,
+    "user_id": 49,
+    "created_by_name": "Amber Moreno",
+    "updated_at": "2023-10-23 23:22:39",
+    "created_at": "2023-10-23 23:17:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:39",
+    "event_id": "feec4eea-2c1c-4517-a8c8-d1f837a46f98"
+  }
+}

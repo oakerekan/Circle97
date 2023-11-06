@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d27f1aa4-2bb4-4404-a20b-603eed27040f"
+  },
+  "payload": {
+    "id": 156,
+    "name": "Andrew Edwards",
+    "address": "9191 Rodriguez Plaza\nSandraton, MA 30582",
+    "job": "Teacher, special educational needs",
+    "score": 0.3862925549933961
+  }
+}

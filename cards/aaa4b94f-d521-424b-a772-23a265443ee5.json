@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3986,
+    "created_by_name": "Kylie Parks",
+    "updated_at": "2023-10-23 23:23:09",
+    "created_at": "2023-10-23 23:23:09",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:09",
+    "event_id": "aaa4b94f-d521-424b-a772-23a265443ee5"
+  }
+}

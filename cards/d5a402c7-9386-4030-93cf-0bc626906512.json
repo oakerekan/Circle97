@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3065,
+    "created_by_name": "Meagan Smith",
+    "updated_at": "2023-10-23 23:19:53",
+    "created_at": "2023-10-23 23:19:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:53",
+    "event_id": "d5a402c7-9386-4030-93cf-0bc626906512"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d00f3eeb-0867-4feb-b17d-461ade119bd9"
+  },
+  "payload": {
+    "id": 455,
+    "name": "Katherine Hill",
+    "address": "4745 Jeffrey Dam\nWilliamsburgh, ID 55378",
+    "job": "Pharmacist, community",
+    "score": 0.4077628795451307
+  }
+}

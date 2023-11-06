@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1786,
+    "user_id": 281,
+    "created_by_name": "Andre Robertson",
+    "updated_at": "2023-10-23 23:15:53",
+    "created_at": "2023-10-23 23:15:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:53",
+    "event_id": "2e782a19-3e29-4a59-a7f6-c9acfb198ef8"
+  }
+}

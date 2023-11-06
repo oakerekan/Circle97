@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1891,
+    "user_id": 576,
+    "created_by_name": "Sara Pitts",
+    "updated_at": "2023-10-23 23:16:10",
+    "created_at": "2023-10-23 23:15:35",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:10",
+    "event_id": "ee397cf3-0d4a-48cb-b634-a52466714a10"
+  }
+}

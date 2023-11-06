@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8b50d792-c7c7-4c70-aba9-6ca6aaf3385a"
+  },
+  "payload": {
+    "id": 570,
+    "name": "Connie Hampton",
+    "address": "32562 Simon Lake Suite 690\nWest Nicolasfort, MA 33523",
+    "job": "Sports therapist",
+    "score": 0.6340804735913077
+  }
+}

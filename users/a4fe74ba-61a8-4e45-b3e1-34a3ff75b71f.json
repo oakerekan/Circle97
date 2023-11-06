@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a4fe74ba-61a8-4e45-b3e1-34a3ff75b71f"
+  },
+  "payload": {
+    "id": 232,
+    "name": "Jason Davis",
+    "address": "879 Allison Extension\nEast Crystal, GA 06505",
+    "job": "Estate manager/land agent",
+    "score": 0.6034640371765615
+  }
+}

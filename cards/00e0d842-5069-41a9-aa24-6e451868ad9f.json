@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1528,
+    "user_id": 81,
+    "created_by_name": "Brian Sims",
+    "updated_at": "2023-10-23 23:16:41",
+    "created_at": "2023-10-23 23:14:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:41",
+    "event_id": "00e0d842-5069-41a9-aa24-6e451868ad9f"
+  }
+}

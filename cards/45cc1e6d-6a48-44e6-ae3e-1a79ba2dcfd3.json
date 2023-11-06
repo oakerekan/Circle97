@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 404,
+    "user_id": 992,
+    "created_by_name": "Antonio Cohen",
+    "updated_at": "2023-10-23 23:27:13",
+    "created_at": "2023-10-23 23:10:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:13",
+    "event_id": "45cc1e6d-6a48-44e6-ae3e-1a79ba2dcfd3"
+  }
+}

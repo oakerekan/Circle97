@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1608,
+    "user_id": 915,
+    "created_by_name": "Vickie Anderson",
+    "updated_at": "2023-10-23 23:26:47",
+    "created_at": "2023-10-23 23:14:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:47",
+    "event_id": "937bcf11-6be8-40f2-840b-521a6fc713b0"
+  }
+}

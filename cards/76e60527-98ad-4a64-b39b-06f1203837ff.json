@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 141,
+    "created_by_name": "Kerry Carter",
+    "updated_at": "2023-10-23 23:10:23",
+    "created_at": "2023-10-23 23:09:22",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:23",
+    "event_id": "76e60527-98ad-4a64-b39b-06f1203837ff"
+  }
+}

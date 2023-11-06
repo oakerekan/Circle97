@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4248,
+    "user_id": 474,
+    "created_by_name": "Kenneth Stanley",
+    "updated_at": "2023-10-23 23:24:06",
+    "created_at": "2023-10-23 23:24:06",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:06",
+    "event_id": "81317edd-51ea-4312-9dca-cb3022704b7b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 167,
+    "created_by_name": "Kelsey Nelson",
+    "updated_at": "2023-10-23 23:12:49",
+    "created_at": "2023-10-23 23:09:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:49",
+    "event_id": "27d8542a-99bb-4af1-88cf-3985315d3358"
+  }
+}

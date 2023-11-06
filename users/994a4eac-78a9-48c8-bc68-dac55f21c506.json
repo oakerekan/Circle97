@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "994a4eac-78a9-48c8-bc68-dac55f21c506"
+  },
+  "payload": {
+    "id": 42,
+    "name": "Elizabeth Gardner",
+    "address": "24648 Garcia Plains\nLake Charlesbury, NH 18224",
+    "job": "Meteorologist",
+    "score": 0.599794584605144
+  }
+}

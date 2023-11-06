@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "19efb9f0-c76d-4d40-a805-6617dd5f87b2"
+  },
+  "payload": {
+    "id": 967,
+    "name": "Amber Sullivan",
+    "address": "010 William Shoal\nNew William, FL 56475",
+    "job": "Video editor",
+    "score": 0.46773054637783273
+  }
+}

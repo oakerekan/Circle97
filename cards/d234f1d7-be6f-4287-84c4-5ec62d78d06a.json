@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1102,
+    "user_id": 361,
+    "created_by_name": "Alicia Lewis",
+    "updated_at": "2023-10-23 23:22:21",
+    "created_at": "2023-10-23 23:12:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:21",
+    "event_id": "d234f1d7-be6f-4287-84c4-5ec62d78d06a"
+  }
+}

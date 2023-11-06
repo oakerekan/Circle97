@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1cc4e90e-e832-4d2e-bba5-d526626f89c4"
+  },
+  "payload": {
+    "id": 369,
+    "name": "Anthony Murphy",
+    "address": "985 Stephen Villages Suite 937\nLake Tammyfurt, PR 11658",
+    "job": "Environmental manager",
+    "score": 0.37810863188147736
+  }
+}

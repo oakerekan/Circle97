@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3651,
+    "user_id": 983,
+    "created_by_name": "Danielle Edwards",
+    "updated_at": "2023-10-23 23:22:00",
+    "created_at": "2023-10-23 23:22:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:00",
+    "event_id": "106a8843-263d-43ab-b3c3-bf4fd7ff8e2e"
+  }
+}

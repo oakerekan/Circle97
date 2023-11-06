@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d621ad21-9ad0-45b0-b691-239c7fad293e"
+  },
+  "payload": {
+    "id": 25,
+    "name": "Stacy Oneill",
+    "address": "33484 Jones Hollow\nNew Bethfurt, IA 81844",
+    "job": "Marketing executive",
+    "score": 0.23810825810705216
+  }
+}

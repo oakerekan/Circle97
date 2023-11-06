@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 990,
+    "user_id": 260,
+    "created_by_name": "Kyle Thompson",
+    "updated_at": "2023-10-23 23:15:19",
+    "created_at": "2023-10-23 23:12:31",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:19",
+    "event_id": "90bfc7cf-d2a3-42f8-aebf-546e4d65c8a5"
+  }
+}

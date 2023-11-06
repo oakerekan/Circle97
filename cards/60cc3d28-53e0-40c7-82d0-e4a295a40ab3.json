@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1812,
+    "user_id": 893,
+    "created_by_name": "Amber Wolfe",
+    "updated_at": "2023-10-23 23:15:20",
+    "created_at": "2023-10-23 23:15:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:20",
+    "event_id": "60cc3d28-53e0-40c7-82d0-e4a295a40ab3"
+  }
+}

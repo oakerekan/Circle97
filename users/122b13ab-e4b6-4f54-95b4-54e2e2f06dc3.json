@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "122b13ab-e4b6-4f54-95b4-54e2e2f06dc3"
+  },
+  "payload": {
+    "id": 738,
+    "name": "Rebecca Russo",
+    "address": "998 Brown Centers Apt. 648\nSouth Blakeberg, MP 44351",
+    "job": "Doctor, general practice",
+    "score": 0.4878919379215735
+  }
+}
