@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1519,
+    "user_id": 321,
+    "created_by_name": "Mathew Bauer",
+    "updated_at": "2023-10-23 23:14:16",
+    "created_at": "2023-10-23 23:14:16",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:16",
+    "event_id": "07f061c7-cb51-497f-b40e-cb19ac15402e"
+  }
+}

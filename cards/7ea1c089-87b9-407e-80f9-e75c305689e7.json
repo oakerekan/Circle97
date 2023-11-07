@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3447,
+    "created_by_name": "Mr. Kenneth Richards",
+    "updated_at": "2023-10-23 23:21:16",
+    "created_at": "2023-10-23 23:21:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:16",
+    "event_id": "7ea1c089-87b9-407e-80f9-e75c305689e7"
+  }
+}

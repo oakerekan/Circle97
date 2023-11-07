@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "96a53dcc-66c2-4e3b-a664-50d4efa7ed91"
+  },
+  "payload": {
+    "id": 987,
+    "name": "Jerry Johnson",
+    "address": "5466 Patrick Plains\nBrownmouth, VI 77145",
+    "job": "Designer, industrial/product",
+    "score": 0.7273343033815677
+  }
+}

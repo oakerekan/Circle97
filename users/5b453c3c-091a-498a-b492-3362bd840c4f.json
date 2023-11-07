@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5b453c3c-091a-498a-b492-3362bd840c4f"
+  },
+  "payload": {
+    "id": 721,
+    "name": "Nicole Baker",
+    "address": "0311 Michael Views\nWest Sherry, MP 94685",
+    "job": "Accounting technician",
+    "score": 0.832179524671343
+  }
+}

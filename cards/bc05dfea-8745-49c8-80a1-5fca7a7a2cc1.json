@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5652,
+    "user_id": 251,
+    "created_by_name": "Edward Arnold",
+    "updated_at": "2023-10-23 23:29:12",
+    "created_at": "2023-10-23 23:29:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:12",
+    "event_id": "bc05dfea-8745-49c8-80a1-5fca7a7a2cc1"
+  }
+}

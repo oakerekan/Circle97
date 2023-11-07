@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1912,
+    "user_id": 101,
+    "created_by_name": "Ricky Edwards",
+    "updated_at": "2023-10-23 23:17:37",
+    "created_at": "2023-10-23 23:15:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:37",
+    "event_id": "75d0289b-0abc-47c0-bb23-d29bf6088550"
+  }
+}

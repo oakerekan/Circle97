@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "14b770ef-eeb6-487b-bbbe-259605a28083"
+  },
+  "payload": {
+    "id": 979,
+    "name": "Debra Martin",
+    "address": "59136 Lindsey Via Apt. 082\nFisherbury, WV 89494",
+    "job": "Garment/textile technologist",
+    "score": 0.02686635729879372
+  }
+}

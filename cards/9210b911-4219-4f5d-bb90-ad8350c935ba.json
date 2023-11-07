@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 94,
+    "user_id": 669,
+    "created_by_name": "April Wilson",
+    "updated_at": "2023-10-23 23:15:02",
+    "created_at": "2023-10-23 23:09:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:02",
+    "event_id": "9210b911-4219-4f5d-bb90-ad8350c935ba"
+  }
+}

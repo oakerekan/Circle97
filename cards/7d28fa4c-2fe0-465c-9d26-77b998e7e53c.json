@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 708,
+    "user_id": 947,
+    "created_by_name": "Paul Miller",
+    "updated_at": "2023-10-23 23:11:26",
+    "created_at": "2023-10-23 23:11:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:26",
+    "event_id": "7d28fa4c-2fe0-465c-9d26-77b998e7e53c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b1ed5acb-c71f-4577-9ce9-985e27e2e651"
+  },
+  "payload": {
+    "id": 943,
+    "name": "Victoria Lane",
+    "address": "9636 Rich Alley Apt. 728\nPort Marcuschester, MI 01418",
+    "job": "Surveyor, rural practice",
+    "score": 0.10865131250662086
+  }
+}

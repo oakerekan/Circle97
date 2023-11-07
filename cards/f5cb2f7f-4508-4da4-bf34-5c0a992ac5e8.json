@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4863,
+    "user_id": 354,
+    "created_by_name": "Marissa Mcgrath",
+    "updated_at": "2023-10-23 23:26:08",
+    "created_at": "2023-10-23 23:26:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:08",
+    "event_id": "f5cb2f7f-4508-4da4-bf34-5c0a992ac5e8"
+  }
+}

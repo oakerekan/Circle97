@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3364,
+    "user_id": 711,
+    "created_by_name": "Michael Roy",
+    "updated_at": "2023-10-23 23:29:58",
+    "created_at": "2023-10-23 23:20:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:58",
+    "event_id": "050ff38b-1020-4d43-b267-7530e9def407"
+  }
+}

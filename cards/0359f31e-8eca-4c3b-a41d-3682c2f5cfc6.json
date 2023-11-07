@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1793,
+    "user_id": 31,
+    "created_by_name": "Nicole Garcia",
+    "updated_at": "2023-10-23 23:15:16",
+    "created_at": "2023-10-23 23:15:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:16",
+    "event_id": "0359f31e-8eca-4c3b-a41d-3682c2f5cfc6"
+  }
+}

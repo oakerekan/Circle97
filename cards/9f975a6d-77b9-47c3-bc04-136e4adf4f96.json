@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2731,
+    "user_id": 125,
+    "created_by_name": "Jennifer Trevino",
+    "updated_at": "2023-10-23 23:18:41",
+    "created_at": "2023-10-23 23:18:41",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:41",
+    "event_id": "9f975a6d-77b9-47c3-bc04-136e4adf4f96"
+  }
+}

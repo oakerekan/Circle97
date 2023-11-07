@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1602,
+    "user_id": 541,
+    "created_by_name": "Charles Torres",
+    "updated_at": "2023-10-23 23:24:19",
+    "created_at": "2023-10-23 23:14:36",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:19",
+    "event_id": "16cc5b5a-ae66-456b-9b46-f0edb9fb0f6d"
+  }
+}

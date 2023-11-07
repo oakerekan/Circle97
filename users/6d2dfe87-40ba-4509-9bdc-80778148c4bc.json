@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6d2dfe87-40ba-4509-9bdc-80778148c4bc"
+  },
+  "payload": {
+    "id": 225,
+    "name": "Christine Valdez",
+    "address": "Unit 6546 Box 2146\nDPO AA 25845",
+    "job": "Holiday representative",
+    "score": 0.5295121331145329
+  }
+}

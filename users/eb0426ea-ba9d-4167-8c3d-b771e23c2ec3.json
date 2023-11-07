@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "eb0426ea-ba9d-4167-8c3d-b771e23c2ec3"
+  },
+  "payload": {
+    "id": 175,
+    "name": "Rodney Morrison",
+    "address": "1748 Harrison Flat Apt. 445\nGinamouth, AL 38320",
+    "job": "Therapist, music",
+    "score": 0.8139810900829711
+  }
+}

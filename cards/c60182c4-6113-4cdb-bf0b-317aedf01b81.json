@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 840,
+    "created_by_name": "Christopher Calhoun",
+    "updated_at": "2023-10-23 23:13:20",
+    "created_at": "2023-10-23 23:11:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:20",
+    "event_id": "c60182c4-6113-4cdb-bf0b-317aedf01b81"
+  }
+}

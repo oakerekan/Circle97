@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b96c198b-6467-4bbb-9bec-e82f1c34932d"
+  },
+  "payload": {
+    "id": 662,
+    "name": "Colin Johnson",
+    "address": "518 Thomas Way Apt. 325\nRichardmouth, MP 98627",
+    "job": "Television floor manager",
+    "score": 0.591769943329305
+  }
+}

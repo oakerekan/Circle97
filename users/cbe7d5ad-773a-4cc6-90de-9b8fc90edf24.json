@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cbe7d5ad-773a-4cc6-90de-9b8fc90edf24"
+  },
+  "payload": {
+    "id": 913,
+    "name": "Andrea Tucker",
+    "address": "272 Evelyn Locks Suite 897\nCarlosburgh, NV 29274",
+    "job": "Seismic interpreter",
+    "score": 0.14313421021214112
+  }
+}

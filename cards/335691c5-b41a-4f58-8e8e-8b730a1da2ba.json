@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 280,
+    "user_id": 950,
+    "created_by_name": "Grace Sparks",
+    "updated_at": "2023-10-23 23:28:34",
+    "created_at": "2023-10-23 23:09:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:34",
+    "event_id": "335691c5-b41a-4f58-8e8e-8b730a1da2ba"
+  }
+}

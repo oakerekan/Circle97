@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "870ff9d6-aa37-4549-baef-8567380a7311"
+  },
+  "payload": {
+    "id": 347,
+    "name": "Lauren Wood",
+    "address": "2932 Montoya Highway Suite 853\nWardport, AZ 92482",
+    "job": "Retail buyer",
+    "score": 0.020697549843524676
+  }
+}

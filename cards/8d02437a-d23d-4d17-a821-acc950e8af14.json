@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 344,
+    "user_id": 812,
+    "created_by_name": "Christina Hardy",
+    "updated_at": "2023-10-23 23:10:05",
+    "created_at": "2023-10-23 23:10:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:05",
+    "event_id": "8d02437a-d23d-4d17-a821-acc950e8af14"
+  }
+}

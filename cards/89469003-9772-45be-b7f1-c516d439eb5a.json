@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2351,
+    "user_id": 148,
+    "created_by_name": "Allen Kelly",
+    "updated_at": "2023-10-23 23:17:18",
+    "created_at": "2023-10-23 23:17:18",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:18",
+    "event_id": "89469003-9772-45be-b7f1-c516d439eb5a"
+  }
+}

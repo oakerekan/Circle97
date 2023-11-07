@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c8cca140-65bd-4160-94bd-801fbd90a237"
+  },
+  "payload": {
+    "id": 675,
+    "name": "Rachel Jones",
+    "address": "373 Jones Mount\nNicholasside, NE 03554",
+    "job": "Advertising copywriter",
+    "score": 0.12525807607983708
+  }
+}

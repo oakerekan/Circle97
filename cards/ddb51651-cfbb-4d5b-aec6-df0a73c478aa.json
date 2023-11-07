@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4611,
+    "user_id": 730,
+    "created_by_name": "Jennifer Lloyd",
+    "updated_at": "2023-10-23 23:29:10",
+    "created_at": "2023-10-23 23:25:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:10",
+    "event_id": "ddb51651-cfbb-4d5b-aec6-df0a73c478aa"
+  }
+}

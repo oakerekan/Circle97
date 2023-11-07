@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "282d9d6f-1126-42bd-a8b7-71384554dfe2"
+  },
+  "payload": {
+    "id": 478,
+    "name": "Samantha Bennett",
+    "address": "4990 Hall Vista\nAustinton, PR 65028",
+    "job": "Lecturer, further education",
+    "score": 0.6770573235929577
+  }
+}

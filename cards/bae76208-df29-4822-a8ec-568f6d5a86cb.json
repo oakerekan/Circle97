@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 171,
+    "user_id": 712,
+    "created_by_name": "Ronald Barrett",
+    "updated_at": "2023-10-23 23:21:36",
+    "created_at": "2023-10-23 23:09:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:36",
+    "event_id": "bae76208-df29-4822-a8ec-568f6d5a86cb"
+  }
+}

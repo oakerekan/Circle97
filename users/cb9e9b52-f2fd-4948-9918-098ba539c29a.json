@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cb9e9b52-f2fd-4948-9918-098ba539c29a"
+  },
+  "payload": {
+    "id": 920,
+    "name": "Theresa Hanson",
+    "address": "9848 Graham Key\nChloetown, TX 26586",
+    "job": "Food technologist",
+    "score": 0.07981105492497043
+  }
+}

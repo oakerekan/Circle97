@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "47ef3554-fd0b-43dc-9227-73a6ecb0fb35"
+  },
+  "payload": {
+    "id": 154,
+    "name": "Timothy Smith",
+    "address": "550 Oliver Mountain\nWest Christopherview, NC 01407",
+    "job": "Gaffer",
+    "score": 0.3271236494969967
+  }
+}

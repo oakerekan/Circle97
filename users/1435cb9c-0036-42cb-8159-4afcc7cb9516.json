@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1435cb9c-0036-42cb-8159-4afcc7cb9516"
+  },
+  "payload": {
+    "id": 139,
+    "name": "Frank Stout",
+    "address": "60730 Harris Inlet Apt. 295\nNew Sandrahaven, NC 06107",
+    "job": "Geologist, wellsite",
+    "score": 0.7020846501481148
+  }
+}

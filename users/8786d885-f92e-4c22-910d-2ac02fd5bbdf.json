@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8786d885-f92e-4c22-910d-2ac02fd5bbdf"
+  },
+  "payload": {
+    "id": 70,
+    "name": "Alexis Savage",
+    "address": "36543 Garrison Lights Suite 001\nPort Davidburgh, MS 15244",
+    "job": "Market researcher",
+    "score": 0.014183332067394416
+  }
+}

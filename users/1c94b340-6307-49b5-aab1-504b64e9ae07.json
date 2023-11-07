@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1c94b340-6307-49b5-aab1-504b64e9ae07"
+  },
+  "payload": {
+    "id": 321,
+    "name": "Nancy Brennan",
+    "address": "525 Kimberly Ville Suite 136\nNorth Joshua, HI 50240",
+    "job": "Theatre director",
+    "score": 0.6097603098633614
+  }
+}

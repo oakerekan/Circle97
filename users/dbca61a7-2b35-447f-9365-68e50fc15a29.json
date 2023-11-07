@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dbca61a7-2b35-447f-9365-68e50fc15a29"
+  },
+  "payload": {
+    "id": 793,
+    "name": "Vicki Yates",
+    "address": "33217 Moody Corner Suite 546\nNorth Jeffreyberg, IL 50423",
+    "job": "Personnel officer",
+    "score": 0.02556276929540291
+  }
+}

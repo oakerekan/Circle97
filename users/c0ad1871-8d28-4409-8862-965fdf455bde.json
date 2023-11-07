@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c0ad1871-8d28-4409-8862-965fdf455bde"
+  },
+  "payload": {
+    "id": 539,
+    "name": "Alexandra Summers",
+    "address": "4199 Donna Junctions\nTaylortown, NC 63304",
+    "job": "Soil scientist",
+    "score": 0.016165547943985947
+  }
+}

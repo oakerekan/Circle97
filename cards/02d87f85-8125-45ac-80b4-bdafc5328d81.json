@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1124,
+    "user_id": 282,
+    "created_by_name": "Paige Lopez",
+    "updated_at": "2023-10-23 23:14:56",
+    "created_at": "2023-10-23 23:12:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:56",
+    "event_id": "02d87f85-8125-45ac-80b4-bdafc5328d81"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5135,
+    "user_id": 446,
+    "created_by_name": "Steven Chan",
+    "updated_at": "2023-10-23 23:27:07",
+    "created_at": "2023-10-23 23:27:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:07",
+    "event_id": "515f4e2f-47b3-46aa-a033-9cd8e91ba1a9"
+  }
+}

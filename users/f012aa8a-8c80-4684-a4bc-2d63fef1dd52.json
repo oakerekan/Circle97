@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f012aa8a-8c80-4684-a4bc-2d63fef1dd52"
+  },
+  "payload": {
+    "id": 282,
+    "name": "Thomas Beasley",
+    "address": "32527 Rivera Pass\nJonesbury, SD 67572",
+    "job": "Prison officer",
+    "score": 0.9746065900767689
+  }
+}

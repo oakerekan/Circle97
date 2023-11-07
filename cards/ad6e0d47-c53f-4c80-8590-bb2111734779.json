@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3334,
+    "created_by_name": "Mark Reeves",
+    "updated_at": "2023-10-23 23:20:52",
+    "created_at": "2023-10-23 23:20:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:52",
+    "event_id": "ad6e0d47-c53f-4c80-8590-bb2111734779"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5c7cc941-c077-4fc1-9ad8-a916fc678698"
+  },
+  "payload": {
+    "id": 532,
+    "name": "Andrea Mullins",
+    "address": "30149 Howe Isle\nPort Scottland, SD 32242",
+    "job": "Fast food restaurant manager",
+    "score": 0.89689652673706
+  }
+}

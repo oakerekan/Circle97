@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3178,
+    "user_id": 838,
+    "created_by_name": "Craig Santos",
+    "updated_at": "2023-10-23 23:22:37",
+    "created_at": "2023-10-23 23:20:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:37",
+    "event_id": "ead3aca4-9308-461d-ab29-34807cd8599b"
+  }
+}

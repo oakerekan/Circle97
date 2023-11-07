@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0cfbf119-cfb5-49c0-ad0b-77649d8d7705"
+  },
+  "payload": {
+    "id": 693,
+    "name": "Billy Cruz",
+    "address": "813 Jerry Parkway Apt. 946\nJeffreymouth, PA 36789",
+    "job": "Bookseller",
+    "score": 0.6940535252027181
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2019,
+    "user_id": 111,
+    "created_by_name": "Katrina Ramsey",
+    "updated_at": "2023-10-23 23:16:04",
+    "created_at": "2023-10-23 23:16:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:04",
+    "event_id": "2eb4d55f-f378-4ae9-a8ff-4113e71b3962"
+  }
+}

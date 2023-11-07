@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "24589269-8a3d-44fe-bf81-d38950a82158"
+  },
+  "payload": {
+    "id": 275,
+    "name": "Amy Solis",
+    "address": "94076 Kelly Shores\nEast Alan, PR 44214",
+    "job": "Engineer, land",
+    "score": 0.743320848954629
+  }
+}

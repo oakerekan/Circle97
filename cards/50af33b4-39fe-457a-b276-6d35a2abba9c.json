@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 501,
+    "user_id": 894,
+    "created_by_name": "Ariana Fernandez",
+    "updated_at": "2023-10-23 23:16:36",
+    "created_at": "2023-10-23 23:10:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:36",
+    "event_id": "50af33b4-39fe-457a-b276-6d35a2abba9c"
+  }
+}

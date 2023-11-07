@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3716,
+    "user_id": 391,
+    "created_by_name": "Lisa Reid",
+    "updated_at": "2023-10-23 23:22:13",
+    "created_at": "2023-10-23 23:22:13",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:13",
+    "event_id": "698bccd2-aa46-4655-8170-6cded75d676e"
+  }
+}

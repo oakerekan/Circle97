@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3c0bc8e9-b264-4d0b-8293-6aaad662f45d"
+  },
+  "payload": {
+    "id": 893,
+    "name": "Vincent Hunt",
+    "address": "35654 John Extension\nSouth Michaelberg, MO 45716",
+    "job": "Copy",
+    "score": 0.9966495657716989
+  }
+}

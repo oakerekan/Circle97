@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1556,
+    "user_id": 795,
+    "created_by_name": "Eric Kim",
+    "updated_at": "2023-10-23 23:14:26",
+    "created_at": "2023-10-23 23:14:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:26",
+    "event_id": "d636a600-c3ea-43c2-b67b-6ae4f633da55"
+  }
+}

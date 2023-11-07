@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "146c3ebf-0a15-4be0-a426-b1552b7489ad"
+  },
+  "payload": {
+    "id": 529,
+    "name": "Antonio Clark",
+    "address": "USCGC Smith\nFPO AP 01587",
+    "job": "Automotive engineer",
+    "score": 0.06495949867364759
+  }
+}

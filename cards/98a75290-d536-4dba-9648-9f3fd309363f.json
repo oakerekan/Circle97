@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4486,
+    "user_id": 590,
+    "created_by_name": "John Hayes MD",
+    "updated_at": "2023-10-23 23:24:54",
+    "created_at": "2023-10-23 23:24:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:54",
+    "event_id": "98a75290-d536-4dba-9648-9f3fd309363f"
+  }
+}

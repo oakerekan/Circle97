@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1161,
+    "user_id": 665,
+    "created_by_name": "Rebecca Carlson",
+    "updated_at": "2023-10-23 23:15:51",
+    "created_at": "2023-10-23 23:13:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:51",
+    "event_id": "ed8dd059-a7a4-4250-9e5e-5365d4e63e40"
+  }
+}

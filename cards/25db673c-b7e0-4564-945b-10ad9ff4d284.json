@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3237,
+    "created_by_name": "Michael Lowe",
+    "updated_at": "2023-10-23 23:20:30",
+    "created_at": "2023-10-23 23:20:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:30",
+    "event_id": "25db673c-b7e0-4564-945b-10ad9ff4d284"
+  }
+}

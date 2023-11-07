@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1080,
+    "user_id": 382,
+    "created_by_name": "Neil Hubbard",
+    "updated_at": "2023-10-23 23:12:46",
+    "created_at": "2023-10-23 23:12:46",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:46",
+    "event_id": "5b8500a7-4917-41be-963a-0c561dfb9f70"
+  }
+}

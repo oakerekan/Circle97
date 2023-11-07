@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 883,
+    "user_id": 659,
+    "created_by_name": "Tiffany Russell",
+    "updated_at": "2023-10-23 23:12:06",
+    "created_at": "2023-10-23 23:12:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:06",
+    "event_id": "365bcd03-f278-4823-a536-1732d83b5e1f"
+  }
+}

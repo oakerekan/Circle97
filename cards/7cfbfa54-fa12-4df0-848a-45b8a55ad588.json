@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 48,
+    "user_id": 35,
+    "created_by_name": "Darlene Santana",
+    "updated_at": "2023-10-23 23:27:03",
+    "created_at": "2023-10-23 23:09:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:03",
+    "event_id": "7cfbfa54-fa12-4df0-848a-45b8a55ad588"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3587,
+    "user_id": 379,
+    "created_by_name": "Bryan Greene",
+    "updated_at": "2023-10-23 23:21:49",
+    "created_at": "2023-10-23 23:21:49",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:49",
+    "event_id": "f4e74865-b296-400c-9721-047a43744638"
+  }
+}

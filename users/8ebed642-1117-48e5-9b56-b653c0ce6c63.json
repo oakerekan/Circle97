@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8ebed642-1117-48e5-9b56-b653c0ce6c63"
+  },
+  "payload": {
+    "id": 81,
+    "name": "John Wilkins MD",
+    "address": "6988 Barbara Isle Apt. 001\nJuliaberg, TN 75931",
+    "job": "Lexicographer",
+    "score": 0.4439080720398866
+  }
+}

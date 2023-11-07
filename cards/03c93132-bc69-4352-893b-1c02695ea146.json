@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4538,
+    "user_id": 256,
+    "created_by_name": "Daniel Meyers",
+    "updated_at": "2023-10-23 23:25:05",
+    "created_at": "2023-10-23 23:25:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:05",
+    "event_id": "03c93132-bc69-4352-893b-1c02695ea146"
+  }
+}

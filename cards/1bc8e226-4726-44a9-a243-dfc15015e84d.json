@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2633,
+    "created_by_name": "Jeffrey Whitehead",
+    "updated_at": "2023-10-23 23:18:19",
+    "created_at": "2023-10-23 23:18:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:19",
+    "event_id": "1bc8e226-4726-44a9-a243-dfc15015e84d"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "64857ca2-e0cd-427f-85f0-659c2cf82b3b"
+  },
+  "payload": {
+    "id": 387,
+    "name": "Ernest Bates",
+    "address": "605 James Lakes Apt. 945\nSouth Charlesport, HI 37114",
+    "job": "Retail buyer",
+    "score": 0.6503607830587881
+  }
+}

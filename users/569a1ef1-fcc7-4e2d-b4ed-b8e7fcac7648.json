@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "569a1ef1-fcc7-4e2d-b4ed-b8e7fcac7648"
+  },
+  "payload": {
+    "id": 847,
+    "name": "Stephanie Garcia",
+    "address": "03924 Tina Fields Apt. 702\nJohnhaven, IN 49478",
+    "job": "Commercial horticulturist",
+    "score": 0.8449559675337757
+  }
+}

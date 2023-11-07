@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1569,
+    "user_id": 902,
+    "created_by_name": "Brian Collins",
+    "updated_at": "2023-10-23 23:27:23",
+    "created_at": "2023-10-23 23:14:28",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:23",
+    "event_id": "29868e6e-cfbf-4149-a261-ea4d6c960b0c"
+  }
+}

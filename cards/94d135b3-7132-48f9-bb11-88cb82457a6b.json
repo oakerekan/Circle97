@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1651,
+    "user_id": 374,
+    "created_by_name": "Stacy Long",
+    "updated_at": "2023-10-23 23:21:24",
+    "created_at": "2023-10-23 23:14:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:24",
+    "event_id": "94d135b3-7132-48f9-bb11-88cb82457a6b"
+  }
+}

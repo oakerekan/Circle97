@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d4364dec-9ac9-472b-9c6a-49ad7bf59e84"
+  },
+  "payload": {
+    "id": 886,
+    "name": "Traci Green",
+    "address": "52870 Rivas Terrace\nChenmouth, PR 30165",
+    "job": "Petroleum engineer",
+    "score": 0.06697603048232403
+  }
+}

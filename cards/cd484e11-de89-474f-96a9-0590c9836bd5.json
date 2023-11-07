@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4556,
+    "user_id": 713,
+    "created_by_name": "Terry Cordova",
+    "updated_at": "2023-10-23 23:25:08",
+    "created_at": "2023-10-23 23:25:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:08",
+    "event_id": "cd484e11-de89-474f-96a9-0590c9836bd5"
+  }
+}

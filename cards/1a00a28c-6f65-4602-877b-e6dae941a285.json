@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4114,
+    "user_id": 481,
+    "created_by_name": "Anita Jackson",
+    "updated_at": "2023-10-23 23:23:37",
+    "created_at": "2023-10-23 23:23:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:37",
+    "event_id": "1a00a28c-6f65-4602-877b-e6dae941a285"
+  }
+}

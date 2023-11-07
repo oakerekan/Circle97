@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ded428a3-db29-41d2-82a6-7c9e1fd13f8b"
+  },
+  "payload": {
+    "id": 195,
+    "name": "Sean Raymond",
+    "address": "9149 Jonathan Vista\nNew Mario, MI 42897",
+    "job": "Engineer, water",
+    "score": 0.007682221571326364
+  }
+}

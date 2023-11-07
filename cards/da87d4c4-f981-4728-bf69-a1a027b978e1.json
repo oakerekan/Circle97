@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1609,
+    "created_by_name": "Timothy Cline",
+    "updated_at": "2023-10-23 23:14:38",
+    "created_at": "2023-10-23 23:14:38",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:38",
+    "event_id": "da87d4c4-f981-4728-bf69-a1a027b978e1"
+  }
+}

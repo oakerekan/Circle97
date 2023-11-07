@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 477,
+    "user_id": 85,
+    "created_by_name": "Daniel Graham",
+    "updated_at": "2023-10-23 23:12:26",
+    "created_at": "2023-10-23 23:10:33",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:26",
+    "event_id": "f96d144b-c56a-4405-a690-ef08fb2fdcc2"
+  }
+}

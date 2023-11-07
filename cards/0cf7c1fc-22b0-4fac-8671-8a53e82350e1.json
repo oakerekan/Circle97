@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 774,
+    "created_by_name": "Erin Mcguire",
+    "updated_at": "2023-10-23 23:11:42",
+    "created_at": "2023-10-23 23:11:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:42",
+    "event_id": "0cf7c1fc-22b0-4fac-8671-8a53e82350e1"
+  }
+}

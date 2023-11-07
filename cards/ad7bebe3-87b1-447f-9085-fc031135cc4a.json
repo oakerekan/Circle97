@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4092,
+    "user_id": 232,
+    "created_by_name": "Chad Lambert",
+    "updated_at": "2023-10-23 23:24:17",
+    "created_at": "2023-10-23 23:23:33",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:17",
+    "event_id": "ad7bebe3-87b1-447f-9085-fc031135cc4a"
+  }
+}

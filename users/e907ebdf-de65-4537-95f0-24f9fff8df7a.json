@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e907ebdf-de65-4537-95f0-24f9fff8df7a"
+  },
+  "payload": {
+    "id": 553,
+    "name": "Kimberly Hubbard",
+    "address": "6546 Taylor Alley Suite 578\nCrystaltown, NC 46111",
+    "job": "Brewing technologist",
+    "score": 0.3293104083513365
+  }
+}

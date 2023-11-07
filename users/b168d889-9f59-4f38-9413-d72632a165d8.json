@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b168d889-9f59-4f38-9413-d72632a165d8"
+  },
+  "payload": {
+    "id": 621,
+    "name": "John Sanchez",
+    "address": "5707 Courtney Underpass\nLake Amberbury, IA 40706",
+    "job": "Journalist, newspaper",
+    "score": 0.4144997975928798
+  }
+}

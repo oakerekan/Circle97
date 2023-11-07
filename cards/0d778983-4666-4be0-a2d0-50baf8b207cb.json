@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1245,
+    "user_id": 530,
+    "created_by_name": "Justin Sullivan",
+    "updated_at": "2023-10-23 23:16:11",
+    "created_at": "2023-10-23 23:13:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:11",
+    "event_id": "0d778983-4666-4be0-a2d0-50baf8b207cb"
+  }
+}

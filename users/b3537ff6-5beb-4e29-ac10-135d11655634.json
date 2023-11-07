@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b3537ff6-5beb-4e29-ac10-135d11655634"
+  },
+  "payload": {
+    "id": 287,
+    "name": "Robert Dean",
+    "address": "17387 Gray Coves\nNorth Michelleland, HI 15310",
+    "job": "Agricultural engineer",
+    "score": 0.6520069768491762
+  }
+}

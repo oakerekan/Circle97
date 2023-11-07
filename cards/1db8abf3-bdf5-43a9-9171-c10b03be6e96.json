@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1741,
+    "user_id": 328,
+    "created_by_name": "Terri Austin",
+    "updated_at": "2023-10-23 23:15:06",
+    "created_at": "2023-10-23 23:15:06",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:06",
+    "event_id": "1db8abf3-bdf5-43a9-9171-c10b03be6e96"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3814315c-762c-4a3e-a9b8-3d0fb4564a39"
+  },
+  "payload": {
+    "id": 443,
+    "name": "Casey Thompson",
+    "address": "60920 Megan Lakes\nWest Adam, AZ 73859",
+    "job": "Contractor",
+    "score": 0.9174957847858621
+  }
+}

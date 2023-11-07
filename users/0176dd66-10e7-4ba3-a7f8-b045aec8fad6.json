@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0176dd66-10e7-4ba3-a7f8-b045aec8fad6"
+  },
+  "payload": {
+    "id": 291,
+    "name": "Amy Carter",
+    "address": "16662 Walker Manor\nBrycefort, MT 77466",
+    "job": "Multimedia programmer",
+    "score": 0.04850557659055443
+  }
+}

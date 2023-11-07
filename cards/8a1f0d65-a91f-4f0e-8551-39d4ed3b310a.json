@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1783,
+    "user_id": 487,
+    "created_by_name": "Melissa Rocha",
+    "updated_at": "2023-10-23 23:15:15",
+    "created_at": "2023-10-23 23:15:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:15",
+    "event_id": "8a1f0d65-a91f-4f0e-8551-39d4ed3b310a"
+  }
+}

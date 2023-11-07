@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5e191394-3e08-4ce5-b8cf-adaa51a5e316"
+  },
+  "payload": {
+    "id": 45,
+    "name": "Robert Berger",
+    "address": "0624 Courtney Crest\nNorth Kristaburgh, OK 41369",
+    "job": "Statistician",
+    "score": 0.6603954676372833
+  }
+}

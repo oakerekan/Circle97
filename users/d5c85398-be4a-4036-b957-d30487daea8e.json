@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d5c85398-be4a-4036-b957-d30487daea8e"
+  },
+  "payload": {
+    "id": 295,
+    "name": "Joel Ward",
+    "address": "57270 West Village Apt. 782\nPort Geraldfurt, NM 35640",
+    "job": "Surveyor, building control",
+    "score": 0.1569353378251871
+  }
+}

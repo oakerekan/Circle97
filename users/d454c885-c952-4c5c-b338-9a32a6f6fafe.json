@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d454c885-c952-4c5c-b338-9a32a6f6fafe"
+  },
+  "payload": {
+    "id": 628,
+    "name": "Andrew Reed",
+    "address": "684 Russell Stream Apt. 068\nLake Elizabethside, MH 15175",
+    "job": "Network engineer",
+    "score": 0.6046359485364627
+  }
+}

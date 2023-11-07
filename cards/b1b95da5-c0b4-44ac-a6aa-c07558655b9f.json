@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4577,
+    "user_id": 100,
+    "created_by_name": "Ryan Rich",
+    "updated_at": "2023-10-23 23:25:11",
+    "created_at": "2023-10-23 23:25:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:11",
+    "event_id": "b1b95da5-c0b4-44ac-a6aa-c07558655b9f"
+  }
+}

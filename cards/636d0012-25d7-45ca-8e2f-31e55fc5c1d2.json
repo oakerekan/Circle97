@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2014,
+    "user_id": 849,
+    "created_by_name": "Samuel Wong",
+    "updated_at": "2023-10-23 23:19:10",
+    "created_at": "2023-10-23 23:16:02",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:10",
+    "event_id": "636d0012-25d7-45ca-8e2f-31e55fc5c1d2"
+  }
+}

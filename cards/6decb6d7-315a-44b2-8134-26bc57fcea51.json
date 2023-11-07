@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 381,
+    "user_id": 846,
+    "created_by_name": "Colleen Lowe",
+    "updated_at": "2023-10-23 23:10:14",
+    "created_at": "2023-10-23 23:10:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:14",
+    "event_id": "6decb6d7-315a-44b2-8134-26bc57fcea51"
+  }
+}

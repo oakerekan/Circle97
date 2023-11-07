@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4987,
+    "user_id": 735,
+    "created_by_name": "Wendy Webb",
+    "updated_at": "2023-10-23 23:26:36",
+    "created_at": "2023-10-23 23:26:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:36",
+    "event_id": "2251a283-951c-489a-96bf-792d49843f9e"
+  }
+}

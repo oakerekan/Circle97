@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4116,
+    "user_id": 748,
+    "created_by_name": "Tracey Barrett",
+    "updated_at": "2023-10-23 23:23:37",
+    "created_at": "2023-10-23 23:23:37",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:37",
+    "event_id": "798d9ac5-525e-40e2-bd6a-31e096d2a8fb"
+  }
+}

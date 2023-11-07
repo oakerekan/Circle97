@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5029,
+    "user_id": 148,
+    "created_by_name": "Joshua Banks",
+    "updated_at": "2023-10-23 23:26:44",
+    "created_at": "2023-10-23 23:26:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:44",
+    "event_id": "bbc012b3-403b-4bea-8161-dc8e413dce23"
+  }
+}

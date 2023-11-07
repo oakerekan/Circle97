@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c8cd23a0-6dc8-42c4-b7c8-bf77d49368da"
+  },
+  "payload": {
+    "id": 231,
+    "name": "Gilbert Combs",
+    "address": "645 Arthur Key\nSouth Charlesstad, CT 21367",
+    "job": "Copywriter, advertising",
+    "score": 0.5778036066461574
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e2b62bfe-6225-48e6-9d90-8272e91c1db4"
+  },
+  "payload": {
+    "id": 476,
+    "name": "Wyatt Leonard",
+    "address": "4080 Jessica Loaf Apt. 350\nLake Shawnstad, KY 59534",
+    "job": "Soil scientist",
+    "score": 0.6465082209701494
+  }
+}

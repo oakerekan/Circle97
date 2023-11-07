@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3809,
+    "user_id": 601,
+    "created_by_name": "Ryan Mayo",
+    "updated_at": "2023-10-23 23:22:32",
+    "created_at": "2023-10-23 23:22:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:32",
+    "event_id": "5fd11fdd-608e-4f89-b213-ef044ff620e1"
+  }
+}

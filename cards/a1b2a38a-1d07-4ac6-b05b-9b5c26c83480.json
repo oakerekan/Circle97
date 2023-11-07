@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1123,
+    "user_id": 749,
+    "created_by_name": "Amanda Meyers",
+    "updated_at": "2023-10-23 23:15:15",
+    "created_at": "2023-10-23 23:12:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:15",
+    "event_id": "a1b2a38a-1d07-4ac6-b05b-9b5c26c83480"
+  }
+}

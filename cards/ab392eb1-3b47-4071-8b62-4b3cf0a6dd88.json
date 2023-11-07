@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4948,
+    "user_id": 121,
+    "created_by_name": "Jodi Castro",
+    "updated_at": "2023-10-23 23:26:27",
+    "created_at": "2023-10-23 23:26:27",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:27",
+    "event_id": "ab392eb1-3b47-4071-8b62-4b3cf0a6dd88"
+  }
+}

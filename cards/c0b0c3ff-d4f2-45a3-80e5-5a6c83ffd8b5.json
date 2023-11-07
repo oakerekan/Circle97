@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5697,
+    "user_id": 714,
+    "created_by_name": "Sheila Gould",
+    "updated_at": "2023-10-23 23:29:23",
+    "created_at": "2023-10-23 23:29:23",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:23",
+    "event_id": "c0b0c3ff-d4f2-45a3-80e5-5a6c83ffd8b5"
+  }
+}

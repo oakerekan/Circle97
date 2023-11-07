@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "136bca45-0151-4ec6-bf82-8198bed2c674"
+  },
+  "payload": {
+    "id": 91,
+    "name": "Stephen Harris",
+    "address": "807 Bailey Creek Apt. 567\nTorresborough, VA 21735",
+    "job": "Health promotion specialist",
+    "score": 0.12832219162320113
+  }
+}

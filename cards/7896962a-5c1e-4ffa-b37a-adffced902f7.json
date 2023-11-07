@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4057,
+    "user_id": 707,
+    "created_by_name": "Kevin Duncan",
+    "updated_at": "2023-10-23 23:23:24",
+    "created_at": "2023-10-23 23:23:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:24",
+    "event_id": "7896962a-5c1e-4ffa-b37a-adffced902f7"
+  }
+}

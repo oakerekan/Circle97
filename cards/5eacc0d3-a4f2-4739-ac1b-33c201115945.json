@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4214,
+    "user_id": 651,
+    "created_by_name": "Anthony May",
+    "updated_at": "2023-10-23 23:23:59",
+    "created_at": "2023-10-23 23:23:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:59",
+    "event_id": "5eacc0d3-a4f2-4739-ac1b-33c201115945"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 792,
+    "user_id": 674,
+    "created_by_name": "Phillip Collins",
+    "updated_at": "2023-10-23 23:26:57",
+    "created_at": "2023-10-23 23:11:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:57",
+    "event_id": "3411fcfd-68a2-441c-bd88-b79bc0ffa569"
+  }
+}

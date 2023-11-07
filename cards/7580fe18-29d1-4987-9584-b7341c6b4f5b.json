@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 819,
+    "created_by_name": "Bonnie Patel",
+    "updated_at": "2023-10-23 23:12:05",
+    "created_at": "2023-10-23 23:11:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:05",
+    "event_id": "7580fe18-29d1-4987-9584-b7341c6b4f5b"
+  }
+}

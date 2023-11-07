@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "483e74a6-b8de-4b2e-9355-46a4227b4287"
+  },
+  "payload": {
+    "id": 161,
+    "name": "Kyle Miller",
+    "address": "678 Michelle Plains Suite 414\nWallermouth, NM 69091",
+    "job": "Nutritional therapist",
+    "score": 0.5105907038696601
+  }
+}

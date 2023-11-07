@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 313,
+    "created_by_name": "Taylor Hess",
+    "updated_at": "2023-10-23 23:11:01",
+    "created_at": "2023-10-23 23:09:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:01",
+    "event_id": "3ef96078-3cd6-467e-bc0f-2ed2fec1a28a"
+  }
+}

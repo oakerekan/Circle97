@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 154,
+    "user_id": 197,
+    "created_by_name": "Stephen Miller",
+    "updated_at": "2023-10-23 23:23:59",
+    "created_at": "2023-10-23 23:09:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:59",
+    "event_id": "c4b48354-53bc-4eec-8ff6-63b114c6b565"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1706,
+    "created_by_name": "Tara Davis",
+    "updated_at": "2023-10-23 23:15:20",
+    "created_at": "2023-10-23 23:14:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:20",
+    "event_id": "d0e030d1-bda4-4484-a0ca-1826fe93483e"
+  }
+}

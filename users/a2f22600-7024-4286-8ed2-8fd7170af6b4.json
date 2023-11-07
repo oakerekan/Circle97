@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a2f22600-7024-4286-8ed2-8fd7170af6b4"
+  },
+  "payload": {
+    "id": 820,
+    "name": "Jeanne Buckley",
+    "address": "528 Glover Bypass Suite 237\nWest Mary, KS 97312",
+    "job": "Scientist, research (life sciences)",
+    "score": 0.3888298257182855
+  }
+}

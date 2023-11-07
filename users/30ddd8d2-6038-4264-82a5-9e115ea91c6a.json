@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "30ddd8d2-6038-4264-82a5-9e115ea91c6a"
+  },
+  "payload": {
+    "id": 646,
+    "name": "Henry Hester",
+    "address": "1776 Nash Plains\nNew Susanside, GU 14958",
+    "job": "Associate Professor",
+    "score": 0.09662581144111537
+  }
+}

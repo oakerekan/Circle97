@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3403,
+    "user_id": 549,
+    "created_by_name": "Paul Mccoy",
+    "updated_at": "2023-10-23 23:21:07",
+    "created_at": "2023-10-23 23:21:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:07",
+    "event_id": "a1fb49a5-7b00-42a3-bceb-5ae61402cc32"
+  }
+}

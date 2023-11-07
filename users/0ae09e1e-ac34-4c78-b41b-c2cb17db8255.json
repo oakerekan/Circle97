@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0ae09e1e-ac34-4c78-b41b-c2cb17db8255"
+  },
+  "payload": {
+    "id": 69,
+    "name": "Bruce Zimmerman",
+    "address": "USNV Reyes\nFPO AE 80450",
+    "job": "Engineer, building services",
+    "score": 0.21630899568078465
+  }
+}

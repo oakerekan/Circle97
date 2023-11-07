@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 670,
+    "user_id": 440,
+    "created_by_name": "Joseph Willis",
+    "updated_at": "2023-10-23 23:11:18",
+    "created_at": "2023-10-23 23:11:18",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:18",
+    "event_id": "8296889e-8134-4924-82b4-25ed62d98101"
+  }
+}

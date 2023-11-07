@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2d7e43d0-52c3-4fd8-a067-b091ab8e6857"
+  },
+  "payload": {
+    "id": 378,
+    "name": "Chelsea Romero",
+    "address": "9524 Brock Valleys\nCarlsonmouth, MH 48324",
+    "job": "Engineering geologist",
+    "score": 0.671850480285485
+  }
+}

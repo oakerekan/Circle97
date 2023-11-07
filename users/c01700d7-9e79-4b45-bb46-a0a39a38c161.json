@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c01700d7-9e79-4b45-bb46-a0a39a38c161"
+  },
+  "payload": {
+    "id": 373,
+    "name": "Kevin Blackburn",
+    "address": "USNS Miller\nFPO AA 22968",
+    "job": "Lecturer, further education",
+    "score": 0.7846323623716741
+  }
+}

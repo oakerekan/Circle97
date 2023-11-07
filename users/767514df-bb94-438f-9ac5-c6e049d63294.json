@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "767514df-bb94-438f-9ac5-c6e049d63294"
+  },
+  "payload": {
+    "id": 18,
+    "name": "Cassandra Molina",
+    "address": "65890 Charles Curve\nWest Nancybury, AK 42149",
+    "job": "Systems analyst",
+    "score": 0.08017903692386674
+  }
+}

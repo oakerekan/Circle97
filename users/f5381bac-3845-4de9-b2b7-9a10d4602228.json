@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f5381bac-3845-4de9-b2b7-9a10d4602228"
+  },
+  "payload": {
+    "id": 356,
+    "name": "Jessica Stewart",
+    "address": "42042 Natalie Gateway\nNew Davidfurt, RI 51935",
+    "job": "Nurse, adult",
+    "score": 0.5999948456834473
+  }
+}

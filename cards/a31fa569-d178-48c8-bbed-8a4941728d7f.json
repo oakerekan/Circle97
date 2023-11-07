@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1632,
+    "user_id": 169,
+    "created_by_name": "Brooke Bennett",
+    "updated_at": "2023-10-23 23:14:43",
+    "created_at": "2023-10-23 23:14:43",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:43",
+    "event_id": "a31fa569-d178-48c8-bbed-8a4941728d7f"
+  }
+}

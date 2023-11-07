@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 647,
+    "user_id": 96,
+    "created_by_name": "Christopher Guzman",
+    "updated_at": "2023-10-23 23:19:22",
+    "created_at": "2023-10-23 23:11:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:22",
+    "event_id": "0eaa3c6d-d187-44eb-84ee-20d252b31f79"
+  }
+}

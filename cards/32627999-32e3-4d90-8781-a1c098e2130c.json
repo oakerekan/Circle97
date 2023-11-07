@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3780,
+    "user_id": 979,
+    "created_by_name": "Pamela Nunez",
+    "updated_at": "2023-10-23 23:22:26",
+    "created_at": "2023-10-23 23:22:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:26",
+    "event_id": "32627999-32e3-4d90-8781-a1c098e2130c"
+  }
+}

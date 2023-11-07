@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5694,
+    "user_id": 68,
+    "created_by_name": "Robert Hancock",
+    "updated_at": "2023-10-23 23:29:21",
+    "created_at": "2023-10-23 23:29:21",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:21",
+    "event_id": "e0d0fb25-d79c-47ba-a51a-18ea384521ec"
+  }
+}

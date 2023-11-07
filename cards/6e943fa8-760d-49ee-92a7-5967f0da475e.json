@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 615,
+    "user_id": 29,
+    "created_by_name": "Erica Wells",
+    "updated_at": "2023-10-23 23:28:21",
+    "created_at": "2023-10-23 23:11:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:21",
+    "event_id": "6e943fa8-760d-49ee-92a7-5967f0da475e"
+  }
+}

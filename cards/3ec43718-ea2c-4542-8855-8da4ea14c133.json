@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 175,
+    "user_id": 491,
+    "created_by_name": "Wesley Ayers",
+    "updated_at": "2023-10-23 23:09:29",
+    "created_at": "2023-10-23 23:09:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:29",
+    "event_id": "3ec43718-ea2c-4542-8855-8da4ea14c133"
+  }
+}

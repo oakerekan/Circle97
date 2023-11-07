@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 756,
+    "user_id": 472,
+    "created_by_name": "Jennifer Alexander",
+    "updated_at": "2023-10-23 23:17:22",
+    "created_at": "2023-10-23 23:11:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:22",
+    "event_id": "4bea2df7-f630-4dd5-8732-4d96ba430f1e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b299022b-30c8-459e-809b-ea637fe22f88"
+  },
+  "payload": {
+    "id": 826,
+    "name": "Joseph Ayala",
+    "address": "05216 Jon Estate Apt. 935\nThomasville, FL 93070",
+    "job": "Comptroller",
+    "score": 0.040088909745205625
+  }
+}

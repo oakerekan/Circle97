@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fde9dbe4-decd-4baf-adf9-63e318b962cc"
+  },
+  "payload": {
+    "id": 461,
+    "name": "Denise Lindsey",
+    "address": "51941 Miguel Ridge\nLake Matthewhaven, IA 25613",
+    "job": "Product/process development scientist",
+    "score": 0.6363769501126725
+  }
+}

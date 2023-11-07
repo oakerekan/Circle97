@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3089,
+    "user_id": 487,
+    "created_by_name": "Theresa Bishop",
+    "updated_at": "2023-10-23 23:19:57",
+    "created_at": "2023-10-23 23:19:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:57",
+    "event_id": "c5ad4704-c704-497d-b8f9-c874714e80f1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "170d2c01-7957-4a93-be5b-b93bdccc9fad"
+  },
+  "payload": {
+    "id": 79,
+    "name": "Stephanie Carter",
+    "address": "053 Boyle Roads\nEast Terri, TX 29428",
+    "job": "Prison officer",
+    "score": 0.059922897593140734
+  }
+}

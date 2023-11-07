@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "eb51a993-3c61-405c-8a44-fd76f53188a5"
+  },
+  "payload": {
+    "id": 730,
+    "name": "Allison Guzman",
+    "address": "60771 Obrien Motorway Suite 238\nNataliestad, VA 84823",
+    "job": "Field trials officer",
+    "score": 0.12876961008140542
+  }
+}

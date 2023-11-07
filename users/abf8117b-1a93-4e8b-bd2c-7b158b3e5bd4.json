@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "abf8117b-1a93-4e8b-bd2c-7b158b3e5bd4"
+  },
+  "payload": {
+    "id": 249,
+    "name": "Matthew Mahoney",
+    "address": "8391 Nunez Road\nSarahshire, MN 30427",
+    "job": "Radiographer, diagnostic",
+    "score": 0.6067447273480875
+  }
+}

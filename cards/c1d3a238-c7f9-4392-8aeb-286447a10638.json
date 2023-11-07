@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1768,
+    "user_id": 843,
+    "created_by_name": "Nancy Webb",
+    "updated_at": "2023-10-23 23:15:11",
+    "created_at": "2023-10-23 23:15:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:11",
+    "event_id": "c1d3a238-c7f9-4392-8aeb-286447a10638"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1931,
+    "user_id": 173,
+    "created_by_name": "Elizabeth Serrano",
+    "updated_at": "2023-10-23 23:23:30",
+    "created_at": "2023-10-23 23:15:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:30",
+    "event_id": "15331934-5a6b-4a36-9246-60bbfbdb1fd6"
+  }
+}

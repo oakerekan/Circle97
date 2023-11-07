@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3096,
+    "user_id": 596,
+    "created_by_name": "Douglas Vasquez",
+    "updated_at": "2023-10-23 23:20:01",
+    "created_at": "2023-10-23 23:20:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:01",
+    "event_id": "de507735-a787-468b-8f7a-26da4b3c9674"
+  }
+}

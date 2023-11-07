@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "15605e93-666f-4e3e-9726-a8ac30a80a3b"
+  },
+  "payload": {
+    "id": 27,
+    "name": "Julie Peck",
+    "address": "5063 Luis Fort Suite 279\nSimmonsbury, WA 63020",
+    "job": "Politician's assistant",
+    "score": 0.21366098002811884
+  }
+}

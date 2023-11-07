@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3094,
+    "user_id": 752,
+    "created_by_name": "Terry Pena",
+    "updated_at": "2023-10-23 23:29:30",
+    "created_at": "2023-10-23 23:19:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:30",
+    "event_id": "51289e3a-7a7f-4c23-bace-434ac7b31fe4"
+  }
+}

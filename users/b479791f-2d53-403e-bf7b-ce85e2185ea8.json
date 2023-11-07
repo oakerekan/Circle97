@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b479791f-2d53-403e-bf7b-ce85e2185ea8"
+  },
+  "payload": {
+    "id": 999,
+    "name": "Marcus Thompson",
+    "address": "234 Patricia Estates Apt. 985\nSouth Amyshire, HI 12485",
+    "job": "Astronomer",
+    "score": 0.06988745993727119
+  }
+}

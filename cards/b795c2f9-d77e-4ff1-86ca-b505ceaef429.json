@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 13,
+    "user_id": 170,
+    "created_by_name": "Shawn Fields",
+    "updated_at": "2023-10-23 23:09:01",
+    "created_at": "2023-10-23 23:08:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:01",
+    "event_id": "b795c2f9-d77e-4ff1-86ca-b505ceaef429"
+  }
+}

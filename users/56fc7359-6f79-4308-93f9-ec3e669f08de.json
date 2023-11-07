@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "56fc7359-6f79-4308-93f9-ec3e669f08de"
+  },
+  "payload": {
+    "id": 230,
+    "name": "Daniel Atkins",
+    "address": "9527 Jeremiah Prairie\nJustinville, NM 27087",
+    "job": "Research scientist (life sciences)",
+    "score": 0.5533874658038898
+  }
+}

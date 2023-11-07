@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1290,
+    "user_id": 155,
+    "created_by_name": "Justin Barry",
+    "updated_at": "2023-10-23 23:13:29",
+    "created_at": "2023-10-23 23:13:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:29",
+    "event_id": "12a77759-cf63-469c-aa9d-980d5683bf37"
+  }
+}

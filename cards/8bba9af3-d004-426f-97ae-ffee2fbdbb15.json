@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1661,
+    "user_id": 832,
+    "created_by_name": "Haley Sanchez",
+    "updated_at": "2023-10-23 23:14:49",
+    "created_at": "2023-10-23 23:14:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:49",
+    "event_id": "8bba9af3-d004-426f-97ae-ffee2fbdbb15"
+  }
+}

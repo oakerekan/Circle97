@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 152,
+    "created_by_name": "Billy Curtis",
+    "updated_at": "2023-10-23 23:10:38",
+    "created_at": "2023-10-23 23:09:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:38",
+    "event_id": "495fba1b-4ee2-4b09-b870-86d2da630767"
+  }
+}

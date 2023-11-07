@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4570,
+    "user_id": 135,
+    "created_by_name": "Keith Edwards",
+    "updated_at": "2023-10-23 23:25:10",
+    "created_at": "2023-10-23 23:25:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:10",
+    "event_id": "824ebd75-205a-41dd-ade4-c9936f58b951"
+  }
+}

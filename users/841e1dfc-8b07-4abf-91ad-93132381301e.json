@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "841e1dfc-8b07-4abf-91ad-93132381301e"
+  },
+  "payload": {
+    "id": 278,
+    "name": "Cynthia Nguyen",
+    "address": "60328 Conley Viaduct Apt. 717\nNew Barbarashire, AR 11805",
+    "job": "Engineer, biomedical",
+    "score": 0.09076359483058039
+  }
+}

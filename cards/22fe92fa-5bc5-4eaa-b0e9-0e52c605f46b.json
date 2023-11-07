@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5006,
+    "user_id": 820,
+    "created_by_name": "Shannon Bonilla",
+    "updated_at": "2023-10-23 23:26:38",
+    "created_at": "2023-10-23 23:26:38",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:38",
+    "event_id": "22fe92fa-5bc5-4eaa-b0e9-0e52c605f46b"
+  }
+}

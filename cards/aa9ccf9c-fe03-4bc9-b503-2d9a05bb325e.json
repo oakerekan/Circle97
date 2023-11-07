@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3343,
+    "user_id": 284,
+    "created_by_name": "Jimmy Becker",
+    "updated_at": "2023-10-23 23:20:53",
+    "created_at": "2023-10-23 23:20:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:53",
+    "event_id": "aa9ccf9c-fe03-4bc9-b503-2d9a05bb325e"
+  }
+}

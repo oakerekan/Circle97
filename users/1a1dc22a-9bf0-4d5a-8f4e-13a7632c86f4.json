@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a1dc22a-9bf0-4d5a-8f4e-13a7632c86f4"
+  },
+  "payload": {
+    "id": 740,
+    "name": "Jessica Evans",
+    "address": "089 Boone Neck Apt. 272\nWilliamberg, NE 29843",
+    "job": "Equities trader",
+    "score": 0.548069015917248
+  }
+}

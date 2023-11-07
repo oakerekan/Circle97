@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3670,
+    "user_id": 934,
+    "created_by_name": "Yolanda Farrell",
+    "updated_at": "2023-10-23 23:24:14",
+    "created_at": "2023-10-23 23:22:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:14",
+    "event_id": "30a58f23-c9d6-4a2f-9b7b-37c7cf6b9e6e"
+  }
+}

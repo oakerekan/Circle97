@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 210,
+    "user_id": 732,
+    "created_by_name": "Summer Kelly",
+    "updated_at": "2023-10-23 23:17:35",
+    "created_at": "2023-10-23 23:09:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:35",
+    "event_id": "d4a0bd86-dab0-4dbc-8262-0afbd1b2eada"
+  }
+}

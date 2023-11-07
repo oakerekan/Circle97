@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2377,
+    "user_id": 595,
+    "created_by_name": "David Bowman",
+    "updated_at": "2023-10-23 23:17:22",
+    "created_at": "2023-10-23 23:17:22",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:22",
+    "event_id": "212e1c59-84f7-4fc9-815a-52b0dfdfc596"
+  }
+}

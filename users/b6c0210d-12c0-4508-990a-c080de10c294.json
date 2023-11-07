@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b6c0210d-12c0-4508-990a-c080de10c294"
+  },
+  "payload": {
+    "id": 479,
+    "name": "Crystal Munoz",
+    "address": "645 Lisa Hill Apt. 920\nKennedyborough, PR 51999",
+    "job": "Water quality scientist",
+    "score": 0.05923241763559017
+  }
+}

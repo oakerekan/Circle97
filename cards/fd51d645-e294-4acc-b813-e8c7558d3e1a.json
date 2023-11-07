@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 97,
+    "user_id": 963,
+    "created_by_name": "Jacqueline Hoffman",
+    "updated_at": "2023-10-23 23:09:14",
+    "created_at": "2023-10-23 23:09:14",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:14",
+    "event_id": "fd51d645-e294-4acc-b813-e8c7558d3e1a"
+  }
+}

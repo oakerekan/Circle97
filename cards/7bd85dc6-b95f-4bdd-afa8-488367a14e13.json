@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4883,
+    "user_id": 852,
+    "created_by_name": "Ashley Lang",
+    "updated_at": "2023-10-23 23:26:12",
+    "created_at": "2023-10-23 23:26:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:12",
+    "event_id": "7bd85dc6-b95f-4bdd-afa8-488367a14e13"
+  }
+}

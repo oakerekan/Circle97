@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7b265796-b9ea-4912-99ef-25ca73899e98"
+  },
+  "payload": {
+    "id": 768,
+    "name": "Hannah Alvarado",
+    "address": "PSC 7239, Box 2083\nAPO AE 18517",
+    "job": "Firefighter",
+    "score": 0.9966355877334909
+  }
+}

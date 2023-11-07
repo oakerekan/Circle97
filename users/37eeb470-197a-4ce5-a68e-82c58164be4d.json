@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "37eeb470-197a-4ce5-a68e-82c58164be4d"
+  },
+  "payload": {
+    "id": 24,
+    "name": "Kelly Howard",
+    "address": "285 Linda Mountains Apt. 468\nNorth Kimberly, MO 68170",
+    "job": "Herpetologist",
+    "score": 0.32055468815944477
+  }
+}

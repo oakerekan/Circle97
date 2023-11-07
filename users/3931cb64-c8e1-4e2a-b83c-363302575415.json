@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3931cb64-c8e1-4e2a-b83c-363302575415"
+  },
+  "payload": {
+    "id": 593,
+    "name": "Jacob Clark",
+    "address": "96096 Sanders Mills Apt. 840\nPort Michaeltown, MH 86163",
+    "job": "Visual merchandiser",
+    "score": 0.5438015328257456
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 432,
+    "user_id": 342,
+    "created_by_name": "Victoria Robinson",
+    "updated_at": "2023-10-23 23:11:24",
+    "created_at": "2023-10-23 23:10:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:24",
+    "event_id": "6874169d-aff1-4aca-9631-10fce23dc802"
+  }
+}

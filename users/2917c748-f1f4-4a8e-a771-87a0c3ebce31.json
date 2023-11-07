@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2917c748-f1f4-4a8e-a771-87a0c3ebce31"
+  },
+  "payload": {
+    "id": 78,
+    "name": "Casey Reed",
+    "address": "4133 Thomas Green\nCraigburgh, SC 15002",
+    "job": "Psychologist, sport and exercise",
+    "score": 0.5484380670792096
+  }
+}

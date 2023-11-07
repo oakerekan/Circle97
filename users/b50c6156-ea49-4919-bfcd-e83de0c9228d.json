@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b50c6156-ea49-4919-bfcd-e83de0c9228d"
+  },
+  "payload": {
+    "id": 663,
+    "name": "Brandon Moore",
+    "address": "009 James Causeway\nNorth Jamesborough, IL 86057",
+    "job": "Commercial horticulturist",
+    "score": 0.24912330359131085
+  }
+}

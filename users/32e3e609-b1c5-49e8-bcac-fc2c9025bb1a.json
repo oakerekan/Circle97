@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "32e3e609-b1c5-49e8-bcac-fc2c9025bb1a"
+  },
+  "payload": {
+    "id": 88,
+    "name": "Alicia Lewis",
+    "address": "68088 Brown Mountain Apt. 935\nKristinton, LA 33494",
+    "job": "Actuary",
+    "score": 0.40699424985052657
+  }
+}

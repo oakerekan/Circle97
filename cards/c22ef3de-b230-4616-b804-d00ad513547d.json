@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3965,
+    "user_id": 161,
+    "created_by_name": "Benjamin Brown",
+    "updated_at": "2023-10-23 23:23:03",
+    "created_at": "2023-10-23 23:23:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:03",
+    "event_id": "c22ef3de-b230-4616-b804-d00ad513547d"
+  }
+}

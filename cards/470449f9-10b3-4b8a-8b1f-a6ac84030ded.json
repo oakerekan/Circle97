@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2565,
+    "user_id": 765,
+    "created_by_name": "Gina Hobbs",
+    "updated_at": "2023-10-23 23:26:08",
+    "created_at": "2023-10-23 23:18:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:08",
+    "event_id": "470449f9-10b3-4b8a-8b1f-a6ac84030ded"
+  }
+}

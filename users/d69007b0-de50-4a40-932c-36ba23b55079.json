@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d69007b0-de50-4a40-932c-36ba23b55079"
+  },
+  "payload": {
+    "id": 133,
+    "name": "Jennifer Little",
+    "address": "4400 Smith Rest Apt. 424\nSouth Shirleyfurt, MA 78157",
+    "job": "Charity fundraiser",
+    "score": 0.3709029701670814
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dd103f30-efbb-40a5-919c-587796c038f1"
+  },
+  "payload": {
+    "id": 783,
+    "name": "Shane Anderson",
+    "address": "72632 Stacy Bypass Apt. 638\nSamanthamouth, VA 20693",
+    "job": "Administrator, charities/voluntary organisations",
+    "score": 0.6845603102337153
+  }
+}

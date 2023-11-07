@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5800,
+    "user_id": 28,
+    "created_by_name": "Sharon Bailey",
+    "updated_at": "2023-10-23 23:29:45",
+    "created_at": "2023-10-23 23:29:45",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:45",
+    "event_id": "97bd6e01-0210-46c0-8796-7005644efd63"
+  }
+}

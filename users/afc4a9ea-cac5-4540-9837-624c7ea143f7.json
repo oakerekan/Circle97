@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "afc4a9ea-cac5-4540-9837-624c7ea143f7"
+  },
+  "payload": {
+    "id": 59,
+    "name": "Sarah Munoz",
+    "address": "074 Timothy Gateway Suite 594\nEast Jacobchester, AL 09303",
+    "job": "Homeopath",
+    "score": 0.1620260140019808
+  }
+}

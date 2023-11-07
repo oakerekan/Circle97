@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 759,
+    "user_id": 558,
+    "created_by_name": "Amanda Harrison",
+    "updated_at": "2023-10-23 23:11:39",
+    "created_at": "2023-10-23 23:11:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:39",
+    "event_id": "8d6d327f-73ba-4263-b4b5-3f984ba47e7f"
+  }
+}

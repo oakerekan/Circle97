@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e569fff9-1824-4846-a8fd-622726524a56"
+  },
+  "payload": {
+    "id": 41,
+    "name": "Jill Oneal",
+    "address": "250 Kerri Spring\nNew Beth, IN 96639",
+    "job": "Lawyer",
+    "score": 0.5460932022306051
+  }
+}

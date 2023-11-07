@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "407e47ad-fec8-4bd5-8658-9c67fecc3cd8"
+  },
+  "payload": {
+    "id": 564,
+    "name": "Donald Fitzpatrick",
+    "address": "0713 Fuentes Estate Apt. 866\nNew Jerryberg, AS 76991",
+    "job": "IT technical support officer",
+    "score": 0.9727817714281357
+  }
+}

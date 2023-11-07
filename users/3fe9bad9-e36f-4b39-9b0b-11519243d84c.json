@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3fe9bad9-e36f-4b39-9b0b-11519243d84c"
+  },
+  "payload": {
+    "id": 47,
+    "name": "Sandra Jones",
+    "address": "77814 Anderson Rest\nWest Russell, FL 91545",
+    "job": "Administrator, charities/voluntary organisations",
+    "score": 0.5696843300373058
+  }
+}

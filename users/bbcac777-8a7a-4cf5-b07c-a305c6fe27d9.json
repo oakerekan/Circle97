@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bbcac777-8a7a-4cf5-b07c-a305c6fe27d9"
+  },
+  "payload": {
+    "id": 633,
+    "name": "Andrew Hall",
+    "address": "68696 Brown Hollow Suite 997\nChandlerhaven, ND 37583",
+    "job": "Scientist, water quality",
+    "score": 0.24490006820741284
+  }
+}

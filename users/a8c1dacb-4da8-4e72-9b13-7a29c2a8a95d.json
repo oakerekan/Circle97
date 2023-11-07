@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a8c1dacb-4da8-4e72-9b13-7a29c2a8a95d"
+  },
+  "payload": {
+    "id": 500,
+    "name": "Elizabeth Wilson",
+    "address": "13882 Turner Landing Suite 786\nEdwinmouth, NM 04169",
+    "job": "Therapist, horticultural",
+    "score": 0.5331140140823668
+  }
+}

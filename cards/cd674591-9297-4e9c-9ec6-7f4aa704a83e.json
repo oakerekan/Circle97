@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3349,
+    "user_id": 4,
+    "created_by_name": "Christian Kaiser",
+    "updated_at": "2023-10-23 23:23:52",
+    "created_at": "2023-10-23 23:20:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:52",
+    "event_id": "cd674591-9297-4e9c-9ec6-7f4aa704a83e"
+  }
+}

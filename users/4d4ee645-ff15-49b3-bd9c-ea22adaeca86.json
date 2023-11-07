@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4d4ee645-ff15-49b3-bd9c-ea22adaeca86"
+  },
+  "payload": {
+    "id": 533,
+    "name": "Sydney Harrison",
+    "address": "95065 Nicole Crest\nJonmouth, MA 10905",
+    "job": "Planning and development surveyor",
+    "score": 0.9515637759413742
+  }
+}

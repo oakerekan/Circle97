@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "98af7a85-23ba-475b-8104-4095ee538d0e"
+  },
+  "payload": {
+    "id": 413,
+    "name": "Adrian Anderson",
+    "address": "86642 Miller Islands Suite 228\nNorth Carlaborough, TX 80767",
+    "job": "Engineer, broadcasting (operations)",
+    "score": 0.23266881206570778
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 462,
+    "user_id": 610,
+    "created_by_name": "Evelyn Hawkins",
+    "updated_at": "2023-10-23 23:30:29",
+    "created_at": "2023-10-23 23:10:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:29",
+    "event_id": "5156abf4-7390-4c1c-ba24-631625d59d95"
+  }
+}

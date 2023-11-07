@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3379,
+    "user_id": 898,
+    "created_by_name": "Cynthia Weaver",
+    "updated_at": "2023-10-23 23:21:02",
+    "created_at": "2023-10-23 23:21:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:02",
+    "event_id": "9d2f3d2b-e9fe-4d06-a7c0-3ff2700617ef"
+  }
+}

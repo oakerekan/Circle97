@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1932,
+    "user_id": 65,
+    "created_by_name": "Jamie Erickson",
+    "updated_at": "2023-10-23 23:15:44",
+    "created_at": "2023-10-23 23:15:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:44",
+    "event_id": "fece2255-25dd-4087-bcc0-445f069cb2d1"
+  }
+}

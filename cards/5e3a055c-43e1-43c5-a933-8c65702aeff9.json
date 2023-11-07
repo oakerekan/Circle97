@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5024,
+    "user_id": 710,
+    "created_by_name": "Joshua Frederick",
+    "updated_at": "2023-10-23 23:26:44",
+    "created_at": "2023-10-23 23:26:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:44",
+    "event_id": "5e3a055c-43e1-43c5-a933-8c65702aeff9"
+  }
+}

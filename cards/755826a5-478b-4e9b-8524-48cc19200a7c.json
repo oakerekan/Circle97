@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2010,
+    "user_id": 590,
+    "created_by_name": "David Bullock",
+    "updated_at": "2023-10-23 23:26:29",
+    "created_at": "2023-10-23 23:16:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:29",
+    "event_id": "755826a5-478b-4e9b-8524-48cc19200a7c"
+  }
+}

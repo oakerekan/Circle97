@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1038,
+    "created_by_name": "Adam Dixon",
+    "updated_at": "2023-10-23 23:12:39",
+    "created_at": "2023-10-23 23:12:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:39",
+    "event_id": "79d8b72a-94ca-48b1-b317-108bb8f5a03e"
+  }
+}

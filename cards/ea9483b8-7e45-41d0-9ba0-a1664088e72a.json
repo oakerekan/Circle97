@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3111,
+    "user_id": 753,
+    "created_by_name": "John Ritter",
+    "updated_at": "2023-10-23 23:20:04",
+    "created_at": "2023-10-23 23:20:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:04",
+    "event_id": "ea9483b8-7e45-41d0-9ba0-a1664088e72a"
+  }
+}

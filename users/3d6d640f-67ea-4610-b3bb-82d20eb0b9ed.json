@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3d6d640f-67ea-4610-b3bb-82d20eb0b9ed"
+  },
+  "payload": {
+    "id": 135,
+    "name": "Holly Hansen",
+    "address": "157 Beltran Walks\nEast Christinaside, DC 70150",
+    "job": "Charity fundraiser",
+    "score": 0.17410228322756827
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "94d9d799-831f-4e5e-95f9-a5b980d2379f"
+  },
+  "payload": {
+    "id": 87,
+    "name": "Nichole Brown",
+    "address": "224 Mendez Row Suite 605\nNorth Kristenland, OH 92155",
+    "job": "Teacher, music",
+    "score": 0.8030615934395607
+  }
+}

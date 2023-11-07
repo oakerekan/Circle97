@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1068,
+    "created_by_name": "Michael Bowen DDS",
+    "updated_at": "2023-10-23 23:14:14",
+    "created_at": "2023-10-23 23:12:45",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:14",
+    "event_id": "c453e11c-9648-4486-a7da-e8b968e2fa81"
+  }
+}

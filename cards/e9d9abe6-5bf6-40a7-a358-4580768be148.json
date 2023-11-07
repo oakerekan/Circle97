@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 879,
+    "created_by_name": "Sarah Holland",
+    "updated_at": "2023-10-23 23:12:06",
+    "created_at": "2023-10-23 23:12:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:06",
+    "event_id": "e9d9abe6-5bf6-40a7-a358-4580768be148"
+  }
+}

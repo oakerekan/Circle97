@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e41546d2-884b-4bb9-851f-47eb77c43056"
+  },
+  "payload": {
+    "id": 941,
+    "name": "Kenneth Douglas",
+    "address": "946 Moyer Stravenue\nVirginiaview, MS 02137",
+    "job": "Regulatory affairs officer",
+    "score": 0.4219294253099145
+  }
+}

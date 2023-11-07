@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4028,
+    "created_by_name": "William Yates",
+    "updated_at": "2023-10-23 23:23:18",
+    "created_at": "2023-10-23 23:23:18",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:18",
+    "event_id": "3037b1e5-2f51-4216-a429-49e7d6d6fcde"
+  }
+}

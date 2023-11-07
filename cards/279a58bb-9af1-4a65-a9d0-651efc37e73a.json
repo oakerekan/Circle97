@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1739,
+    "user_id": 765,
+    "created_by_name": "Kristi Torres",
+    "updated_at": "2023-10-23 23:15:06",
+    "created_at": "2023-10-23 23:15:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:06",
+    "event_id": "279a58bb-9af1-4a65-a9d0-651efc37e73a"
+  }
+}

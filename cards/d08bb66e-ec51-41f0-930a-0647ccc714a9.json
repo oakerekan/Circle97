@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2489,
+    "user_id": 595,
+    "created_by_name": "Garrett Shea",
+    "updated_at": "2023-10-23 23:17:47",
+    "created_at": "2023-10-23 23:17:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:47",
+    "event_id": "d08bb66e-ec51-41f0-930a-0647ccc714a9"
+  }
+}

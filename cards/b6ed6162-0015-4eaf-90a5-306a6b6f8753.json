@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5875,
+    "user_id": 771,
+    "created_by_name": "Nancy Kim",
+    "updated_at": "2023-10-23 23:30:02",
+    "created_at": "2023-10-23 23:30:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:02",
+    "event_id": "b6ed6162-0015-4eaf-90a5-306a6b6f8753"
+  }
+}

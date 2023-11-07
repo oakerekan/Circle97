@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 384,
+    "user_id": 137,
+    "created_by_name": "Isaiah Rowe",
+    "updated_at": "2023-10-23 23:12:48",
+    "created_at": "2023-10-23 23:10:14",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:48",
+    "event_id": "7bb4c4cf-7842-4837-ab0a-cdeee95160e8"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "233bb931-0788-401e-a52f-f3c52ae95245"
+  },
+  "payload": {
+    "id": 752,
+    "name": "Michael Doyle",
+    "address": "098 Glenn Springs\nElizabethport, IA 98666",
+    "job": "Doctor, general practice",
+    "score": 0.4714735709347134
+  }
+}

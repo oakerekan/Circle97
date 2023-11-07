@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0ae1a629-337e-4b2b-b7e9-bc80249f6a48"
+  },
+  "payload": {
+    "id": 669,
+    "name": "Jason Olson",
+    "address": "567 David Knolls\nEast Clinton, NH 58038",
+    "job": "Theatre stage manager",
+    "score": 0.13454860415176495
+  }
+}

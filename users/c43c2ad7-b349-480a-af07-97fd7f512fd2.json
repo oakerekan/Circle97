@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c43c2ad7-b349-480a-af07-97fd7f512fd2"
+  },
+  "payload": {
+    "id": 53,
+    "name": "Kimberly Buckley",
+    "address": "232 Jimenez Roads Suite 105\nMunozberg, NM 58136",
+    "job": "IT technical support officer",
+    "score": 0.19071561497570166
+  }
+}

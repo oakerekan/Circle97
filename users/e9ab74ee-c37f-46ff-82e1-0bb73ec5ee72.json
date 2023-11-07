@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e9ab74ee-c37f-46ff-82e1-0bb73ec5ee72"
+  },
+  "payload": {
+    "id": 776,
+    "name": "Lisa Mercer",
+    "address": "1983 Hoffman Forest\nConnermouth, WY 14919",
+    "job": "Chartered legal executive (England and Wales)",
+    "score": 0.2154003484150807
+  }
+}

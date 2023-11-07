@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 866,
+    "user_id": 543,
+    "created_by_name": "James Day",
+    "updated_at": "2023-10-23 23:21:39",
+    "created_at": "2023-10-23 23:12:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:39",
+    "event_id": "ce24e26a-4224-4731-9a9a-44e62824c0cc"
+  }
+}

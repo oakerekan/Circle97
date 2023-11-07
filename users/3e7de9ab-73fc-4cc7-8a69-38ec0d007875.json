@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3e7de9ab-73fc-4cc7-8a69-38ec0d007875"
+  },
+  "payload": {
+    "id": 541,
+    "name": "Mary Jenkins",
+    "address": "768 Kelly Via\nJacksonside, VA 49961",
+    "job": "Speech and language therapist",
+    "score": 0.1474411656601603
+  }
+}

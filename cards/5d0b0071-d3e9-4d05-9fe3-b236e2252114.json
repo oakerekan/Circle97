@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3044,
+    "user_id": 442,
+    "created_by_name": "Colleen Johnson",
+    "updated_at": "2023-10-23 23:19:49",
+    "created_at": "2023-10-23 23:19:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:49",
+    "event_id": "5d0b0071-d3e9-4d05-9fe3-b236e2252114"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4078,
+    "user_id": 427,
+    "created_by_name": "Hunter Hernandez",
+    "updated_at": "2023-10-23 23:23:30",
+    "created_at": "2023-10-23 23:23:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:30",
+    "event_id": "3850904d-25b6-4b1c-a598-4871e7aa3359"
+  }
+}

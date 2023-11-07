@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "46aa47c2-e500-4bfd-bacb-6772649b75be"
+  },
+  "payload": {
+    "id": 990,
+    "name": "Daniel Hansen",
+    "address": "5158 Rivera Stravenue Apt. 133\nWest Markfurt, SC 03789",
+    "job": "Lecturer, higher education",
+    "score": 0.9826147057699625
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cfd4a7bd-1510-412d-8b0b-df52c3f901cb"
+  },
+  "payload": {
+    "id": 809,
+    "name": "Robert Johnson",
+    "address": "5745 Cowan Dam Apt. 379\nContrerasbury, UT 12609",
+    "job": "Sales executive",
+    "score": 0.980194537400292
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c0734471-8a3f-4849-935f-36681249fcdf"
+  },
+  "payload": {
+    "id": 572,
+    "name": "Roberto Smith",
+    "address": "38866 Marilyn Meadows Apt. 164\nNew Angel, CT 37068",
+    "job": "Holiday representative",
+    "score": 0.20939197301773482
+  }
+}

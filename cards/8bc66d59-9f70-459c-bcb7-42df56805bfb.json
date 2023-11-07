@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4062,
+    "user_id": 98,
+    "created_by_name": "Patrick Hansen",
+    "updated_at": "2023-10-23 23:23:26",
+    "created_at": "2023-10-23 23:23:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:26",
+    "event_id": "8bc66d59-9f70-459c-bcb7-42df56805bfb"
+  }
+}

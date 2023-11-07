@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "403a7d10-b417-405c-89de-8c053e4509b8"
+  },
+  "payload": {
+    "id": 706,
+    "name": "William Brown",
+    "address": "766 Kathy Pass\nCarmenburgh, GU 17891",
+    "job": "Nurse, learning disability",
+    "score": 0.11976580210346288
+  }
+}

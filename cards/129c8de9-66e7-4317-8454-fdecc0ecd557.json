@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4115,
+    "user_id": 791,
+    "created_by_name": "Karen Kelley PhD",
+    "updated_at": "2023-10-23 23:30:20",
+    "created_at": "2023-10-23 23:23:37",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:20",
+    "event_id": "129c8de9-66e7-4317-8454-fdecc0ecd557"
+  }
+}

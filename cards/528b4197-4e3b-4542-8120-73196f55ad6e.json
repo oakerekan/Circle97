@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 374,
+    "user_id": 206,
+    "created_by_name": "Taylor Nguyen",
+    "updated_at": "2023-10-23 23:10:12",
+    "created_at": "2023-10-23 23:10:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:12",
+    "event_id": "528b4197-4e3b-4542-8120-73196f55ad6e"
+  }
+}

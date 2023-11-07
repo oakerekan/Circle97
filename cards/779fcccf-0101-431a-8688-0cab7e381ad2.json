@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3128,
+    "user_id": 171,
+    "created_by_name": "Susan Hartman",
+    "updated_at": "2023-10-23 23:20:07",
+    "created_at": "2023-10-23 23:20:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:07",
+    "event_id": "779fcccf-0101-431a-8688-0cab7e381ad2"
+  }
+}

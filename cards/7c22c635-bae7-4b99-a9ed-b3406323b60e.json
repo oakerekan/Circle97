@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3897,
+    "user_id": 316,
+    "created_by_name": "Gabriel Meyer",
+    "updated_at": "2023-10-23 23:22:50",
+    "created_at": "2023-10-23 23:22:50",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:50",
+    "event_id": "7c22c635-bae7-4b99-a9ed-b3406323b60e"
+  }
+}

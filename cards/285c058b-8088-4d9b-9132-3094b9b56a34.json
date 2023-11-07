@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2478,
+    "user_id": 87,
+    "created_by_name": "Mark Mathis",
+    "updated_at": "2023-10-23 23:17:45",
+    "created_at": "2023-10-23 23:17:45",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:45",
+    "event_id": "285c058b-8088-4d9b-9132-3094b9b56a34"
+  }
+}

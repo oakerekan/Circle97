@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4428,
+    "user_id": 804,
+    "created_by_name": "Barry Townsend",
+    "updated_at": "2023-10-23 23:27:08",
+    "created_at": "2023-10-23 23:24:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:08",
+    "event_id": "3161a642-43bf-4900-b654-5e514c719760"
+  }
+}

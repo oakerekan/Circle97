@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8986bff1-9bbe-4eeb-9584-f9645f581755"
+  },
+  "payload": {
+    "id": 446,
+    "name": "Laura Santana",
+    "address": "Unit 5675 Box 8573\nDPO AP 65432",
+    "job": "Product/process development scientist",
+    "score": 0.491435186185327
+  }
+}

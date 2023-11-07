@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d073f2d5-b732-4a4e-b835-eae0e9428181"
+  },
+  "payload": {
+    "id": 600,
+    "name": "Daniel Long",
+    "address": "251 Roberson Trail Suite 205\nPotterfurt, DE 74558",
+    "job": "Insurance claims handler",
+    "score": 0.4356847223339442
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "006759bd-9a00-47c4-8a35-f7cf9877f9fa"
+  },
+  "payload": {
+    "id": 507,
+    "name": "Jacob Wise",
+    "address": "474 Jennifer Union\nReyesburgh, PW 08119",
+    "job": "Engineer, electrical",
+    "score": 0.5269982678268781
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e1664a77-0ffe-4277-a57f-b659e54f0de9"
+  },
+  "payload": {
+    "id": 284,
+    "name": "Shannon Adams",
+    "address": "3517 Jaime Oval Suite 322\nRobertoburgh, MO 78415",
+    "job": "Petroleum engineer",
+    "score": 0.3782917226676572
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5121,
+    "user_id": 99,
+    "created_by_name": "Dalton Reyes",
+    "updated_at": "2023-10-23 23:27:03",
+    "created_at": "2023-10-23 23:27:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:03",
+    "event_id": "13f694e8-290f-44c2-a41c-05e8c0d9542b"
+  }
+}

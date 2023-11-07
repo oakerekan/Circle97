@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1c03103d-850f-4790-b9c2-5c84e880aa66"
+  },
+  "payload": {
+    "id": 348,
+    "name": "Jennifer Campbell",
+    "address": "9450 John Springs Suite 985\nEast Timothy, ME 17223",
+    "job": "Sub",
+    "score": 0.8153483082270124
+  }
+}

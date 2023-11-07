@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d4d1030e-0d78-441b-95e8-a608b439baad"
+  },
+  "payload": {
+    "id": 528,
+    "name": "Kathryn Adams",
+    "address": "95997 Kelly Turnpike Apt. 342\nKatherinemouth, OH 92588",
+    "job": "Barrister",
+    "score": 0.05225260748446181
+  }
+}

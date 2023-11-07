@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f7d80694-5880-4659-818a-181a4176072c"
+  },
+  "payload": {
+    "id": 289,
+    "name": "Samantha Juarez",
+    "address": "64748 Dawn Streets\nNew David, PA 73853",
+    "job": "Designer, graphic",
+    "score": 0.785401536626394
+  }
+}

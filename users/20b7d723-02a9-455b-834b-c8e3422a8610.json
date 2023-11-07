@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "20b7d723-02a9-455b-834b-c8e3422a8610"
+  },
+  "payload": {
+    "id": 986,
+    "name": "Paula Smith",
+    "address": "USNV Harris\nFPO AE 00681",
+    "job": "Banker",
+    "score": 0.5309647016282827
+  }
+}

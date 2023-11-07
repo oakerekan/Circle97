@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 161,
+    "user_id": 726,
+    "created_by_name": "Joshua Pena",
+    "updated_at": "2023-10-23 23:09:26",
+    "created_at": "2023-10-23 23:09:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:26",
+    "event_id": "8be483f5-5b72-4667-941d-6669f62828bf"
+  }
+}

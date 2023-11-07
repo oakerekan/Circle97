@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "71b7e349-0e09-48f5-9550-ef2bff3eae51"
+  },
+  "payload": {
+    "id": 652,
+    "name": "Robert Lewis",
+    "address": "076 Scott Fords Suite 101\nPort Zacharybury, NC 62407",
+    "job": "Control and instrumentation engineer",
+    "score": 0.08522750710727756
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5126,
+    "user_id": 696,
+    "created_by_name": "Pedro Cochran",
+    "updated_at": "2023-10-23 23:27:05",
+    "created_at": "2023-10-23 23:27:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:05",
+    "event_id": "c412c83d-a493-4f9c-9bd3-76afe17dd4c6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 905,
+    "user_id": 734,
+    "created_by_name": "Erica Hodges",
+    "updated_at": "2023-10-23 23:24:21",
+    "created_at": "2023-10-23 23:12:13",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:21",
+    "event_id": "5cc059da-b469-43e0-b850-c7de2a0eb426"
+  }
+}

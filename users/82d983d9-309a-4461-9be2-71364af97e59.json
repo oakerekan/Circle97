@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "82d983d9-309a-4461-9be2-71364af97e59"
+  },
+  "payload": {
+    "id": 901,
+    "name": "William King",
+    "address": "7693 Nash Place\nNew Michelebury, WY 91259",
+    "job": "Scientist, research (life sciences)",
+    "score": 0.7801466695024978
+  }
+}

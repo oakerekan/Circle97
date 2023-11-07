@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1541,
+    "created_by_name": "Matthew Bennett",
+    "updated_at": "2023-10-23 23:22:56",
+    "created_at": "2023-10-23 23:14:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:56",
+    "event_id": "2ca0703f-6109-4c98-8782-0aff9231fd11"
+  }
+}

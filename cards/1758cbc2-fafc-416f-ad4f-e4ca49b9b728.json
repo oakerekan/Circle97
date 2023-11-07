@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 472,
+    "user_id": 79,
+    "created_by_name": "Crystal Schroeder",
+    "updated_at": "2023-10-23 23:19:31",
+    "created_at": "2023-10-23 23:10:33",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:31",
+    "event_id": "1758cbc2-fafc-416f-ad4f-e4ca49b9b728"
+  }
+}

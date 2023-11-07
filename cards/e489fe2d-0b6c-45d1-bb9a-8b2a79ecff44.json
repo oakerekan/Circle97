@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4805,
+    "user_id": 139,
+    "created_by_name": "Toni Mitchell",
+    "updated_at": "2023-10-23 23:25:58",
+    "created_at": "2023-10-23 23:25:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:58",
+    "event_id": "e489fe2d-0b6c-45d1-bb9a-8b2a79ecff44"
+  }
+}

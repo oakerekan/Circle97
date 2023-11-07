@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b9e52004-1bce-44e6-bc6d-738cb67429a4"
+  },
+  "payload": {
+    "id": 352,
+    "name": "Jeffrey Middleton",
+    "address": "98914 Taylor Crossing\nPenningtonburgh, RI 53485",
+    "job": "Government social research officer",
+    "score": 0.544609221559505
+  }
+}

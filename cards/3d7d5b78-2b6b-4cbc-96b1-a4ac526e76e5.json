@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2863,
+    "user_id": 45,
+    "created_by_name": "Lori Nelson",
+    "updated_at": "2023-10-23 23:19:08",
+    "created_at": "2023-10-23 23:19:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:08",
+    "event_id": "3d7d5b78-2b6b-4cbc-96b1-a4ac526e76e5"
+  }
+}

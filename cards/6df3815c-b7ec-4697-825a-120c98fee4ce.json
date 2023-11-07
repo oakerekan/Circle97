@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4198,
+    "user_id": 702,
+    "created_by_name": "Linda Peters",
+    "updated_at": "2023-10-23 23:23:53",
+    "created_at": "2023-10-23 23:23:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:53",
+    "event_id": "6df3815c-b7ec-4697-825a-120c98fee4ce"
+  }
+}

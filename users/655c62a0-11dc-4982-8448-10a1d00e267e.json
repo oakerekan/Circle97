@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "655c62a0-11dc-4982-8448-10a1d00e267e"
+  },
+  "payload": {
+    "id": 848,
+    "name": "Kayla Day",
+    "address": "170 Stone Tunnel\nScottview, MA 76942",
+    "job": "Sales professional, IT",
+    "score": 0.6616074011823899
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5af9c2fb-0b64-43e1-adf5-1683c64e60eb"
+  },
+  "payload": {
+    "id": 653,
+    "name": "James Nguyen",
+    "address": "19123 Hill Gardens Apt. 319\nMichelleview, VT 31943",
+    "job": "Higher education lecturer",
+    "score": 0.9385496571762467
+  }
+}

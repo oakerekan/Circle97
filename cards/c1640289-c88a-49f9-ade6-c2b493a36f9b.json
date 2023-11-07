@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3174,
+    "created_by_name": "Harold Johnson",
+    "updated_at": "2023-10-23 23:20:16",
+    "created_at": "2023-10-23 23:20:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:16",
+    "event_id": "c1640289-c88a-49f9-ade6-c2b493a36f9b"
+  }
+}

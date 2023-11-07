@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 44,
+    "user_id": 645,
+    "created_by_name": "Kelsey Alvarez",
+    "updated_at": "2023-10-23 23:09:03",
+    "created_at": "2023-10-23 23:08:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:03",
+    "event_id": "52e16663-0c33-4bc8-943d-75dd2f09dbce"
+  }
+}

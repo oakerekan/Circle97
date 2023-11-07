@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 637,
+    "user_id": 410,
+    "created_by_name": "Brittney Henry",
+    "updated_at": "2023-10-23 23:11:27",
+    "created_at": "2023-10-23 23:11:09",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:27",
+    "event_id": "25409037-d445-49bd-99e8-a72c4900a18e"
+  }
+}

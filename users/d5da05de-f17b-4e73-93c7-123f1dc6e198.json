@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d5da05de-f17b-4e73-93c7-123f1dc6e198"
+  },
+  "payload": {
+    "id": 703,
+    "name": "Megan Daniels",
+    "address": "80303 Katherine Harbors Suite 926\nLake Thomaston, MA 68088",
+    "job": "Outdoor activities/education manager",
+    "score": 0.9969863375916429
+  }
+}

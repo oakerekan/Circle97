@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1423,
+    "user_id": 761,
+    "created_by_name": "Mark Vega",
+    "updated_at": "2023-10-23 23:17:14",
+    "created_at": "2023-10-23 23:13:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:14",
+    "event_id": "d0fb01a8-94c5-4ffd-b845-4ea26b2f5225"
+  }
+}

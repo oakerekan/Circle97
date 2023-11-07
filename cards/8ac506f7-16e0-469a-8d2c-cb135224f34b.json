@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1603,
+    "user_id": 543,
+    "created_by_name": "Christine Shaw",
+    "updated_at": "2023-10-23 23:15:48",
+    "created_at": "2023-10-23 23:14:36",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:48",
+    "event_id": "8ac506f7-16e0-469a-8d2c-cb135224f34b"
+  }
+}

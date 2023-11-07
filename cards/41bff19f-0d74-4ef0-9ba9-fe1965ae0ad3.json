@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 901,
+    "user_id": 241,
+    "created_by_name": "Shirley Cruz",
+    "updated_at": "2023-10-23 23:16:56",
+    "created_at": "2023-10-23 23:12:11",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:56",
+    "event_id": "41bff19f-0d74-4ef0-9ba9-fe1965ae0ad3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8b146ada-0f62-4428-82b4-29ba3fe283d6"
+  },
+  "payload": {
+    "id": 889,
+    "name": "Holly Wright",
+    "address": "4065 Cooper Plaza\nNorth Christopher, WA 42093",
+    "job": "Make",
+    "score": 0.9419388625604382
+  }
+}

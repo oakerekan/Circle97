@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0d4d19d1-8eeb-4e6e-b2f9-1c070cf80158"
+  },
+  "payload": {
+    "id": 76,
+    "name": "Christopher Hernandez",
+    "address": "92406 Tyler Groves\nMcfarlandview, UT 94275",
+    "job": "Banker",
+    "score": 0.4351577135076208
+  }
+}

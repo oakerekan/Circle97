@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1339,
+    "user_id": 21,
+    "created_by_name": "Debra Davis",
+    "updated_at": "2023-10-23 23:15:26",
+    "created_at": "2023-10-23 23:13:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:26",
+    "event_id": "12c68228-bc56-467b-ab2a-fb423600055d"
+  }
+}

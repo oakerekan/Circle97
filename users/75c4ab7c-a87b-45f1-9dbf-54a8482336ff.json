@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "75c4ab7c-a87b-45f1-9dbf-54a8482336ff"
+  },
+  "payload": {
+    "id": 299,
+    "name": "Jacob Gonzales",
+    "address": "09290 Daniels Manors\nLake Gwendolyn, WI 13395",
+    "job": "Chief Operating Officer",
+    "score": 0.3531193534977837
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "49db057a-a901-4624-a681-25d99808d0a8"
+  },
+  "payload": {
+    "id": 626,
+    "name": "Taylor Williams",
+    "address": "7305 Robinson Haven Apt. 217\nStevenland, AK 51347",
+    "job": "English as a foreign language teacher",
+    "score": 0.9285187548796661
+  }
+}

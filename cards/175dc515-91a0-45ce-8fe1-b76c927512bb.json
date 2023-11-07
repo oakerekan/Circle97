@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2860,
+    "user_id": 50,
+    "created_by_name": "Cynthia Oconnor",
+    "updated_at": "2023-10-23 23:19:08",
+    "created_at": "2023-10-23 23:19:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:08",
+    "event_id": "175dc515-91a0-45ce-8fe1-b76c927512bb"
+  }
+}

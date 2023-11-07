@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f26786ee-96a6-4aa5-84f4-a73098d0722f"
+  },
+  "payload": {
+    "id": 222,
+    "name": "Matthew Mckinney",
+    "address": "26925 Guerrero Mews\nLeside, DE 84994",
+    "job": "Commissioning editor",
+    "score": 0.825340938462519
+  }
+}

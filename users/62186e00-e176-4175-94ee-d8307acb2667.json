@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "62186e00-e176-4175-94ee-d8307acb2667"
+  },
+  "payload": {
+    "id": 236,
+    "name": "Dr. Sarah Evans",
+    "address": "18668 Greer Garden\nShelleymouth, PR 66341",
+    "job": "Newspaper journalist",
+    "score": 0.5458869511528799
+  }
+}

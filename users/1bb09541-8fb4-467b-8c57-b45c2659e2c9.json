@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1bb09541-8fb4-467b-8c57-b45c2659e2c9"
+  },
+  "payload": {
+    "id": 862,
+    "name": "Matthew Fields",
+    "address": "64650 Michael Creek Suite 646\nEast Karentown, WY 62352",
+    "job": "Clinical research associate",
+    "score": 0.12916579456700383
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1993,
+    "user_id": 251,
+    "created_by_name": "Brittany Williamson",
+    "updated_at": "2023-10-23 23:28:38",
+    "created_at": "2023-10-23 23:15:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:38",
+    "event_id": "6d0333d9-91b9-451a-b920-a3563408c17f"
+  }
+}

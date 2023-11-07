@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3756,
+    "user_id": 440,
+    "created_by_name": "Maxwell Clark",
+    "updated_at": "2023-10-23 23:22:22",
+    "created_at": "2023-10-23 23:22:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:22",
+    "event_id": "4ee3ffd9-5470-4670-b4cc-f269b298a93f"
+  }
+}

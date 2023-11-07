@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e9081f76-745f-4ad2-babc-fe75a1559daa"
+  },
+  "payload": {
+    "id": 637,
+    "name": "David Johnson",
+    "address": "9376 Anne Knoll\nJordanside, SD 91701",
+    "job": "Geneticist, molecular",
+    "score": 0.6475117746628078
+  }
+}

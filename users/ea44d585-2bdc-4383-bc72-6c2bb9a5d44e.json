@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ea44d585-2bdc-4383-bc72-6c2bb9a5d44e"
+  },
+  "payload": {
+    "id": 863,
+    "name": "Ann Mendoza",
+    "address": "PSC 6517, Box 6298\nAPO AP 73191",
+    "job": "Secondary school teacher",
+    "score": 0.49823938666033185
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dbd92056-bb04-4ba9-9624-edeaf61ea919"
+  },
+  "payload": {
+    "id": 786,
+    "name": "Joseph Lyons",
+    "address": "8992 Harris Rest\nRodriguezton, TN 62531",
+    "job": "International aid/development worker",
+    "score": 0.8743260524571266
+  }
+}

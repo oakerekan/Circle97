@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9212b2f7-59d2-4d22-a02f-6a5398d3170c"
+  },
+  "payload": {
+    "id": 511,
+    "name": "Dalton Short",
+    "address": "5387 Katherine Spring\nMyersmouth, VA 34222",
+    "job": "Herbalist",
+    "score": 0.1176516235927404
+  }
+}

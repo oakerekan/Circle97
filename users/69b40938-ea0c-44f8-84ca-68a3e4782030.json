@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "69b40938-ea0c-44f8-84ca-68a3e4782030"
+  },
+  "payload": {
+    "id": 163,
+    "name": "Matthew Watson",
+    "address": "13955 Martin Vista\nSmithburgh, WV 52430",
+    "job": "Arts development officer",
+    "score": 0.34676344351431143
+  }
+}

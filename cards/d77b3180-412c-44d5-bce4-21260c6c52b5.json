@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1779,
+    "user_id": 381,
+    "created_by_name": "Lisa Anthony",
+    "updated_at": "2023-10-23 23:15:14",
+    "created_at": "2023-10-23 23:15:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:14",
+    "event_id": "d77b3180-412c-44d5-bce4-21260c6c52b5"
+  }
+}

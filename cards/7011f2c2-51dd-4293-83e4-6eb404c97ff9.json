@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2028,
+    "user_id": 41,
+    "created_by_name": "Madeline Keith",
+    "updated_at": "2023-10-23 23:16:05",
+    "created_at": "2023-10-23 23:16:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:05",
+    "event_id": "7011f2c2-51dd-4293-83e4-6eb404c97ff9"
+  }
+}

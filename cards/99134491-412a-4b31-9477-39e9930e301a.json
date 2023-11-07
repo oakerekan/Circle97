@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1545,
+    "user_id": 454,
+    "created_by_name": "Miguel Taylor",
+    "updated_at": "2023-10-23 23:15:00",
+    "created_at": "2023-10-23 23:14:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:00",
+    "event_id": "99134491-412a-4b31-9477-39e9930e301a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "544410c3-590a-4567-944c-e79766f307ed"
+  },
+  "payload": {
+    "id": 781,
+    "name": "Brenda Rodriguez",
+    "address": "80711 Schaefer Trail\nGreerchester, NE 79505",
+    "job": "Information officer",
+    "score": 0.5014525973128091
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2931,
+    "user_id": 698,
+    "created_by_name": "Dale Lee",
+    "updated_at": "2023-10-23 23:19:25",
+    "created_at": "2023-10-23 23:19:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:25",
+    "event_id": "f90c7edc-675d-415b-84f1-b4f51bf27d7f"
+  }
+}

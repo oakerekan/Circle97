@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3867,
+    "user_id": 52,
+    "created_by_name": "Susan Pineda",
+    "updated_at": "2023-10-23 23:22:44",
+    "created_at": "2023-10-23 23:22:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:44",
+    "event_id": "c2b22ee4-1d4f-4904-a5c9-e6580aa4bdcd"
+  }
+}

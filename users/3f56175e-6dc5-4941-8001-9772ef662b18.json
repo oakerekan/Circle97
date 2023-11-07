@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3f56175e-6dc5-4941-8001-9772ef662b18"
+  },
+  "payload": {
+    "id": 164,
+    "name": "Tina Phillips",
+    "address": "380 Ross Locks\nMichelleview, MP 85197",
+    "job": "Police officer",
+    "score": 0.07593731934473003
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2684,
+    "user_id": 206,
+    "created_by_name": "Tom Lewis",
+    "updated_at": "2023-10-23 23:23:14",
+    "created_at": "2023-10-23 23:18:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:14",
+    "event_id": "63851105-2d3c-4263-9f7f-8500134acc3a"
+  }
+}

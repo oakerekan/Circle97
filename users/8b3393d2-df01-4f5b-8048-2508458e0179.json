@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8b3393d2-df01-4f5b-8048-2508458e0179"
+  },
+  "payload": {
+    "id": 542,
+    "name": "Elizabeth Lopez",
+    "address": "380 Heath Crossing\nSandovalhaven, WY 20180",
+    "job": "Software engineer",
+    "score": 0.543102517172871
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 746,
+    "user_id": 668,
+    "created_by_name": "Roy Wallace",
+    "updated_at": "2023-10-23 23:11:50",
+    "created_at": "2023-10-23 23:11:35",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:50",
+    "event_id": "873ca45d-c262-458f-ad0b-249c3cb02384"
+  }
+}

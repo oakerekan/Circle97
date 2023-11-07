@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3889,
+    "user_id": 667,
+    "created_by_name": "Amy Payne",
+    "updated_at": "2023-10-23 23:22:48",
+    "created_at": "2023-10-23 23:22:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:48",
+    "event_id": "6d5af117-8834-4f9b-96ae-b81693c739d0"
+  }
+}

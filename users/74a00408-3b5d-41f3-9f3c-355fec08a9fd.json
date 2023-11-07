@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "74a00408-3b5d-41f3-9f3c-355fec08a9fd"
+  },
+  "payload": {
+    "id": 701,
+    "name": "Matthew Cabrera",
+    "address": "723 Stacey Rest\nSouth Amandaview, WA 41458",
+    "job": "Advertising copywriter",
+    "score": 0.5685585785545306
+  }
+}

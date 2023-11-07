@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 845,
+    "user_id": 708,
+    "created_by_name": "Troy Phelps",
+    "updated_at": "2023-10-23 23:16:06",
+    "created_at": "2023-10-23 23:12:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:06",
+    "event_id": "3e977798-cb63-4f64-9b02-2ee401181649"
+  }
+}

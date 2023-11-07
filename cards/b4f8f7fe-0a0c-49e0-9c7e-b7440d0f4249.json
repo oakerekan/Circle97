@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2999,
+    "user_id": 355,
+    "created_by_name": "James Benitez",
+    "updated_at": "2023-10-23 23:26:17",
+    "created_at": "2023-10-23 23:19:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:17",
+    "event_id": "b4f8f7fe-0a0c-49e0-9c7e-b7440d0f4249"
+  }
+}

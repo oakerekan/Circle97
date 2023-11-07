@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1276,
+    "user_id": 940,
+    "created_by_name": "Alexandra Brown",
+    "updated_at": "2023-10-23 23:13:26",
+    "created_at": "2023-10-23 23:13:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:26",
+    "event_id": "ddad7abf-e5d5-49b4-8fdc-a34c499754ed"
+  }
+}

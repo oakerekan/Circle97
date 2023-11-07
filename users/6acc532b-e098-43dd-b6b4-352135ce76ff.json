@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6acc532b-e098-43dd-b6b4-352135ce76ff"
+  },
+  "payload": {
+    "id": 659,
+    "name": "Patrick Schwartz",
+    "address": "Unit 2838 Box 4727\nDPO AE 59538",
+    "job": "Engineer, automotive",
+    "score": 0.9145248152278617
+  }
+}

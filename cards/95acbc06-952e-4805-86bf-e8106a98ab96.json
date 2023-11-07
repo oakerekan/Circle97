@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1521,
+    "user_id": 32,
+    "created_by_name": "Scott Winters",
+    "updated_at": "2023-10-23 23:19:50",
+    "created_at": "2023-10-23 23:14:18",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:50",
+    "event_id": "95acbc06-952e-4805-86bf-e8106a98ab96"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fe077bdd-bd14-4480-b1fc-2a0bb36cfab5"
+  },
+  "payload": {
+    "id": 440,
+    "name": "Karen Douglas",
+    "address": "9134 Hamilton Park Apt. 376\nSouth Luis, NY 39668",
+    "job": "Physiological scientist",
+    "score": 0.3689311252930322
+  }
+}

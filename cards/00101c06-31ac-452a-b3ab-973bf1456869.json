@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 303,
+    "user_id": 235,
+    "created_by_name": "Victoria Thomas",
+    "updated_at": "2023-10-23 23:14:01",
+    "created_at": "2023-10-23 23:09:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:01",
+    "event_id": "00101c06-31ac-452a-b3ab-973bf1456869"
+  }
+}

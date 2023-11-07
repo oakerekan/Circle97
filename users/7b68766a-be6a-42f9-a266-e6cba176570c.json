@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7b68766a-be6a-42f9-a266-e6cba176570c"
+  },
+  "payload": {
+    "id": 991,
+    "name": "Meghan Leon",
+    "address": "74074 Coffey Canyon\nSouth Kimberlyfort, SC 35239",
+    "job": "Politician's assistant",
+    "score": 0.9717959682687792
+  }
+}

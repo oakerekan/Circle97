@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3184,
+    "user_id": 872,
+    "created_by_name": "Tina Gonzalez",
+    "updated_at": "2023-10-23 23:20:19",
+    "created_at": "2023-10-23 23:20:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:19",
+    "event_id": "e4b40cbf-7e8a-4bdf-a9c1-f324319ccf11"
+  }
+}

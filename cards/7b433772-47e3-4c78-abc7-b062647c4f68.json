@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 467,
+    "user_id": 341,
+    "created_by_name": "Jessica Farmer",
+    "updated_at": "2023-10-23 23:28:54",
+    "created_at": "2023-10-23 23:10:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:54",
+    "event_id": "7b433772-47e3-4c78-abc7-b062647c4f68"
+  }
+}

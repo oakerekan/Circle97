@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1710,
+    "created_by_name": "Brittany Ellis",
+    "updated_at": "2023-10-23 23:15:00",
+    "created_at": "2023-10-23 23:15:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:00",
+    "event_id": "3395d54d-b421-42c8-ac10-5d68a52189fb"
+  }
+}

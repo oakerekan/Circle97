@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4144,
+    "user_id": 9,
+    "created_by_name": "David Hill",
+    "updated_at": "2023-10-23 23:23:44",
+    "created_at": "2023-10-23 23:23:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:44",
+    "event_id": "2881b228-45d4-4522-934a-a1179cec7472"
+  }
+}

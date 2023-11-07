@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 306,
+    "user_id": 83,
+    "created_by_name": "Alison Drake",
+    "updated_at": "2023-10-23 23:14:29",
+    "created_at": "2023-10-23 23:09:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:29",
+    "event_id": "fd6df369-4d63-4879-abc4-952ad4453fc7"
+  }
+}

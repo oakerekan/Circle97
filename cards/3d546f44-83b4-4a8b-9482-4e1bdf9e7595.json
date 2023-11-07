@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4340,
+    "user_id": 627,
+    "created_by_name": "Benjamin Peters",
+    "updated_at": "2023-10-23 23:24:25",
+    "created_at": "2023-10-23 23:24:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:25",
+    "event_id": "3d546f44-83b4-4a8b-9482-4e1bdf9e7595"
+  }
+}

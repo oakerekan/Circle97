@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 377,
+    "user_id": 340,
+    "created_by_name": "Kayla Brown",
+    "updated_at": "2023-10-23 23:13:43",
+    "created_at": "2023-10-23 23:10:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:43",
+    "event_id": "714365ef-2fcc-48a5-9f31-afb3376a0e6c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2714,
+    "user_id": 168,
+    "created_by_name": "Daniel Wiggins",
+    "updated_at": "2023-10-23 23:29:34",
+    "created_at": "2023-10-23 23:18:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:34",
+    "event_id": "dcbe9469-3c6c-43cc-8511-14053751bd0c"
+  }
+}

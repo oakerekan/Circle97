@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3406,
+    "user_id": 422,
+    "created_by_name": "Mary Allen",
+    "updated_at": "2023-10-23 23:28:05",
+    "created_at": "2023-10-23 23:21:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:05",
+    "event_id": "3fe85985-6f7a-4641-a9f0-8d3f04931a9f"
+  }
+}

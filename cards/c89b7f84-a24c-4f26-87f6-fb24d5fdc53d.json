@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2380,
+    "user_id": 854,
+    "created_by_name": "Nicholas Barnes",
+    "updated_at": "2023-10-23 23:20:42",
+    "created_at": "2023-10-23 23:17:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:42",
+    "event_id": "c89b7f84-a24c-4f26-87f6-fb24d5fdc53d"
+  }
+}

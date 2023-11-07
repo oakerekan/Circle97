@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c748482b-5184-4347-ab69-81c07dc82ba4"
+  },
+  "payload": {
+    "id": 520,
+    "name": "Amanda Thomas",
+    "address": "PSC 1533, Box 8665\nAPO AP 33872",
+    "job": "Brewing technologist",
+    "score": 0.054615850196590876
+  }
+}

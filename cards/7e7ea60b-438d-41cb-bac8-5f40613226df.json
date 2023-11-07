@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1382,
+    "user_id": 806,
+    "created_by_name": "Taylor Peterson",
+    "updated_at": "2023-10-23 23:13:48",
+    "created_at": "2023-10-23 23:13:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:48",
+    "event_id": "7e7ea60b-438d-41cb-bac8-5f40613226df"
+  }
+}

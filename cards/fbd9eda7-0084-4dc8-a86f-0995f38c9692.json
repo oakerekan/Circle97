@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1089,
+    "user_id": 771,
+    "created_by_name": "Rachel Ortiz",
+    "updated_at": "2023-10-23 23:18:14",
+    "created_at": "2023-10-23 23:12:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:14",
+    "event_id": "fbd9eda7-0084-4dc8-a86f-0995f38c9692"
+  }
+}

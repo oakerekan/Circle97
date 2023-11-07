@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1243,
+    "user_id": 725,
+    "created_by_name": "Aaron Hill",
+    "updated_at": "2023-10-23 23:22:27",
+    "created_at": "2023-10-23 23:13:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:27",
+    "event_id": "af1a520d-09d5-4346-8525-59812f0dfbb5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3402,
+    "user_id": 254,
+    "created_by_name": "Robert Phelps",
+    "updated_at": "2023-10-23 23:21:07",
+    "created_at": "2023-10-23 23:21:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:07",
+    "event_id": "bd1f4bca-79af-49e5-a20c-aed4fa1cc9e9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d7651b25-5ba6-40d3-b9b0-53263ad39d67"
+  },
+  "payload": {
+    "id": 48,
+    "name": "Justin Jackson",
+    "address": "107 Susan Loop\nNorth Crystal, FM 06885",
+    "job": "Structural engineer",
+    "score": 0.4961754422564163
+  }
+}

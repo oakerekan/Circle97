@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4753,
+    "user_id": 144,
+    "created_by_name": "Jimmy Meyer",
+    "updated_at": "2023-10-23 23:25:46",
+    "created_at": "2023-10-23 23:25:46",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:46",
+    "event_id": "e19556a5-2e4c-4a9a-8eb6-54a628de29c4"
+  }
+}

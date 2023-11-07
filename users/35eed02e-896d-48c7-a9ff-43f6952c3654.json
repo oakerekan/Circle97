@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "35eed02e-896d-48c7-a9ff-43f6952c3654"
+  },
+  "payload": {
+    "id": 372,
+    "name": "Allen Allen",
+    "address": "27418 Smith Motorway\nVargastown, TN 93079",
+    "job": "Toxicologist",
+    "score": 0.11084596316425566
+  }
+}

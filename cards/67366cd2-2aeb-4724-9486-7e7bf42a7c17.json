@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3575,
+    "user_id": 605,
+    "created_by_name": "Jason Morrison",
+    "updated_at": "2023-10-23 23:21:45",
+    "created_at": "2023-10-23 23:21:45",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:45",
+    "event_id": "67366cd2-2aeb-4724-9486-7e7bf42a7c17"
+  }
+}

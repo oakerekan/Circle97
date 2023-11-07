@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f6328337-70cd-400c-a3d5-c6d638fc665b"
+  },
+  "payload": {
+    "id": 610,
+    "name": "Austin Guzman",
+    "address": "557 Marc Stream Apt. 493\nStaceymouth, PW 66978",
+    "job": "Technical author",
+    "score": 0.04650592440140222
+  }
+}

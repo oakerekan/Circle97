@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7708ef12-f405-4e9e-af48-4cc7ff370501"
+  },
+  "payload": {
+    "id": 110,
+    "name": "Gloria Smith",
+    "address": "9853 Anita Pine Apt. 220\nHuangberg, UT 17449",
+    "job": "Buyer, retail",
+    "score": 0.653532064081253
+  }
+}

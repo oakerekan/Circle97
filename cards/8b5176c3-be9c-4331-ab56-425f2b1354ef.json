@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 192,
+    "user_id": 267,
+    "created_by_name": "Jerry Perez",
+    "updated_at": "2023-10-23 23:11:52",
+    "created_at": "2023-10-23 23:09:34",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:52",
+    "event_id": "8b5176c3-be9c-4331-ab56-425f2b1354ef"
+  }
+}

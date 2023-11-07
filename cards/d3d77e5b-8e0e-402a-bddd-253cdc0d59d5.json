@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4547,
+    "user_id": 99,
+    "created_by_name": "Mark Fernandez",
+    "updated_at": "2023-10-23 23:25:06",
+    "created_at": "2023-10-23 23:25:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:06",
+    "event_id": "d3d77e5b-8e0e-402a-bddd-253cdc0d59d5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1522,
+    "user_id": 160,
+    "created_by_name": "Leah Jones",
+    "updated_at": "2023-10-23 23:14:18",
+    "created_at": "2023-10-23 23:14:18",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:18",
+    "event_id": "6a276d41-efc5-493b-93d0-d68a9a5008e8"
+  }
+}

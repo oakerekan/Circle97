@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b3c0c38e-ef3c-430a-9823-1029b82a1581"
+  },
+  "payload": {
+    "id": 554,
+    "name": "Wendy Edwards",
+    "address": "7048 Marilyn Green Apt. 000\nEast Stephen, MA 22658",
+    "job": "Embryologist, clinical",
+    "score": 0.11419511858813813
+  }
+}

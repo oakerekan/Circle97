@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3252,
+    "user_id": 35,
+    "created_by_name": "Larry Crawford",
+    "updated_at": "2023-10-23 23:20:35",
+    "created_at": "2023-10-23 23:20:35",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:35",
+    "event_id": "55ac1288-6dff-4381-a894-2dba3e8dd5af"
+  }
+}

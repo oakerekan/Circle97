@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4403,
+    "user_id": 943,
+    "created_by_name": "Christopher Greene",
+    "updated_at": "2023-10-23 23:24:37",
+    "created_at": "2023-10-23 23:24:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:37",
+    "event_id": "5d3807fb-8a5b-41b3-bb24-f049728e2c11"
+  }
+}

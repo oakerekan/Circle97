@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "963c9d4d-fa45-4b53-9e60-eadc87132b0e"
+  },
+  "payload": {
+    "id": 129,
+    "name": "Brandon Davis",
+    "address": "02174 Sandoval Greens Apt. 961\nMariashire, AS 28278",
+    "job": "Public librarian",
+    "score": 0.4363769791141864
+  }
+}

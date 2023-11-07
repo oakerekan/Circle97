@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ff025a36-0269-43d6-a187-3ade1339581e"
+  },
+  "payload": {
+    "id": 807,
+    "name": "Robert Mcgee",
+    "address": "USCGC Cunningham\nFPO AP 05756",
+    "job": "Research officer, political party",
+    "score": 0.28730631150174624
+  }
+}

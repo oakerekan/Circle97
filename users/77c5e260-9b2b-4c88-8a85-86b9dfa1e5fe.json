@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "77c5e260-9b2b-4c88-8a85-86b9dfa1e5fe"
+  },
+  "payload": {
+    "id": 654,
+    "name": "Andrew Mason",
+    "address": "8527 Jason Spurs\nLake Kyle, IN 55258",
+    "job": "Armed forces operational officer",
+    "score": 0.8200752230667268
+  }
+}

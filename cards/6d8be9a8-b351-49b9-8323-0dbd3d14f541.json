@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 50,
+    "user_id": 644,
+    "created_by_name": "Michelle Montoya",
+    "updated_at": "2023-10-23 23:10:49",
+    "created_at": "2023-10-23 23:09:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:49",
+    "event_id": "6d8be9a8-b351-49b9-8323-0dbd3d14f541"
+  }
+}

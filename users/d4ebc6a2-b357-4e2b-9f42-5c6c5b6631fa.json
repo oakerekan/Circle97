@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d4ebc6a2-b357-4e2b-9f42-5c6c5b6631fa"
+  },
+  "payload": {
+    "id": 319,
+    "name": "Johnathan Smith",
+    "address": "234 Gibson Cliff Apt. 051\nAlexatown, TX 75784",
+    "job": "Therapist, speech and language",
+    "score": 0.34896248660140317
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 710,
+    "user_id": 50,
+    "created_by_name": "Sarah Munoz",
+    "updated_at": "2023-10-23 23:11:26",
+    "created_at": "2023-10-23 23:11:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:26",
+    "event_id": "42e3d9bf-e936-4c04-9a77-107980b6451a"
+  }
+}

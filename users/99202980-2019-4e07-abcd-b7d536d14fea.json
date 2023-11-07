@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "99202980-2019-4e07-abcd-b7d536d14fea"
+  },
+  "payload": {
+    "id": 330,
+    "name": "Carol Malone",
+    "address": "5243 Chambers Squares Suite 498\nEast Brandonport, PW 49096",
+    "job": "Furniture designer",
+    "score": 0.06429228057313707
+  }
+}

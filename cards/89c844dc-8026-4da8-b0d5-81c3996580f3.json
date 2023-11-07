@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 85,
+    "user_id": 293,
+    "created_by_name": "Cindy Davis",
+    "updated_at": "2023-10-23 23:18:14",
+    "created_at": "2023-10-23 23:09:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:14",
+    "event_id": "89c844dc-8026-4da8-b0d5-81c3996580f3"
+  }
+}

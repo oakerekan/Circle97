@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1078,
+    "created_by_name": "Lisa Williams",
+    "updated_at": "2023-10-23 23:29:27",
+    "created_at": "2023-10-23 23:12:46",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:27",
+    "event_id": "cae3535a-ed5d-4aaf-81d2-a19eb3d2fde2"
+  }
+}

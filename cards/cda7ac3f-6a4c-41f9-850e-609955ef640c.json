@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4516,
+    "user_id": 267,
+    "created_by_name": "Daryl Davis",
+    "updated_at": "2023-10-23 23:25:01",
+    "created_at": "2023-10-23 23:25:01",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:01",
+    "event_id": "cda7ac3f-6a4c-41f9-850e-609955ef640c"
+  }
+}

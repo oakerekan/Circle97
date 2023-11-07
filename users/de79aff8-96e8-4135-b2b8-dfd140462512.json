@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "de79aff8-96e8-4135-b2b8-dfd140462512"
+  },
+  "payload": {
+    "id": 522,
+    "name": "Michael Bishop",
+    "address": "943 Cooke Fords Apt. 909\nMooremouth, OR 76237",
+    "job": "Surveyor, planning and development",
+    "score": 0.9725729811383202
+  }
+}

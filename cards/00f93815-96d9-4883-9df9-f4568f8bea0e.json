@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4844,
+    "user_id": 436,
+    "created_by_name": "Marcus Moody",
+    "updated_at": "2023-10-23 23:26:04",
+    "created_at": "2023-10-23 23:26:04",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:04",
+    "event_id": "00f93815-96d9-4883-9df9-f4568f8bea0e"
+  }
+}

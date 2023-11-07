@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 629,
+    "user_id": 185,
+    "created_by_name": "Bradley Little",
+    "updated_at": "2023-10-23 23:11:37",
+    "created_at": "2023-10-23 23:11:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:37",
+    "event_id": "c5e2816b-c034-48e5-9859-7c753cfaa407"
+  }
+}

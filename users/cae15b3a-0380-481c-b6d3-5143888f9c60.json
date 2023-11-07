@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cae15b3a-0380-481c-b6d3-5143888f9c60"
+  },
+  "payload": {
+    "id": 420,
+    "name": "Ashley Gibson",
+    "address": "76419 Zachary Green\nKnoxshire, NH 15809",
+    "job": "Writer",
+    "score": 0.5054388158348349
+  }
+}

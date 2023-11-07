@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 464,
+    "user_id": 201,
+    "created_by_name": "Daniel Jensen",
+    "updated_at": "2023-10-23 23:29:24",
+    "created_at": "2023-10-23 23:10:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:24",
+    "event_id": "8b2a847d-9ded-4d54-be24-476aef4463e8"
+  }
+}

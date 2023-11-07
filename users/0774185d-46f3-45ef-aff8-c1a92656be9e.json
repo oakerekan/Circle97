@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0774185d-46f3-45ef-aff8-c1a92656be9e"
+  },
+  "payload": {
+    "id": 406,
+    "name": "Wendy Morris",
+    "address": "5445 Ali Rest\nDouglasview, OH 69629",
+    "job": "Water quality scientist",
+    "score": 0.38918958646734336
+  }
+}

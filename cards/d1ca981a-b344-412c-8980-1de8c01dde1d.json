@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2561,
+    "created_by_name": "Aaron Maldonado",
+    "updated_at": "2023-10-23 23:20:37",
+    "created_at": "2023-10-23 23:18:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:37",
+    "event_id": "d1ca981a-b344-412c-8980-1de8c01dde1d"
+  }
+}

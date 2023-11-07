@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6be13dd9-45ae-4bb7-b14c-952fd0f404c1"
+  },
+  "payload": {
+    "id": 998,
+    "name": "Carol Garcia",
+    "address": "USCGC Taylor\nFPO AP 18966",
+    "job": "Programmer, applications",
+    "score": 0.35607286096422275
+  }
+}

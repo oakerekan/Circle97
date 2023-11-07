@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c9fce109-550d-4b51-a4bd-a11988eda4f9"
+  },
+  "payload": {
+    "id": 83,
+    "name": "Miss Olivia Evans",
+    "address": "7207 David Cliff\nJohnsonhaven, SC 47607",
+    "job": "Public relations account executive",
+    "score": 0.09316704551010435
+  }
+}

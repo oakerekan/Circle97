@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 325,
+    "user_id": 60,
+    "created_by_name": "Vanessa Stout",
+    "updated_at": "2023-10-23 23:15:39",
+    "created_at": "2023-10-23 23:10:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:39",
+    "event_id": "b77c5697-b8c0-4ac5-9d67-9763a7005e7d"
+  }
+}

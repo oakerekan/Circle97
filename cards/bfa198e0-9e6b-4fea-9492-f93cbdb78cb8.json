@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 753,
+    "user_id": 438,
+    "created_by_name": "Thomas Woodard",
+    "updated_at": "2023-10-23 23:11:37",
+    "created_at": "2023-10-23 23:11:37",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:37",
+    "event_id": "bfa198e0-9e6b-4fea-9492-f93cbdb78cb8"
+  }
+}

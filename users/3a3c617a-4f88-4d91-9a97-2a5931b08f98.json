@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3a3c617a-4f88-4d91-9a97-2a5931b08f98"
+  },
+  "payload": {
+    "id": 283,
+    "name": "Garrett Williams",
+    "address": "6009 Patricia Way\nByrdside, UT 83534",
+    "job": "Community arts worker",
+    "score": 0.6355327472918086
+  }
+}

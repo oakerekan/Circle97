@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5705,
+    "user_id": 75,
+    "created_by_name": "Brian Morgan",
+    "updated_at": "2023-10-23 23:29:24",
+    "created_at": "2023-10-23 23:29:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:24",
+    "event_id": "a7377183-e8a5-43e3-9e06-0630cbc3ddd9"
+  }
+}

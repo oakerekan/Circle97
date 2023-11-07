@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4037,
+    "user_id": 687,
+    "created_by_name": "Seth Jones",
+    "updated_at": "2023-10-23 23:23:19",
+    "created_at": "2023-10-23 23:23:19",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:19",
+    "event_id": "5f7fbc3a-bf9a-4c42-b376-051850823afe"
+  }
+}

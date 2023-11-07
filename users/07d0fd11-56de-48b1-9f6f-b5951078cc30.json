@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "07d0fd11-56de-48b1-9f6f-b5951078cc30"
+  },
+  "payload": {
+    "id": 859,
+    "name": "Sandra Trevino",
+    "address": "869 Rebecca Meadows\nMarytown, TX 16278",
+    "job": "Financial controller",
+    "score": 0.551837200533823
+  }
+}

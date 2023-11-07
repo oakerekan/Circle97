@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 755,
+    "user_id": 429,
+    "created_by_name": "Kelsey Bell",
+    "updated_at": "2023-10-23 23:28:13",
+    "created_at": "2023-10-23 23:11:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:13",
+    "event_id": "827dfab9-bc4e-4d6c-95e0-f9878c322b73"
+  }
+}

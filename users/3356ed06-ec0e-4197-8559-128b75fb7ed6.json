@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3356ed06-ec0e-4197-8559-128b75fb7ed6"
+  },
+  "payload": {
+    "id": 929,
+    "name": "Jennifer Carson",
+    "address": "06208 Michael Villages\nRichardborough, PA 47452",
+    "job": "Systems developer",
+    "score": 0.1778894774809915
+  }
+}

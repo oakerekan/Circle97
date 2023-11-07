@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "df330e99-3ad9-42d9-ba80-b55f647449b3"
+  },
+  "payload": {
+    "id": 617,
+    "name": "Cameron Howell",
+    "address": "113 Mitchell Ports\nWest Charleshaven, FL 91381",
+    "job": "Contracting civil engineer",
+    "score": 0.6304163821506602
+  }
+}

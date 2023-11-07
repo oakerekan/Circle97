@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "12b4128a-d3fd-4ac8-a61e-8852c04a6f73"
+  },
+  "payload": {
+    "id": 358,
+    "name": "Beth Jones",
+    "address": "0809 Charles Rapids\nSuttonburgh, IA 17728",
+    "job": "Fast food restaurant manager",
+    "score": 0.8945844891599429
+  }
+}

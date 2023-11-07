@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4ae6bea4-2bca-4fa7-aa9d-fcdb7a0e5979"
+  },
+  "payload": {
+    "id": 632,
+    "name": "Linda Ortiz",
+    "address": "024 Ward Estates Apt. 695\nLake Yvette, WI 14576",
+    "job": "Chief Executive Officer",
+    "score": 0.2461636392416212
+  }
+}

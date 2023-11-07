@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3907,
+    "created_by_name": "Heather Fox",
+    "updated_at": "2023-10-23 23:22:54",
+    "created_at": "2023-10-23 23:22:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:54",
+    "event_id": "ce11560f-9cc5-4ea0-b089-69e0df6f923c"
+  }
+}

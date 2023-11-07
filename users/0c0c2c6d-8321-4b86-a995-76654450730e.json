@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0c0c2c6d-8321-4b86-a995-76654450730e"
+  },
+  "payload": {
+    "id": 792,
+    "name": "Melissa Williamson",
+    "address": "6805 Morales Estates Apt. 306\nNorth Ryan, ME 35881",
+    "job": "Theatre stage manager",
+    "score": 0.12190034982578146
+  }
+}

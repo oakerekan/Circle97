@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "140da828-2023-49e3-abdd-9d709b96c73c"
+  },
+  "payload": {
+    "id": 619,
+    "name": "Karina Leonard",
+    "address": "181 Christine Lake\nPort Ryanfort, OK 97030",
+    "job": "Public relations officer",
+    "score": 0.26252375263737215
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a26d80c2-35e4-4798-a412-c536c976597a"
+  },
+  "payload": {
+    "id": 708,
+    "name": "Lydia Williams",
+    "address": "8467 Barbara Track Apt. 872\nLake Bradley, GA 63360",
+    "job": "Personal assistant",
+    "score": 0.7393206313445098
+  }
+}

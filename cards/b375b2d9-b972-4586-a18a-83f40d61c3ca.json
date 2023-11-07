@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5059,
+    "user_id": 769,
+    "created_by_name": "Amanda Velasquez",
+    "updated_at": "2023-10-23 23:26:51",
+    "created_at": "2023-10-23 23:26:51",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:51",
+    "event_id": "b375b2d9-b972-4586-a18a-83f40d61c3ca"
+  }
+}

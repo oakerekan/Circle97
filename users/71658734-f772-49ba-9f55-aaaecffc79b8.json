@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "71658734-f772-49ba-9f55-aaaecffc79b8"
+  },
+  "payload": {
+    "id": 897,
+    "name": "Mary Powell",
+    "address": "15986 Davis Junction Suite 567\nLake Jamesland, IN 77047",
+    "job": "Market researcher",
+    "score": 0.5271996435720655
+  }
+}

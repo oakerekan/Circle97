@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dbbe33d8-eae0-4da9-88b0-c28e3296478f"
+  },
+  "payload": {
+    "id": 199,
+    "name": "Julie Ali",
+    "address": "31276 Randall Turnpike Suite 028\nSmithborough, IN 96260",
+    "job": "Purchasing manager",
+    "score": 0.5113603979346368
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6b3b89b2-898a-413e-92df-6ef068c95956"
+  },
+  "payload": {
+    "id": 683,
+    "name": "Chelsea Hernandez",
+    "address": "6912 Wells Course Suite 673\nPort Jeffrey, AS 21517",
+    "job": "Cabin crew",
+    "score": 0.7559248912012335
+  }
+}

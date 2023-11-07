@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2871,
+    "user_id": 765,
+    "created_by_name": "Patricia Gibbs",
+    "updated_at": "2023-10-23 23:19:11",
+    "created_at": "2023-10-23 23:19:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:11",
+    "event_id": "42465e85-e730-45ea-abc7-1c5791ce91c0"
+  }
+}

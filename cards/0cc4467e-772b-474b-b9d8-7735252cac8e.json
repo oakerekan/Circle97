@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 919,
+    "user_id": 830,
+    "created_by_name": "Linda Lara",
+    "updated_at": "2023-10-23 23:27:46",
+    "created_at": "2023-10-23 23:12:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:46",
+    "event_id": "0cc4467e-772b-474b-b9d8-7735252cac8e"
+  }
+}

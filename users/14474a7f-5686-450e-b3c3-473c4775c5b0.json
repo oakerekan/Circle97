@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "14474a7f-5686-450e-b3c3-473c4775c5b0"
+  },
+  "payload": {
+    "id": 37,
+    "name": "Eduardo Wise",
+    "address": "69601 Wright Port Suite 604\nMatthewville, AS 33292",
+    "job": "Broadcast engineer",
+    "score": 0.7665614049801591
+  }
+}

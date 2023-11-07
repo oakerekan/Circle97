@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8eca7eb7-2055-414c-8ac9-6872fb6350b9"
+  },
+  "payload": {
+    "id": 263,
+    "name": "Adrian Morgan",
+    "address": "Unit 0902 Box 6377\nDPO AP 87514",
+    "job": "Leisure centre manager",
+    "score": 0.5238469528360918
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "02398fed-b292-4f4e-854a-262386aff918"
+  },
+  "payload": {
+    "id": 350,
+    "name": "Kevin Hale",
+    "address": "845 Smith Meadows Apt. 794\nNorth Christopherburgh, MI 10285",
+    "job": "Forest/woodland manager",
+    "score": 0.2928820865026851
+  }
+}

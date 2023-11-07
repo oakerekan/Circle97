@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1503,
+    "user_id": 679,
+    "created_by_name": "Timothy Munoz",
+    "updated_at": "2023-10-23 23:14:14",
+    "created_at": "2023-10-23 23:14:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:14",
+    "event_id": "c658e624-c0ee-4456-a3e9-78bcfdc83b02"
+  }
+}

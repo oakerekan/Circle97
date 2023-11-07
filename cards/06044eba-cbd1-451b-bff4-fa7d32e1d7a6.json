@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2165,
+    "user_id": 656,
+    "created_by_name": "Gregory Blake",
+    "updated_at": "2023-10-23 23:16:38",
+    "created_at": "2023-10-23 23:16:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:38",
+    "event_id": "06044eba-cbd1-451b-bff4-fa7d32e1d7a6"
+  }
+}

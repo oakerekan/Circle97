@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "56f2a9a9-ede2-44df-8fb9-28cb19e4a542"
+  },
+  "payload": {
+    "id": 513,
+    "name": "Darren King",
+    "address": "91843 Houston Highway\nLake Luisberg, HI 14606",
+    "job": "Librarian, public",
+    "score": 0.08416774928169812
+  }
+}

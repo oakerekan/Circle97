@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3271,
+    "user_id": 463,
+    "created_by_name": "William Medina",
+    "updated_at": "2023-10-23 23:20:39",
+    "created_at": "2023-10-23 23:20:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:39",
+    "event_id": "400d4cc0-af96-4e57-8fc1-621e0b204bca"
+  }
+}

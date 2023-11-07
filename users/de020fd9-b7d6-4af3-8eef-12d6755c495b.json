@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "de020fd9-b7d6-4af3-8eef-12d6755c495b"
+  },
+  "payload": {
+    "id": 73,
+    "name": "Nancy Hernandez",
+    "address": "356 Brown Island\nRowlandland, AK 26428",
+    "job": "Forensic scientist",
+    "score": 0.6988976192582756
+  }
+}
