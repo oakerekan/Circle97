@@ -19,7 +19,7 @@ Using drawsql.app draw the schema of the new tables formed and save
 
 Analyze data obtained using dbeaver and import the two csv files into dbeaver.
 
-decide the further metrics to work on
+decide the further metrics to work on. Working on analysis with SQL, seeing values that tends to shows the scores based on various values. 
 **********************************************************************************************************************
 
 write a proper presentation on the work so far
