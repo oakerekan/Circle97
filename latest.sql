@@ -10,12 +10,59 @@ select * from events.users;
 -- each row contains information about the bank users. 
 
 
+-- Check for missing values in Users table
+SELECT COUNT(*) AS missing_count
+FROM events.users
+WHERE id IS NULL OR name IS NULL OR address IS NULL OR job IS NULL OR score IS NULL;
+
+-- Check for missing values in Cards table
+SELECT COUNT(*) AS missing_count
+FROM events.cards
+WHERE id IS NULL OR user_id IS NULL OR created_by_name IS NULL OR created_at IS NULL OR active IS NULL;
+
+
+-- Check for duplicate users
+SELECT id, COUNT(*) AS users_duplicate
+FROM events.users
+GROUP BY id
+HAVING COUNT(*) > 1;
+
+-- Check for duplicate cards
+SELECT id, COUNT(*) AS cards_duplicates
+FROM events.cards
+GROUP BY id
+HAVING COUNT(*) > 1;
+
+
+
 -- check if the event_at, event_id from both table are similar, and join both table on the users.id and cards.user_id
 select u.event_id u_event_id, c.event_id c_event_id
 from events.users u 
 join events.cards c 
 on c.user_id = u.id;
+
 -- so basically the cards and users data contain different event_id 
+
+
+-- Check for users without corresponding cards
+SELECT u.id AS user_id, c.user_id c_user_id
+--select u.event_id u_event_id, c.event_id c_event_id
+FROM events.users u
+LEFT JOIN events.cards c ON u.id = c.user_id
+WHERE c.user_id IS NULL;
+
+
+
+--user scores distribution
+SELECT COUNT(*) AS score_count, AVG(score) AS avg_score, MIN(score) AS min_score, MAX(score) AS max_score
+FROM events.users
+WHERE score IS NOT NULL;
+
+
+-- Identify users with unusually high or low scores
+select id, name, score
+FROM events.users
+WHERE score > 0.998 OR score < 0.0008;
 
 
 --The top 5 users with the highest score
