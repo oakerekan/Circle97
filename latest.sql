@@ -36,7 +36,7 @@ HAVING COUNT(*) > 1;
 
 
 -- check if the event_at, event_id from both table are similar, and join both table on the users.id and cards.user_id
-select u.event_id u_event_id, c.event_id c_event_id
+select u.id, u.event_id u_event_id, c.event_id c_event_id
 from events.users u 
 join events.cards c 
 on c.user_id = u.id;
